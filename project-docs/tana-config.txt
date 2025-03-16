@@ -1,0 +1,281 @@
+# Tana Super Tag Definitions for Book Project
+# (Complementing existing Zettelkasten structure)
+
+# These Super Tags are specifically for content creation and project management
+# rather than note-taking, and are designed to work alongside your existing
+# Zettelkasten system (#source, #book, #quote, #claim, #evidence, #question)
+
+## BookProject Super Tag
+# For managing the overall MAGA Christianism book project
+name: BookProject
+icon: 📚
+properties:
+  - name: title
+    type: text
+    required: true
+  
+  - name: subtitle
+    type: text
+  
+  - name: status
+    type: select
+    options:
+      - Planning
+      - InProgress
+      - Revising
+      - Finalizing
+    required: true
+  
+  - name: description
+    type: text
+    multiline: true
+  
+  - name: targetAudience
+    type: text
+  
+  - name: marketingDescription
+    type: text
+    multiline: true
+  
+  - name: publishPlatforms
+    type: multi-select
+    options:
+      - Amazon
+      - Substack
+      - Apple Books
+      - Kobo
+
+## BookChapter Super Tag
+# For managing individual chapters in the book
+name: BookChapter
+icon: 📑
+properties:
+  - name: title
+    type: text
+    required: true
+  
+  - name: number
+    type: number
+    required: true
+  
+  - name: status
+    type: select
+    options:
+      - Outline
+      - Draft
+      - Review
+      - Final
+    required: true
+  
+  - name: wordCount
+    type: number
+  
+  - name: targetWordCount
+    type: number
+  
+  - name: keyPoints
+    type: text
+    multiline: true
+  
+  - name: part
+    type: select
+    options:
+      - Part I
+      - Part II
+      - Part III
+      - Part IV
+    required: true
+  
+  - name: publishedOnSubstack
+    type: date
+  
+  - name: draftCompletedDate
+    type: date
+  
+  - name: relatedNotes
+    type: reference
+    isArray: true
+    description: "Link to your existing Zettelkasten notes"
+
+## ChapterSection Super Tag
+# For managing sections within chapters
+name: ChapterSection
+icon: 📄
+properties:
+  - name: title
+    type: text
+    required: true
+  
+  - name: status
+    type: select
+    options:
+      - Outline
+      - Draft
+      - Review
+      - Final
+    required: true
+  
+  - name: wordCount
+    type: number
+  
+  - name: targetWordCount
+    type: number
+  
+  - name: keyPoints
+    type: text
+    multiline: true
+  
+  - name: relatedSources
+    type: reference
+    referencedTags:
+      - source
+    isArray: true
+    description: "Link to existing #source nodes"
+  
+  - name: relatedNotes
+    type: reference
+    isArray: true
+    description: "Link to your existing Zettelkasten notes"
+
+## ContentElement Super Tag
+# For tracking specific elements to include in the book
+name: ContentElement
+icon: 🧩
+properties:
+  - name: elementType
+    type: select
+    options:
+      - Argument
+      - Example
+      - Illustration
+      - CaseStudy
+      - Definition
+    required: true
+  
+  - name: description
+    type: text
+    multiline: true
+    required: true
+  
+  - name: relatedQuotes
+    type: reference
+    referencedTags:
+      - quote
+    isArray: true
+    description: "Link to existing #quote nodes"
+  
+  - name: relatedClaims
+    type: reference
+    referencedTags:
+      - claim
+    isArray: true
+    description: "Link to existing #claim nodes"
+  
+  - name: relatedEvidence
+    type: reference
+    referencedTags:
+      - evidence
+    isArray: true
+    description: "Link to existing #evidence nodes"
+  
+  - name: category
+    type: multi-select
+    options:
+      - Primitive Biblicism
+      - Practical Atheism
+      - Binary Apocalypticism
+      - Theological Foundations
+
+## PublishingTask Super Tag
+# For tracking book publishing tasks
+name: PublishingTask
+icon: 🚀
+properties:
+  - name: description
+    type: text
+    required: true
+  
+  - name: status
+    type: select
+    options:
+      - Not Started
+      - In Progress
+      - Waiting
+      - Completed
+    required: true
+  
+  - name: dueDate
+    type: date
+  
+  - name: platform
+    type: select
+    options:
+      - Substack
+      - Amazon
+      - Apple Books
+      - Kobo
+      - General
+    required: true
+  
+  - name: priority
+    type: select
+    options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+    required: true
+  
+  - name: relatedTo
+    type: reference
+    referencedTags:
+      - BookChapter
+      - ChapterSection
+    isArray: true
+  
+  - name: thingsURL
+    type: text
+    description: "URL to the related task in Things 3"
+
+## EditingNote Super Tag
+# For tracking editorial comments and revisions
+name: EditingNote
+icon: ✏️
+properties:
+  - name: comment
+    type: text
+    multiline: true
+    required: true
+  
+  - name: type
+    type: select
+    options:
+      - Content
+      - Structure
+      - Style
+      - Citation
+      - Factual
+      - Theological
+    required: true
+  
+  - name: status
+    type: select
+    options:
+      - Open
+      - Addressed
+      - Resolved
+      - Deferred
+    required: true
+  
+  - name: createdDate
+    type: date
+  
+  - name: resolvedDate
+    type: date
+  
+  - name: relatedTo
+    type: reference
+    referencedTags:
+      - BookChapter
+      - ChapterSection
+    isArray: true

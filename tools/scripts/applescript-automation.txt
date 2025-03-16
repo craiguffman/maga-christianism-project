@@ -1,0 +1,247 @@
+-- Things 3 Integration Scripts for Book Publishing Workflow
+
+-- 1. Extract TODOs from Claude Conversations
+-- Save this script and run after copying text from Claude
+on extractClaudeTodos()
+    set clipboardContent to the clipboard
+    set todosList to paragraphs of clipboardContent
+    
+    tell application "Things3"
+        repeat with todoItem in todosList
+            if todoItem contains "TODO:" then
+                set todoText to text 6 thru -1 of todoItem
+                make new to do with properties {name:todoText, notes:"From Claude conversation", tag names:{"claude"}}
+            end if
+        end repeat
+    end tell
+end extractClaudeTodos
+
+-- 2. Create Chapter Task from VS Code
+-- Call this from Terminal with: osascript thisScript.scpt "Chapter Title" "2023-12-31"
+on run {chapterTitle, dueDate}
+    tell application "Things3"
+        set dueDateObj to date dueDate
+        set newToDo to make new to do with properties {name:"Write " & chapterTitle, due date:dueDateObj}
+        
+        -- Find the Book project
+        set bookProject to project "MAGA Christianism Book" of area "Book Writing"
+        set project of newToDo to bookProject
+        
+        -- Add appropriate tags
+        set tag names of newToDo to {"writing"}
+        
+        -- Add checklist items
+        tell newToDo
+            make new checklist item with properties {name:"Research sources"}
+            make new checklist item with properties {name:"Create outline in Tana"}
+            make new checklist item with properties {name:"Draft in VS Code"}
+            make new checklist item with properties {name:"Commit to GitHub"}
+            make new checklist item with properties {name:"Import to Scrivener"}
+        end tell
+    end tell
+    
+    return "Task created for " & chapterTitle
+end run
+
+-- 3. Create Tasks from Git Commits
+-- Save as a separate script to be called from git hooks
+on createTaskFromGitCommit(commitMsg)
+    tell application "Things3"
+        set newToDo to make new to do with properties {name:"Review: " & commitMsg, notes:"Recent commit to review"}
+        set tag names of newToDo to {"github", "writing"}
+    end tell
+end createTaskFromGitCommit
+
+-- 4. Create Tasks from Tana Export
+-- This script takes a tab-delimited text file exported from Tana with tasks
+on importTasksFromTana(filePath)
+    -- Read the file
+    set tasksFile to (open for access file filePath)
+    set tasksContent to (read tasksFile)
+    close access tasksFile
+    
+    -- Split into lines
+    set taskLines to paragraphs of tasksContent
+    
+    tell application "Things3"
+        repeat with taskLine in taskLines
+            -- Parse task line (format: Title\tStatus\tDueDate\tTags)
+            set taskParts to my splitString(taskLine, tab)
+            
+            if (count of taskParts) ≥ 3 then
+                set taskTitle to item 1 of taskParts
+                set taskStatus to item 2 of taskParts
+                set taskDueDate to item 3 of taskParts
+                
+                -- Create the task
+                set newTask to make new to do with properties {name:taskTitle}
+                
+                -- Set due date if valid
+                if taskDueDate is not "" then
+                    try
+                        set due date of newTask to date taskDueDate
+                    end try
+                end if
+                
+                -- Add tana tag to track origin
+                set tag names of newTask to {"tana"}
+                
+                -- Set to completed if status is "Completed"
+                if taskStatus is "Completed" then
+                    set status of newTask to completed
+                end if
+            end if
+        end repeat
+    end tell
+end importTasksFromTana
+
+-- Helper function to split string
+on splitString(theString, theDelimiter)
+    set oldDelimiters to AppleScript's text item delimiters
+    set AppleScript's text item delimiters to theDelimiter
+    set theArray to every text item of theString
+    set AppleScript's text item delimiters to oldDelimiters
+    return theArray
+end splitString
+
+-- 5. Create Publishing Task for Substack
+on createSubstackTask(chapterTitle, publishDate)
+    tell application "Things3"
+        set pubDateObj to date publishDate
+        
+        -- Create main task
+        set newToDo to make new to do with properties {name:"Publish to Substack: " & chapterTitle, due date:pubDateObj}
+        
+        -- Assign to publishing area
+        set project of newToDo to project "Substack Publication" of area "Publishing"
+        
+        -- Add publishing tags
+        set tag names of newToDo to {"substack", "publishing"}
+        
+        -- Add checklist of publishing steps
+        tell newToDo
+            make new checklist item with properties {name:"Final content review"}
+            make new checklist item with properties {name:"Export from Scrivener with HTML preset"}
+            make new checklist item with properties {name:"Prepare images"}
+            make new checklist item with properties {name:"Format in Substack editor"}
+            make new checklist item with properties {name:"Add SEO metadata"}
+            make new checklist item with properties {name:"Schedule publication"}
+            make new checklist item with properties {name:"Prepare social media promotion"}
+        end tell
+    end tell
+    
+    return "Substack publishing task created for " & chapterTitle
+end createSubstackTask
+
+-- 6. Create Complete KDP Publication Project
+on setupKDPProject(bookTitle, targetPublishDate)
+    tell application "Things3"
+        -- Create main project
+        set kdpProject to make new project with properties {name:"Publish " & bookTitle & " on KDP"}
+        
+        -- Set area and tags
+        set area of kdpProject to area "Publishing"
+        set tag names of kdpProject to {"kdp"}
+        
+        -- Calculate dates
+        set pubDateObj to date targetPublishDate
+        set finalDraftDate to pubDateObj - (30 * days)
+        set coverDate to pubDateObj - (21 * days)
+        set formattingDate to pubDateObj - (14 * days)
+        set uploadDate to pubDateObj - (7 * days)
+        
+        -- Add sequential tasks
+        tell kdpProject
+            -- Phase 1: Preparation
+            make new heading with properties {name:"Preparation"}
+            
+            make new to do with properties {name:"Finalize manuscript", due date:finalDraftDate}
+            make new to do with properties {name:"Complete final edit", due date:finalDraftDate + (3 * days)}
+            make new to do with properties {name:"Create book description", due date:finalDraftDate + (5 * days)}
+            
+            -- Phase 2: Cover and Formatting
+            make new heading with properties {name:"Cover & Formatting"}
+            
+            make new to do with properties {name:"Finalize book cover", due date:coverDate}
+            make new to do with properties {name:"Format for Kindle", due date:formattingDate}
+            make new to do with properties {name:"Prepare paperback formatting (if applicable)", due date:formattingDate + (2 * days)}
+            
+            -- Phase 3: Upload and Testing
+            make new heading with properties {name:"Upload & Testing"}
+            
+            make new to do with properties {name:"Upload to KDP", due date:uploadDate}
+            make new to do with properties {name:"Check preview on Kindle Previewer", due date:uploadDate + (1 * days)}
+            make new to do with properties {name:"Set pricing and royalties", due date:uploadDate + (2 * days)}
+            
+            -- Phase 4: Launch
+            make new heading with properties {name:"Launch"}
+            
+            make new to do with properties {name:"Final review before publishing", due date:pubDateObj - (1 * days)}
+            make new to do with properties {name:"Publish book", due date:pubDateObj}
+            make new to do with properties {name:"Announce on social media", due date:pubDateObj}
+            make new to do with properties {name:"Submit to book promotion sites", due date:pubDateObj + (1 * days)}
+        end tell
+    end tell
+    
+    return "KDP project created for " & bookTitle
+end setupKDPProject
+
+-- 7. Quick Get Tasks from VS Code
+-- This script can be called from VS Code to quickly add tasks based on the current file
+on createTasksFromVSCode(filePath)
+    -- Extract chapter title from file path
+    set fileName to last text item of (my splitString(filePath, "/"))
+    set chapterName to text 1 thru -4 of fileName -- Remove .md extension
+    
+    tell application "Things3"
+        -- Create editing task
+        set editTask to make new to do with properties {name:"Edit " & chapterName}
+        set tag names of editTask to {"editing", "vscode"}
+        
+        -- Create review task
+        set reviewTask to make new to do with properties {name:"Technical review for " & chapterName}
+        set tag names of reviewTask to {"editing", "technical"}
+        
+        return "Created tasks for " & chapterName
+    end tell
+end createTasksFromVSCode
+
+-- 8. Weekly Progress Report
+-- Run this script to get a summary of completed book tasks
+on generateProgressReport()
+    tell application "Things3"
+        -- Get completed tasks from the past week
+        set oneWeekAgo to (current date) - (7 * days)
+        set completedTasks to to dos of project "MAGA Christianism Book" whose completion date ≥ oneWeekAgo and status is completed
+        
+        set reportText to "Weekly Book Progress Report" & return & "-------------------------" & return
+        set reportText to reportText & "Completed in the last 7 days:" & return & return
+        
+        set totalWordCount to 0
+        
+        repeat with aTask in completedTasks
+            set taskName to name of aTask
+            set reportText to reportText & "✓ " & taskName & return
+            
+            -- Extract word count if present in notes
+            set taskNotes to notes of aTask
+            if taskNotes contains "Word count:" then
+                try
+                    set wordCountText to paragraph 1 of taskNotes
+                    set wordCountNum to text ((offset of ":" in wordCountText) + 1) thru -1 of wordCountText
+                    set wordCountNum to wordCountNum as number
+                    set totalWordCount to totalWordCount + wordCountNum
+                end try
+            end if
+        end repeat
+        
+        set reportText to reportText & return & "Total completed tasks: " & (count of completedTasks) & return
+        
+        if totalWordCount > 0 then
+            set reportText to reportText & "Estimated word count: " & totalWordCount & return
+        end if
+        
+        -- Return the report
+        return reportText
+    end tell
+end generateProgressReport
