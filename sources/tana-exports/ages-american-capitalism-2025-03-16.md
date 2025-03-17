@@ -1,0 +1,445 @@
+- Ages of American Capitalism: A History of the United States | 📖 Reading #Inspectional_Reading
+  - **Full Title**: [Ages of American Capitalism: A History of the United States | 📖 Reading](https://app.tana.inc?nodeid=zsgYfqYdjjjS)
+  - **Citation key**: levy2021ages
+  - **Atomic Description**: Levy created "a single-volume history of the United States" that traces our "economic life" from colonial settlement to the Great Recession by focusing on four ages: Commerce, Capital, Control, and Chaos. He describes our economic life as driven by "a never-ending conflict between the short-term propensity to hoard and the long-term ability and inducement to invest" capital, a conflict that explains our "periods of long-term economic development and... repeating booms and busts."
+  - **Structural Order**: 
+    - Introduction
+      - Intro.1 - Capitalism, a Definition
+        - Levy notes that [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5) is a contested term. He introduces key concepts, like his distinctive definition of [Capital](https://app.tana.inc?nodeid=wqt4TUEiTkYH) . He introduces three theses:
+          - [Thesis #1: Rather than a physical factor of production, a thing, capital is a process. Specifically, capital is the process through which a legal asset is invested with pecuniary value, in light of its capacity to yield a future pecuniary profit.](https://app.tana.inc?nodeid=hPDtSBreedIW)
+      - Intro.2 - The Profit Motive, Key But Not Enough
+        - Levy makes the huge point that the Rational Man model I learned is a "common misconception."
+        - [one common misconception is that capital is only a factor of production, then another is the belief in the purely rational psychology of all economic agents, including capitalists. Here the general picture is of capitalists who, like great calculating machines, are always sufficiently motivated to rationally invest their capital in pursuit of the highest possible pecuniary return, or profit. Economic efficiency results.](https://app.tana.inc?nodeid=FITT3VzBZOkw)
+        - [the working assumption that even the greatest capitalists of all time have always been purely rationally motivated to maximize their profits at all costs and against all other considerations simply does not hold up on historical scrutiny. The ideological belief that a capitalist economy is governed by a rational economic calculus intrinsic to our natures and dedicated to the pursuit of moneymaking is so deep-seated in our culture that it can be difficult to shake.](https://app.tana.inc?nodeid=uSTuBpocv-0a)
+        - For example:
+          - [slave owners were entrepreneurial capitalists who eyed their bottom lines, even as they were motivated by, among other things, their quest for racial domination.](https://app.tana.inc?nodeid=2qzaGSYQ1VrM)
+        - [Thesis #2: Capital is defined by the quest for a future pecuniary profit. WIthout capital's habitual quest for pecuniary gain, there is no capitalism. But the profit motive of capitalists has never been enough to drive economic history, not even the history of capitalism.](https://app.tana.inc?nodeid=LJN0Pp-mQ764)
+        - [capital’s quest for pecuniary gain has always been complicated by a great variety of rational and irrational human motivations—sometimes energized by them and sometimes, as we shall see, enervated. Though it exists, the profit motive has always been entangled in complicated ways with larger individual and collective projects.](https://app.tana.inc?nodeid=lBftZsbAyqXN)
+        - [what separates the ages of American capitalism, I will argue, are not strictly economic variables but rather political initiatives: the British Empire’s mercantilist project of the 1660s, as it transformed its fledgling North American colonies; the electoral triumph of the antislavery Republican Party in 1860s, and the secession of southern slave states; the New Deal of the 1930s, responding to the Great Depression; and the beginning of the Volcker interest rate shock of 1979, followed by the election of Ronald Reagan in 1980.](https://app.tana.inc?nodeid=sO_QgjWo5XLU)
+      - Intro.3 - The Economic Problem
+        - [Economic growth, an increase in the value of production per head over time, is one of capitalism’s distinguishing characteristics, and high rates of growth have long distinguished the American economy from others. But capitalist development has always been punctuated by repeating cycles of boom and bust.](https://app.tana.inc?nodeid=2u5GPJMn6zCl)
+        - [Thesis #3: The history of capitalism is a never-ending conflict between the short-term propensity to hoard and the long-term ability and inducement to invest. This conflict holds the key to explaining many of the dynamics of capitalism over time, including its periods of long-term economic development and growth, and its repeating booms and busts.](https://app.tana.inc?nodeid=gBE6Sep7u53f)
+        - [The gist of thesis three was first suggested—only dashed off, really—by Keynes during the Great Depression. Buried in a paragraph near the end of The General Theory of Employment, Interest, and Money (1936), Keynes speculated: "There has been a chronic tendency throughout human history for the propensity to save to be stronger than the inducement to invest. The weakness of the inducement to invest has been at all times the key to the economic problem."14](https://app.tana.inc?nodeid=M6db_WWTBUfG)
+        - [The reason the inducement to invest for the long term is weak, Keynes argued, is that the short-term “liquidity preference” of the owners of capital is usually stronger.](https://app.tana.inc?nodeid=DA0d8zxEfsH5)
+        - This leads Levy to explain [Liquidity](https://app.tana.inc?nodeid=2js6nZkdLA69) in some detail.
+    - Book One: The Age of Commerce, 1660-1860
+      - Preface: Commerce
+      - 1 - Mercantilism
+        - 1.1 - The First Lord of Shaftesbury
+        - 1.2 - The Mercantilist Tradition
+        - 1.3 - Mercantlism Transformed
+        - 1.4 - Roots of Smithian Growth
+        - 1.5 - Mercantlism, On Balance
+      - 2 - Organic Economy, Household Economy
+        - 2.0 Intro
+        - 2.1 - Ecology and Economy in Early Northern America
+        - 2.2 - Property
+        - 2.3 - Capitalizing the Land
+        - 2.4 - Independence and Dependence
+        - 2.5 - Gambler and Peasant
+      - 3 - Republican Political Economy
+        - 3.0 Intro
+        - 3.1 - A Massive Personal and Political Enmity
+        - 3.2 - Hamilton and Pecuniary Capital
+        - 3.3 - Jefferson's Empire of Liberty
+        - 3.4 - Federalists and Republicans
+        - 3.5 - The Postrevolutionary Settlement
+      - 4 - Capitalism and the Democracy
+        - 4.Intro 
+        - 4.1 - Cotton Boom, Bank Bust
+        - 4.2 - The American System
+        - 4.3 - "The bank, Mr. Van Buren, is trying to kill me, but I will kill it!"
+        - 4.4 - A Developing Economy
+        - 4.5 - Coda: Corporations
+      - 5 - Confidence Games
+        - 5. Intro
+        - 5.1 - Humbug
+        - 5.2 - _Walden_
+        - 5.3 - Friends
+      - 6 - Between Slavery and Freedom
+        - 6.Intro
+        - 6.1 - Late Capitalism, Slave-Based
+        - 6.2 - Rise of Industrial Society
+        - 6.3 - Lincoln, Between Slavery and Freedom
+    - Book Two: The Age of Capital, 1860-1932
+      - Preface: Capital
+      - 7 - Civil War and the Reconstruction of Capital
+      - 8 - Industrialization
+      - 9 - Class War and Home Life
+      - 10 - The Populist Revolt
+      - 11 - Fordism
+      - 12 - The Great Depression
+    - Book Three: The Age of Control, 1932-1980
+      - Preface: Control
+      - 13 - New Deal Capitalism
+      - 14 - New World Hegemon
+      - 15 - Postwar Hinge
+      - 16 - Consumerism
+      - 17 - Ordeal of a Golden Age
+      - 18 - Crisis of Industrial Capital
+    - Book Four: The Age of Chaos, 1980-
+      - Preface: Chaos
+        - Scholars can't agree on what to call our new economy. Certain backward-looking names are apt except that they refer to what it's not, rather than what it is. Examples include "postindustrialist" and "postFordist." Names that refer to it a repeat of a past period don't work either, such as "Second Gilded Age" and "neoliberalism." (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+          - **Related Questions**: 
+            - What characterizes the Age of Chaos? #question
+              - **Related Knowledge - SN(A)CK**: 
+                - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+                - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+                - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+                - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+                - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+                - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+                - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+                - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+                - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+                - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+                - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+                - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+                - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+                - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+              - **Synthesis Material**
+                - 📣 Related Claims
+                  - ["Niebuhr assumed with his liberal forebears that theology was first and foremost an account of human existence."](https://app.tana.inc?nodeid=hlMXMYWVX8)
+                  - ["the difference between Niebuhr and Barth is exactly the difference between a theology that has given up on its ability to tell us the way the world is and a theology that confidently and unapologetically proclaims the way things are - a distinction that is unintelligible if the God Christians worship does not exist."](https://app.tana.inc?nodeid=Qx1cRCZwn4)
+                  - ["That is the heart of Niebuhr's ethics. Justification by faith is loosed from its Christological context and made a truth to underwrite a generalized virtue of humility in order to make Christians trusted players in the liberal game of tolerance. Catholicism, the Renaissance, Calvinism, and the sectarian Protestants: Niebuhr judges them all to be mistaken attempts to make an ethic of sanctification a reality. These historical options, to be sure in quite different ways, result in a false attempt to make history conform to perfect love, or frustrated by the attempt, their adherents undertake an irresponsible withdrawal from the world."](https://app.tana.inc?nodeid=4s12KykKAO)
+                  - ["For Niebuhr, sanctification in the realm of social relations demands recognition of the impossibility of sanctification."](https://app.tana.inc?nodeid=rAFb-ucAuL)
+                - 🤔 Related Thoughts
+                  - [In the preface to his published 2001 Gifford lectures, Stanley Hauerwas emphasized how important it is for Christians to remember that theology is a means, not an end. The end is prayer, which is simultaneously our posture and substance whenever we are fully human. Therefore, he cautions us against staking out theological positions more settled than prayer. The point is not to ensure we hold orthodox positions but to help us converse with God in faithful prayer.](https://app.tana.inc?nodeid=jdlfnEpjE9)
+                - To Process - Sources still to read, watch, listen to
+                  - [What Isn’t Christian Nationalism? A Call for Conceptual and Empirical Splitting | ${Source Status }](https://app.tana.inc?nodeid=4fFbIqaZ9WIy)
+                - To Integrate - Sources that are read/watched, but still require integrating them into the claims and evidence structure
+                  - [Whiteness, Racism, and Identity | ${Source Status }](https://app.tana.inc?nodeid=bUqJ8jNwtI)
+                - Integrated - Sources that have been fully worked through with relation to this question
+              - **Synthesis** - Your current best answer to this question. Obviously can be left blank until you have some kind of answer
+            - [What is neoliberal hyperglobalism?](https://app.tana.inc?nodeid=ri1SwpygGw)
+            - [What's the role of economic insecurity in explaining the populist vote?](https://app.tana.inc?nodeid=JThTiDIWw6vc)
+        - [What most distinguishes the Age of Chaos is a shift in what has always been capitalism’s core dynamic: the logic of investment, as it works through production, exchange, and consumption. Since 1980, a preference for liquidity over long-term commitment has dominated capital investment as never before. Fast-moving money, rapid investment and disinvestment, across various asset classes, as well as in and out of various companies, has not only overturned old methods of production—its logic has often threatened to overwhelm other economic patterns. In short, the liquidity of capital has made for a chaotic age dominated by the vagaries of appreciating assets.](https://app.tana.inc?nodeid=foLcOZoO-Jr5)
+        - The new economy's chief characteristic is a high [Liquidity](https://app.tana.inc?nodeid=2js6nZkdLA69) preference that crowds out long-term asset investments disrupting historic production, consumption, and social practices. (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+        - After America's 1973 departure from metal standards for the   [Scarcity value](https://app.tana.inc?nodeid=5hpvtR85kSiQ) of currency and credit, inflationary pressures ensued, as expected. The Federal Reserve controlled the [Scarcity value](https://app.tana.inc?nodeid=5hpvtR85kSiQ) by raising interest rates. (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+        - The [Volcker Shock](https://app.tana.inc?nodeid=AlcrD1R91j9r) tamed inflation, secured America's hegemonic status in global economic policy-making, and generated confidence in the dollar that led to "speculative investment boom" (@levy2021ages, 587). (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+        - Reagan promised to revive the rust belt, stimulate American savings and investment, reduce the federal budget deficit, and rollback welfare spending. The Reagan revolution achieved none of these. Instead, it launched a new form of capitalism characterized a high liquidity preference and rapid global capital flows (@levy2021ages, 587). (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+        - The [Volcker Shock](https://app.tana.inc?nodeid=AlcrD1R91j9r) caused "a worldwide credit crunch and worldwide economic depression" as global investors chased higher U.S. interest rates and drove up the dollar's value (@levy2021ages, 587). (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+        - The [Volcker Shock](https://app.tana.inc?nodeid=AlcrD1R91j9r) also caused a permanent shift in the U.S. trade deficit, shifting America from a net exporter of both capital and goods to a "net importer of global capital and the consumer market of last resort for the world's manufacturer's (@levy2021ages, 587). (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+        - The combination of Reagan financial deregulation, greater asset convertibility, restored investor confidence, and the Fed's higher rates caused sustained global capital inflows,  high liquidity, and, in turn,  high credit availability on par with the 1920s. As in the 1920s, it also caused an investment boom (@levy2021ages, 587). (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+        - The combination of investor confidence and higher interest rates caused investors to maximize debt leverage to achieve higher speculative gains in stocks, bonds, and real estate ((@levy2021ages, 587). (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+        - In the 1920s investment boom, investors poured capital into productive assets such as plants and equipment. That did not happen in the 1980s. Instead, investors used leveraged buyouts to break apart industrial corporations and their related labor costs. They aggressively disinvested in fixed assets, dealing catastrophic blows to manufacturers, their predominantly male employees, and unions (@levy2021ages, 589). (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+        - The permanent shift to high liquidity made the 1980s "the only one on record in which there was a declining share of fixed investment in GDP"(@levy2021ages, 589). (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+        - [Capital was more roving, and so the new capitalism became chaotic. In the industrial epoch, fixed investment had put enough capital on the ground long enough for many of the stabilizing structures of industrial society to arise around it and settle down—the factory communities, the fiscal triangle, the male-breadwinner-female-homemaker family. Following these investments, incomes, whether…](https://app.tana.inc?nodeid=7tSILhHPQQE1)
+        - In the 1980s, the dominant "logic of valuation" changed. Investors increasingly preferred to generate incomes from their capital asset's price appreciation rather than through its use and depreciation. Investors increasingly sought pecuniary income through the asset's sale or use as collateral in credit markets rather than making long term investments in "the stabilizing structures of industrial society" (@levy2021ages, 589). (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+        - The shift in the logic of valuation dramatically impacted laborers, especially in the manufacturing sector. The path to income growth diverged. The more highly valued path became asset appreciation; investors valued less the labor associated with a capital asset's  use. Consequently, income growth for manufacturing laborers stalled while incomes of laborers in the financial and business services sectors soared. Income inequality between high school and college educated laborers increased (@levy2021ages, 589). (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+        - Similarly, American employment demand shifted from manufacturing and rural locations to "low-wage and historically feminized and racialized occupations" supporting financial and business workers in urban and suburban settings "where the best-off lived" (@levy2021ages, 589). (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+        - The key to the new capitalism is investors' belief in the transactional liquidity of their assets. Without that belief, confidence fails and investors rapidly "shift from speculative to precautionary liquidity preference." Investment booms end. (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+        - As long as the Fed is able to maintain investor confidence in its role as the "lender of the last resort," expansions continue. (Book Four: The Age of Chaos, 1980-, __${Author/Creator}__) #atomic_note_-_SN(A)CK
+          - **Related Knowledge - SN(A)CK**: 
+            - [Capitalism](https://app.tana.inc?nodeid=x8B17aMq_5)
+            - [Liberal democracy](https://app.tana.inc?nodeid=pWgNrqtzpd5e)
+            - [Democracy](https://app.tana.inc?nodeid=QvN_OlyOaGGw)
+            - [Empire](https://app.tana.inc?nodeid=ftgsCwj_3eco)
+            - [White-Christian populism](https://app.tana.inc?nodeid=ik3kf2oCwIqD)
+            - [Tycoon](https://app.tana.inc?nodeid=CYNEqoDljpaf)
+            - [Industrialization](https://app.tana.inc?nodeid=_clNaklpXioO)
+            - [Economy](https://app.tana.inc?nodeid=c10KysIZIpnl)
+            - [MAGA America](https://app.tana.inc?nodeid=yPKOBqe_MxvV)
+            - [Populism](https://app.tana.inc?nodeid=48w4BwsNgU4H)
+            - [Populism's Causes](https://app.tana.inc?nodeid=EUcIZMeu2DOC)
+            - [National Populism](https://app.tana.inc?nodeid=OBDtrxj-8GGD)
+            - [Household](https://app.tana.inc?nodeid=9V3pBXmx2iMp)
+            - [Nuclear family](https://app.tana.inc?nodeid=BbZquSPjfhyE)
+          - 🔗 Synthetic Products
+            - [Building connections between notes is a crucial aspect of effective note-taking and learning. However, this process requires effort and active thinking to truly understand and retain the information. Therefore, to learn effectively, it is important to actively engage with the material, seek out connections between concepts, and strive for a deeper understanding. By doing so, you can build a strong foundation of knowledge that will enable you to connect new information with existing ideas and continue to learn and grow.](https://app.tana.inc?nodeid=ipmPulfons_V)
+        - [During the 1990s, by contrast with the more improvisational Reagan administration, the “New Democrats” of President Bill Clinton articulated a coherent political-economic settlement for the new age. Clinton went all in on a finance- and technology-driven, center-left vision of “globalization.” This was a global economy, still dominated by the United States, of newfound fluidity, flow, energy, and risk. There was movement of global capital, of goods across borders due to new free trade agreements, and if to a lesser degree also of immigrants—legal and illegal.](https://app.tana.inc?nodeid=04ZS5xod4Hsb)
+        - [The era of “Big Government,” Clinton declared, was over. So long as overtly racist or sexist discrimination was checked to ensure equality of opportunity, capital, left to its own devices, would flow to its best possible use and to the benefit of all.](https://app.tana.inc?nodeid=SgizNIVSlSMe)
+        - [the relationship between investment and enterprise changed. Often, the valuation of Silicon Valley–based technology companies hinged on the prospective value of the innovative “ideas” of entrepreneurs—rather than the past generation of business profits. New, intangible forms of capital, like “human capital” and the “social capital” that connected Silicon Valley’s recombinant networks of relationships, appreciated. Everywhere, online and off, the “network” became the new organizing principle of business for increasingly multinational U.S. corporations, but also in social life more generally.](https://app.tana.inc?nodeid=oXutBEmEBxTP)
+        - [Meanwhile global capital, ever more liquid and roving, began to rush into the U.S. capital market, bidding U.S. technology stocks up during the early commercialization of the Internet.](https://app.tana.inc?nodeid=Iq5Xo5DtMd1k)
+        - [A historically low short-term interest rate from the Fed supported a genuine worldwide economic boom, centered on the rise of China as a world manufacturing power after its admission to the World Trade Organization in 2001. Regions of China became ever more linked to U.S. multinational supply chains, as Chinese producers exported such things as flat-screen televisions and, beginning in 2007, Apple’s iPhone, into the great U.S. consumer market. To help finance U.S. consumption and to accumulate dollar-denominated assets—the world’s safest, most risk-free, liquid investment—China also began to export prodigious amounts of its savings into the U.S. capital market. That helped hold down long-term interest rates as well.](https://app.tana.inc?nodeid=McBF19IQWARk)
+        - [Bernanke was correct that in addition to price stability and low inflation, the 2000s expansion shared many qualities with those since 1982. What he did not emphasize was that the pattern of economic development continued to be asset-led and therefore new income gains flowed largely to the best-off, who by now increasingly tended to be highly educated, and lived in those cities where the new economy thrived. In those places where it did not, economic life suffered.](https://app.tana.inc?nodeid=Ul2UkPTPD7Cw)
+        - [Led by Google, a number of IT companies found ways to make actual business profits by creating a new class of synthetic capital assets. These assets were digital constructs of data, made from personal information scraped off company websites, which could then be sold to marketers hoping to learn more about, and perhaps influence, consumer preferences.](https://app.tana.inc?nodeid=CxIbEBeNdg6u)
+        - [Wall Street... began to engineer another new appreciating, synthetic capital asset, another mere construct of information: the mortgage-backed security.](https://app.tana.inc?nodeid=kGHUAFqWNWis)
+        - [In 2003 President George W. Bush advocated a new “ownership society.” Arguably, not since Jefferson’s Empire of Liberty had there been a vigorous politics of property ownership in the United States. Ever since late nineteenth-century industrialization, income politics had largely ruled. In the Age of Chaos, income politics fast became anachronistic.](https://app.tana.inc?nodeid=xJrjf2vv56ji)
+        - [In the 2000s, however, there was a genuine attempt to fling open the economy of asset price appreciation to a broader constituency, through the vehicle of home ownership. It was the economic apogee of “family values.” Aided by the low global interest rates of the 2000s and favorable government policies encouraging home ownership, residential real estate prices began to soar nationwide—although, as in Jefferson’s time, white households disproportionately benefited from the surge in wealth.](https://app.tana.inc?nodeid=e2cVdqvwrLVo)
+        - [many households whose labor earnings were stagnant used debt to purchase or refinance homes, hoping to sustain consumption through asset price appreciation. Debt thus replaced income growth through pay. So long as home prices went up, the Great Moderation continued.](https://app.tana.inc?nodeid=vIgFp6GOiW1T)
+        -
+        -
+        -
+      - 19 - Magic of the Market
+        - 19.0 - Intro
+        - 19.1 - Volcker Shock
+        - 19.2 - Reagonomics
+        - 19.3 - Shareholder Value
+        - 19.4 - "Truthful Hyperbole"
+        - 19.5 - Politics of Nostalgia
+      - 20 - The New Economy
+        - 20.0 - Intro
+        - 20.1 - Silicon Valley, the Idea
+        - 20.2 - The Network
+        - 20.3 - Rubinomics
+        - 20.4 - Globalization
+      - 21 - The Great Moderation
+        - 21.0 - Intro
+        - 21.1 - The Greenspan Put
+        - 21.2 - First Movers and Born Losers
+        - 21.3 - Home
+      - 22 - The Great Recession
+        - 22.0 - Intro
+        - 22.1 - Panic
+        - 22.2 - The Ordeal of Barack Obama
+    - Afterword
+      - Intro
+      - Afterword.1 - The Great Repetition
+      - Afterword.2 - Reckoning
+  -
