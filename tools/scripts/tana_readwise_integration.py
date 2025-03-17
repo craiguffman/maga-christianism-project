@@ -12,7 +12,7 @@ Usage:
         --output-dir path/to/output_directory
 
 Updated to handle Tana-specific highlight formats including square-bracketed text,
-atomic notes, and thesis statements.
+atomic notes, synthesis notes, permanent notes, and thesis statements.
 """
 
 import argparse
@@ -165,20 +165,33 @@ def extract_highlights_from_tana(file_path):
         highlight_matches = highlights_pattern.findall(content)
         highlights = [{'type': 'highlight', 'content': h.strip()} for h in highlight_matches]
         
-        # Pattern 2: Find atomic notes with the SN(A)CK tag
+        # Pattern 2: Find atomic notes with the SN(A)CK tag - using underscore pattern
         atomic_pattern = re.compile(r'(.*?)\s+#atomic_note_-_SN\(A\)CK', re.DOTALL)
         atomic_matches = atomic_pattern.findall(content)
         atomic_notes = [{'type': 'atomic_note', 'content': n.strip()} for n in atomic_matches]
         
-        # Pattern 3: Find "Thesis" highlights which are often important
+        # Pattern 3: Find synthesis notes - using underscore pattern
+        synthesis_pattern = re.compile(r'(.*?)\s+#synthesis_note_-_SN\(A\)CK', re.DOTALL)
+        synthesis_matches = synthesis_pattern.findall(content)
+        synthesis_notes = [{'type': 'synthesis_note', 'content': n.strip()} for n in synthesis_matches]
+        
+        # Pattern 4: Find permanent notes - using underscore pattern
+        permanent_pattern = re.compile(r'(.*?)\s+#permanent_note_-_SN\(A\)CK', re.DOTALL)
+        permanent_matches = permanent_pattern.findall(content)
+        permanent_notes = [{'type': 'permanent_note', 'content': n.strip()} for n in permanent_matches]
+        
+        # Pattern 5: Find "Thesis" highlights which are often important
         thesis_pattern = re.compile(r'\[Thesis #\d+:(.*?)\]', re.DOTALL)
         thesis_matches = thesis_pattern.findall(content)
         thesis_notes = [{'type': 'thesis', 'content': t.strip()} for t in thesis_matches]
         
         # Combine all notes
-        all_notes = highlights + atomic_notes + thesis_notes
+        all_notes = highlights + atomic_notes + synthesis_notes + permanent_notes + thesis_notes
         
-        print(f"Extracted {len(highlights)} highlights, {len(atomic_notes)} atomic notes, and {len(thesis_notes)} thesis statements from Tana export")
+        print(f"Extracted {len(highlights)} highlights, {len(atomic_notes)} atomic notes, "
+              f"{len(synthesis_notes)} synthesis notes, {len(permanent_notes)} permanent notes, "
+              f"and {len(thesis_notes)} thesis statements from Tana export")
+        
         return all_notes, []  # Return all as "highlights" for simplicity
     except Exception as e:
         print(f"Error extracting highlights from Tana export: {e}")
