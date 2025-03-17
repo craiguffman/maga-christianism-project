@@ -29,7 +29,7 @@ def parse_arguments():
     parser.add_argument('--output-dir', required=True, help='Path to output directory')
     return parser.parse_args()
 
-ddef load_readwise_highlights(file_path):
+def load_readwise_highlights(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         markdown_text = f.read()
     
