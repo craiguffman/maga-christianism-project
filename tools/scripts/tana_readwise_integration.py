@@ -249,7 +249,7 @@ def main():
     args = parse_arguments()
     
     # Load data
-    readwise_highlights = load_readwise_export(args.readwise_file)
+    readwise_highlights = load_readwise_highlights(args.readwise_file)
     tana_structure = parse_tana_export(args.tana_file)
     tana_highlights, tana_notes = extract_highlights_from_tana(args.tana_file)
     
