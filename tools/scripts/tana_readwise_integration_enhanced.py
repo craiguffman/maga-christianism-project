@@ -1,149 +1,240 @@
 #!/usr/bin/env python3
+"""
+Tana-Readwise Integration Script
+
+This script integrates Readwise exports (Markdown) with Tana exports (Markdown)
+to organize highlights according to the structure defined in Tana.
+
+Usage:
+    python tana_readwise_integration.py \
+        --readwise-file path/to/readwise_export.md \
+        --tana-file path/to/tana_export.md \
+        --output-dir path/to/output_directory
+
+Updated to handle both:
+1. Modern Tana formats (SN(A)CK system): #highlight, #summary, #note, #analysis, #connection, #key
+2. Legacy Tana formats: #permanent_note, #claim, #question, #evidence, #quote
+"""
 
 import argparse
-import json
 import os
 import re
 import sys
 from datetime import datetime
 
-# Define content type maps for both legacy and new systems
-CONTENT_TYPE_MAP = {
-    # Legacy system
-    "#permanent_note": "note",
-    "#claim": "note",
-    "#question": "question",
-    "#evidence": "note",
-    "#quote": "quote",
-    
-    # New SN(A)CK system
-    "#highlight": "highlight",
-    "#summary": "note",
-    "#note": "note",
-    "#analysis": "note",
-    "#connection": "note",
-    "#key": "note"
-}
+def parse_arguments():
+    """Parse command line arguments."""
+    parser = argparse.ArgumentParser(description='Integrate Readwise exports with Tana organization')
+    parser.add_argument('--readwise-file', required=True, help='Path to Readwise export Markdown file')
+    parser.add_argument('--tana-file', help='Path to Tana export markdown file')
+    parser.add_argument('--output-dir', required=True, help='Path to output directory')
+    parser.add_argument('--verbose', action='store_true', help='Enable verbose output')
+    return parser.parse_args()
 
-# Define priority order for content types
-CONTENT_TYPE_PRIORITY = [
-    # New SN(A)CK system (higher priority)
-    "#highlight",
-    "#summary",
-    "#note",
-    "#analysis",
-    "#connection",
-    "#key",
-    
-    # Legacy system
-    "#quote",
-    "#evidence",
-    "#claim",
-    "#question",
-    "#permanent_note"
-]
+def verbose_log(message, verbose_mode=False):
+    """Log messages when in verbose mode."""
+    if verbose_mode:
+        print(f"[INFO] {message}")
 
-def extract_tags(content):
-    """Extract both legacy and SN(A)CK format tags from content."""
-    # Pattern for both legacy tags and SN(A)CK format tags
-    legacy_pattern = r'#[a-zA-Z0-9_/-]+'
-    snack_pattern = r'#[a-zA-Z0-9_/-]+\s+SN\(A\)CK'
+def load_readwise_highlights(file_path):
+    """Load highlights from a Readwise export markdown file."""
+    with open(file_path, 'r', encoding='utf-8') as f:
+        markdown_text = f.read()
     
-    # Combine patterns and find all matches
-    all_tags = re.findall(legacy_pattern, content)
+    # Find the Highlights section
+    highlights_section_match = re.search(r'### Highlights\n(.*)', markdown_text, re.DOTALL)
     
-    # Add SNACK format tags if they exist
-    snack_tags = re.findall(snack_pattern, content)
+    highlights = []
+    if highlights_section_match:
+        highlights_text = highlights_section_match.group(1)
+        
+        # Parse each highlight with the new pattern
+        highlight_matches = re.findall(r'- (.*?)\s*\(.*?\)', highlights_text, re.DOTALL)
+        
+        for match in highlight_matches:
+            # Clean up the highlight text
+            highlight_text = match.strip().replace('\n', ' ')
+            highlights.append({
+                'text': highlight_text
+            })
     
-    # Return combined list of tags
-    return list(set(all_tags + snack_tags))
+    print(f"Loaded {len(highlights)} highlights from {file_path}")
+    return highlights
 
-def determine_content_type(tags):
-    """Determine the content type based on tags from either system."""
-    # Process tags to handle SN(A)CK format
-    processed_tags = []
-    for tag in tags:
-        if "SN(A)CK" in tag:
-            # Get the tag part before SN(A)CK
-            base_tag = tag.split()[0]
-            processed_tags.append(base_tag)
-        else:
-            processed_tags.append(tag)
-    
-    # Find all matching content type tags
-    content_types = [tag for tag in processed_tags if tag in CONTENT_TYPE_MAP]
-    
-    # If multiple content types are found, use priority order
-    if len(content_types) > 1:
-        for content_type in CONTENT_TYPE_PRIORITY:
-            if content_type in content_types:
-                return CONTENT_TYPE_MAP[content_type]
-    
-    # If one content type is found, use it
-    if len(content_types) == 1:
-        return CONTENT_TYPE_MAP[content_types[0]]
-    
-    # Default to note if no content type tag is found
-    return "note"
-
-def clean_content(content):
-    """Clean content by removing all tags."""
-    # Replace legacy tags
-    cleaned = re.sub(r'#[a-zA-Z0-9_/-]+', '', content)
-    
-    # Replace SN(A)CK format tags
-    cleaned = re.sub(r'#[a-zA-Z0-9_/-]+\s+SN\(A\)CK', '', cleaned)
-    
-    return cleaned.strip()
-
-def get_topic_tags(tags):
-    """Get topic tags (non-content-type tags) from either system."""
-    topic_tags = []
-    
-    for tag in tags:
-        # Check if it's a SN(A)CK format tag
-        if "SN(A)CK" in tag:
-            base_tag = tag.split()[0]
-            if base_tag not in CONTENT_TYPE_MAP:
-                # Remove the # prefix
-                topic_tags.append(base_tag[1:])
-        elif tag not in CONTENT_TYPE_MAP:
-            # Remove the # prefix
-            topic_tags.append(tag[1:])
-    
-    return topic_tags
-
-def expand_nested_tags(tags):
-    """Expand hierarchical/nested tags."""
-    expanded_tags = []
-    
-    for tag in tags:
-        # Check if it's a hierarchical tag
-        if '/' in tag:
-            # Add the full tag
-            expanded_tags.append(tag)
+def parse_tana_export(file_path):
+    """Parse Tana export markdown file to extract structural organization."""
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        # Find the Structural Order section within #Inspectional_Reading
+        structural_pattern = re.compile(r'#Inspectional_Reading.*?\*\*Structural Order\*\*:(.*?)(?=\n#|\Z)', re.DOTALL)
+        structural_match = structural_pattern.search(content)
+        
+        if not structural_match:
+            # Try alternative pattern: Look for a section that seems to be a structure
+            alt_pattern = re.compile(r'- (Book \w+: .*?)\n((?:\s+- .*\n)+)', re.MULTILINE)
+            alt_matches = alt_pattern.findall(content)
             
-            # Add each level of the hierarchy
-            parts = tag.split('/')
-            current = ''
-            
-            for i, part in enumerate(parts):
-                if i == 0:
-                    current = part
-                else:
-                    current += '/' + part
+            if alt_matches:
+                # Manually build structure from matched sections
+                hierarchy = []
+                for book_title, sections in alt_matches:
+                    # Add book level
+                    hierarchy.append({
+                        'path': [book_title.strip()],
+                        'text': book_title.strip()
+                    })
+                    
+                    # Process sections
+                    section_lines = sections.split('\n')
+                    for line in section_lines:
+                        if not line.strip():
+                            continue
+                        
+                        # Extract section name, removing any Tana links
+                        section_text = re.sub(r'\[([^\]]+)\]\(.*?\)', r'\1', line).strip()
+                        if section_text.startswith('- '):
+                            section_text = section_text[2:].strip()
+                            
+                        # Add to hierarchy with full path
+                        if section_text:
+                            hierarchy.append({
+                                'path': [book_title.strip(), section_text],
+                                'text': section_text
+                            })
                 
-                # Add each level if it's not already included
-                if current != tag and current not in expanded_tags:
-                    expanded_tags.append(current)
-        else:
-            # Non-hierarchical tag
-            expanded_tags.append(tag)
-    
-    return expanded_tags
+                print(f"Extracted {len(hierarchy)} structural elements from Tana export (alternative method)")
+                return hierarchy
+            
+            print("Warning: Could not find 'Structural Order' or alternative structure in Tana export.")
+            print("Using flat structure for organization.")
+            return [{'path': ['Content'], 'text': 'Content'}]
+        
+        structure_content = structural_match.group(1).strip()
+        
+        # Parse the structure into a hierarchy
+        lines = structure_content.split('\n')
+        hierarchy = []
+        current_path = []
+        prev_indent = -1
+        
+        for line in lines:
+            if not line.strip():
+                continue
+                
+            # Calculate indent level based on spaces/tabs
+            indent = len(line) - len(line.lstrip())
+            text = line.strip()
+            
+            # Remove leading dash if present
+            if text.startswith('-'):
+                text = text[1:].strip()
+                
+            # Clean up any Tana links in the text
+            text = re.sub(r'\[([^\]]+)\]\(.*?\)', r'\1', text)
+            
+            # Adjust the current path based on indent level
+            if indent > prev_indent:
+                current_path.append(text)
+            elif indent == prev_indent:
+                if current_path:  # Check to prevent errors with empty path
+                    current_path.pop()
+                current_path.append(text)
+            else:
+                # Go back up the tree to the appropriate level
+                steps_back = (prev_indent - indent) // 2 + 1  # Assuming 2 spaces per indent level
+                if len(current_path) >= steps_back:  # Check to prevent errors
+                    current_path = current_path[:-steps_back]
+                current_path.append(text)
+            
+            prev_indent = indent
+            
+            # Add to hierarchy
+            hierarchy.append({
+                'path': current_path.copy(),
+                'text': text
+            })
+        
+        print(f"Extracted {len(hierarchy)} structural elements from Tana export")
+        return hierarchy
+    except Exception as e:
+        print(f"Error parsing Tana export: {e}")
+        print("Using default flat structure.")
+        return [{'path': ['Content'], 'text': 'Content'}]
 
-def process_content_blocks(content):
-    """Process content into logical blocks handling multi-line and quotes."""
+def extract_highlights_from_tana(file_path, verbose=False):
+    """Extract highlights and original notes from Tana export, supporting both legacy and modern formats."""
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        all_notes = []
+        
+        # ---- MODERN TANA FORMAT (SN(A)CK SYSTEM) ----
+        
+        # Pattern 1: Find highlights in square brackets with Tana links
+        highlights_pattern = re.compile(r'\[(.*?)\]\(https://app\.tana\.inc\?nodeid=.*?\)')
+        highlight_matches = highlights_pattern.findall(content)
+        highlights = [{'type': 'highlight', 'content': h.strip()} for h in highlight_matches]
+        all_notes.extend(highlights)
+        
+        # Pattern 2: Find atomic notes with the SN(A)CK tag - using underscore pattern
+        atomic_pattern = re.compile(r'(.*?)\s+#atomic_note_-_SN\(A\)CK', re.DOTALL)
+        atomic_matches = atomic_pattern.findall(content)
+        atomic_notes = [{'type': 'atomic_note', 'content': n.strip()} for n in atomic_matches]
+        all_notes.extend(atomic_notes)
+        
+        # Pattern 3: Find synthesis notes - using underscore pattern
+        synthesis_pattern = re.compile(r'(.*?)\s+#synthesis_note_-_SN\(A\)CK', re.DOTALL)
+        synthesis_matches = synthesis_pattern.findall(content)
+        synthesis_notes = [{'type': 'synthesis_note', 'content': n.strip()} for n in synthesis_matches]
+        all_notes.extend(synthesis_notes)
+        
+        # Pattern 4: Find permanent notes - using underscore pattern
+        permanent_pattern = re.compile(r'(.*?)\s+#permanent_note_-_SN\(A\)CK', re.DOTALL)
+        permanent_matches = permanent_pattern.findall(content)
+        permanent_notes = [{'type': 'permanent_note', 'content': n.strip()} for n in permanent_matches]
+        all_notes.extend(permanent_notes)
+        
+        # Pattern 5: Find "Thesis" highlights which are often important
+        thesis_pattern = re.compile(r'\[Thesis #\d+:(.*?)\]', re.DOTALL)
+        thesis_matches = thesis_pattern.findall(content)
+        thesis_notes = [{'type': 'thesis', 'content': t.strip()} for t in thesis_matches]
+        all_notes.extend(thesis_notes)
+        
+        # ---- LEGACY TANA FORMAT ----
+        
+        # Extract content blocks
+        blocks = extract_content_blocks(content)
+        
+        # Process each block for legacy tags
+        for block in blocks:
+            note_type = determine_note_type(block)
+            if note_type:
+                # Clean the content (remove tags)
+                clean_content = clean_block_content(block)
+                all_notes.append({
+                    'type': note_type,
+                    'content': clean_content
+                })
+        
+        # Log what we found
+        if verbose:
+            modern_count = len(highlights) + len(atomic_notes) + len(synthesis_notes) + len(permanent_notes) + len(thesis_notes)
+            legacy_count = len(all_notes) - modern_count
+            print(f"Found {modern_count} notes with modern SN(A)CK format")
+            print(f"Found {legacy_count} notes with legacy format")
+        
+        print(f"Extracted {len(all_notes)} total notes/highlights from Tana export")
+        
+        return all_notes, []  # Return all as "highlights" for simplicity
+    except Exception as e:
+        print(f"Error extracting highlights from Tana export: {e}")
+        sys.exit(1)
+
+def extract_content_blocks(content):
+    """Process content into logical blocks for legacy Tana format."""
     lines = content.split('\n')
     blocks = []
     current_block = []
@@ -179,38 +270,6 @@ def process_content_blocks(content):
         else:
             # Continue current block
             current_block.append(trimmed_line)
-        
-        # Check if this line has content tags
-        has_tags = False
-        for tag in extract_tags(trimmed_line):
-            # For legacy tags
-            if tag in CONTENT_TYPE_MAP:
-                has_tags = True
-                break
-            
-            # For SN(A)CK format
-            if "SN(A)CK" in tag:
-                base_tag = tag.split()[0]
-                if base_tag in CONTENT_TYPE_MAP:
-                    has_tags = True
-                    break
-        
-        # If we find a line with content tags and it's not part of a block quote,
-        # it might indicate the end of the current block
-        if has_tags and not is_block_quote_line and len(current_block) > 1:
-            # If the previous line didn't have tags, split here
-            prev_line_has_tags = False
-            if i > 0:
-                for tag in extract_tags(lines[i-1]):
-                    if tag in CONTENT_TYPE_MAP or (
-                        "SN(A)CK" in tag and tag.split()[0] in CONTENT_TYPE_MAP
-                    ):
-                        prev_line_has_tags = True
-                        break
-            
-            if not prev_line_has_tags:
-                blocks.append('\n'.join(current_block[:-1]))
-                current_block = [trimmed_line]
     
     # Don't forget the last block
     if current_block:
@@ -218,93 +277,202 @@ def process_content_blocks(content):
     
     return [block for block in blocks if block.strip()]
 
-def parse_content_block(block):
-    """Parse a content block into a Readwise-compatible object."""
-    tags = extract_tags(block)
-    content_type = determine_content_type(tags)
-    highlight_text = clean_content(block)
-    topic_tags = get_topic_tags(tags)
-    expanded_tags = expand_nested_tags(topic_tags)
-    
-    return {
-        "text": highlight_text,
-        "tags": expanded_tags,
-        "note": "",
-        "location": 0,
-        "location_type": "",
-        "highlighted_at": datetime.now().isoformat(),
-        "highlight_type": content_type
+def determine_note_type(block):
+    """Determine the type of note based on legacy tags."""
+    # Legacy tag types and their mapping
+    legacy_tags = {
+        '#permanent_note': 'permanent_note',
+        '#claim': 'claim',
+        '#question': 'question',
+        '#evidence': 'evidence',
+        '#quote': 'quote'
     }
+    
+    # Look for legacy tags in the block
+    for tag, note_type in legacy_tags.items():
+        if tag in block:
+            return note_type
+    
+    # No recognized tag found
+    return None
 
-def process_tana_file(file_path):
-    """Process a Tana export file."""
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-        
-        # Process the content into blocks
-        content_blocks = process_content_blocks(content)
-        
-        # Parse each block into a Readwise-compatible object
-        highlights = [
-            parse_content_block(block) for block in content_blocks if block.strip()
-        ]
-        
-        return {"highlights": highlights}
-    
-    except Exception as e:
-        print(f"Error processing file {file_path}: {str(e)}")
-        sys.exit(1)
+def clean_block_content(block):
+    """Clean the content by removing tags."""
+    # Remove all tags that match the pattern #tag
+    cleaned = re.sub(r'#[a-zA-Z0-9_/-]+', '', block)
+    return cleaned.strip()
 
-def save_readwise_json(data, output_path):
-    """Save processed data to a JSON file for Readwise import."""
-    try:
-        # Ensure the output directory exists
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
-        
-        # Write the output file
-        with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2)
-        
-        print(f"✅ Successfully processed {len(data['highlights'])} highlights")
-        print(f"Output written to: {output_path}")
+def categorize_highlights(readwise_highlights, tana_structure, tana_highlights):
+    """Categorize both Readwise and Tana highlights according to Tana structure."""
+    # Create a dictionary to hold categorized highlights
+    categories = {}
     
-    except Exception as e:
-        print(f"Error saving output file: {str(e)}")
-        sys.exit(1)
+    # Initialize categories based on structure
+    for item in tana_structure:
+        path_key = ' > '.join(item['path'])
+        if path_key not in categories:
+            categories[path_key] = {
+                'title': item['text'],
+                'path': item['path'],
+                'highlights': []
+            }
+    
+    # Add "Uncategorized" category
+    if "Uncategorized" not in categories:
+        categories["Uncategorized"] = {
+            'title': "Uncategorized",
+            'path': ["Uncategorized"],
+            'highlights': []
+        }
+    
+    # First, categorize Tana highlights
+    # These are already in the Tana structure so they're easier to match
+    for highlight in tana_highlights:
+        # For each highlight, find the best matching category
+        best_match = None
+        best_match_score = 0
+        
+        for path_key, category in categories.items():
+            # Calculate a matching score 
+            # For Tana highlights, we can use a more sophisticated approach
+            path_text = ' '.join(category['path']).lower()
+            highlight_text = highlight['content'].lower()
+            
+            # Try to find exact section references
+            section_mentions = any(p.lower() in highlight_text for p in category['path'])
+            
+            # Calculate word overlap
+            path_words = set(path_text.split())
+            highlight_words = set(highlight_text.split())
+            overlap = len(path_words.intersection(highlight_words))
+            
+            # Calculate score: section mentions are stronger signals
+            score = overlap + (10 if section_mentions else 0)
+            
+            if score > best_match_score:
+                best_match_score = score
+                best_match = path_key
+        
+        # Assign to best match or Uncategorized
+        target_category = categories.get(best_match) if best_match_score > 0 else categories["Uncategorized"]
+        target_category['highlights'].append({
+            'text': highlight['content'],
+            'type': highlight['type'],
+            'source': 'tana'
+        })
+    
+    # Then, categorize Readwise highlights
+    for highlight in readwise_highlights:
+        highlight_text = highlight.get('text', '')
+        if not highlight_text:
+            continue
+            
+        best_match = None
+        best_match_score = 0
+        
+        for path_key, category in categories.items():
+            # Calculate a simple matching score based on word overlap
+            category_words = set(' '.join(category['path']).lower().split())
+            highlight_words = set(highlight_text.lower().split())
+            overlap = len(category_words.intersection(highlight_words))
+            
+            if overlap > best_match_score:
+                best_match_score = overlap
+                best_match = path_key
+        
+        # Assign to best match or Uncategorized
+        target_category = categories.get(best_match) if best_match_score > 0 else categories["Uncategorized"]
+        target_category['highlights'].append({
+            'text': highlight_text,
+            'source': 'readwise'
+        })
+    
+    return categories
 
-def integrate_tana_readwise(tana_file, readwise_file, output_dir):
-    """Integrate Tana exports with Readwise format."""
-    # Process the Tana file
-    highlights_data = process_tana_file(tana_file or readwise_file)
+def write_output_files(categories, output_dir, tana_highlights, tana_notes):
+    """Write categorized highlights to output files."""
+    # Create output directory if it doesn't exist
+    os.makedirs(output_dir, exist_ok=True)
     
-    # Generate output filename
-    filename = os.path.basename(tana_file or readwise_file)
-    output_file = os.path.join(output_dir, f"{os.path.splitext(filename)[0]}.json")
+    # Create an index file
+    index_path = os.path.join(output_dir, "00_index.md")
+    with open(index_path, 'w', encoding='utf-8') as index_file:
+        index_file.write("# Organized Highlights Index\n\n")
+        index_file.write(f"Generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+        
+        index_file.write("## Categories\n\n")
+        for path_key, category in categories.items():
+            if len(category['highlights']) > 0:
+                safe_filename = create_safe_filename(category['title'])
+                index_file.write(f"- [{category['title']}]({safe_filename}.md) ({len(category['highlights'])} highlights)\n")
     
-    # Save the output
-    save_readwise_json(highlights_data, output_file)
+    # Write category files
+    for path_key, category in categories.items():
+        if len(category['highlights']) == 0:
+            continue
+            
+        safe_filename = create_safe_filename(category['title'])
+        file_path = os.path.join(output_dir, f"{safe_filename}.md")
+        
+        with open(file_path, 'w', encoding='utf-8') as f:
+            # Write header
+            f.write(f"# {category['title']}\n\n")
+            f.write(f"Path: {' > '.join(category['path'])}\n\n")
+            f.write(f"Contains {len(category['highlights'])} highlights\n\n")
+            
+            # Write highlights
+            f.write("## Highlights\n\n")
+            for highlight in category['highlights']:
+                source_tag = f"[{highlight.get('source', 'unknown')}]" if 'source' in highlight else ""
+                type_tag = f"[{highlight.get('type', 'highlight')}]" if 'type' in highlight else ""
+                tags = f"{source_tag} {type_tag}".strip()
+                
+                f.write(f"### {highlight.get('text', '')}  \n")
+                if tags:
+                    f.write(f"*Tags: {tags}*\n\n")
+                if 'note' in highlight and highlight['note']:
+                    f.write(f"*Note: {highlight['note']}*\n\n")
+                f.write("---\n\n")
     
-    return output_file
+    print(f"Output files written to {output_dir}")
+
+def create_safe_filename(text, max_length=100):
+    """Convert text to a safe filename with a maximum length."""
+    # Remove invalid characters and replace spaces with underscores
+    safe = re.sub(r'[^\w\s-]', '', text).strip().lower()
+    safe = re.sub(r'[-\s]+', '_', safe)
+    
+    # Truncate to max_length, ensuring it doesn't cut off mid-word
+    if len(safe) > max_length:
+        safe = safe[:max_length].rsplit('_', 1)[0]
+    
+    return safe
 
 def main():
-    parser = argparse.ArgumentParser(description='Process Tana exports for Readwise integration')
-    parser.add_argument('--tana-file', help='Path to the Tana export file')
-    parser.add_argument('--readwise-file', help='Path to the file to be imported into Readwise')
-    parser.add_argument('--output-dir', required=True, help='Output directory for processed files')
-    parser.add_argument('--verbose', action='store_true', help='Enable verbose output')
+    """Main function."""
+    args = parse_arguments()
+    verbose = args.verbose
     
-    args = parser.parse_args()
+    # Load data from Readwise file
+    readwise_highlights = load_readwise_highlights(args.readwise_file)
     
-    if not args.tana_file and not args.readwise_file:
-        print("Error: Either --tana-file or --readwise-file must be provided")
-        parser.print_help()
-        sys.exit(1)
+    # If Tana file is provided, use it for structure and highlights
+    if args.tana_file:
+        tana_structure = parse_tana_export(args.tana_file)
+        tana_highlights, _ = extract_highlights_from_tana(args.tana_file, verbose)
+    else:
+        # If no Tana file, use a simple flat structure and no Tana highlights
+        print("No Tana file provided. Using only Readwise highlights with a flat structure.")
+        tana_structure = [{'path': ['Content'], 'text': 'Content'}]
+        tana_highlights = []
     
-    # Process the integration
-    output_file = integrate_tana_readwise(args.tana_file, args.readwise_file, args.output_dir)
+    # Categorize highlights
+    categories = categorize_highlights(readwise_highlights, tana_structure, tana_highlights)
     
-    print(f"Processing complete. Results saved to {output_file}")
+    # Write output files
+    write_output_files(categories, args.output_dir, tana_highlights, [])
+    
+    print("Integration completed successfully!")
 
 if __name__ == "__main__":
     main()
