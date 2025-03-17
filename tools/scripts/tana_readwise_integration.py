@@ -46,12 +46,12 @@ def parse_tana_export(file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
         
-        # Find the Structural Order section within #inspectional reading
-       structural_pattern = re.compile(r'#Inspectional_Reading.*?\*\*Structural Order\*\*:(.*?)(?=\n#|\Z)', re.DOTALL)
+        # Find the Structural Order section within #Inspectional_Reading
+        structural_pattern = re.compile(r'#Inspectional_Reading.*?\*\*Structural Order\*\*:(.*?)(?=\n#|\Z)', re.DOTALL)
         structural_match = structural_pattern.search(content)
         
         if not structural_match:
-            print("Error: Could not find 'Structural Order' within '#inspectional reading' in Tana export")
+            print("Error: Could not find 'Structural Order' within '#Inspectional_Reading' in Tana export")
             return None
         
         structure_content = structural_match.group(1).strip()
