@@ -41,7 +41,7 @@ def load_readwise_highlights(file_path):
         highlights_text = highlights_section_match.group(1)
         
         # Parse each highlight with the new pattern
-        highlight_matches = re.findall(r'- (.*?)\s*\(\[Location \d+\].*?\))', highlights_text, re.DOTALL)
+        highlight_matches = re.findall(r'- (.*?)\s*\(.*?\)', highlights_text, re.DOTALL)
         
         for match in highlight_matches:
             # Clean up the highlight text
