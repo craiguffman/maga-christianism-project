@@ -34,14 +34,14 @@ def load_readwise_highlights(file_path):
         markdown_text = f.read()
     
     # Find the Highlights section
-    highlights_section_match = re.search(r'### Highlights\n\n(.*?)(?=\n#|\Z)', markdown_text, re.DOTALL)
+    highlights_section_match = re.search(r'### Highlights\n(.*)', markdown_text, re.DOTALL)
     
     highlights = []
     if highlights_section_match:
         highlights_text = highlights_section_match.group(1)
         
-        # Parse each highlight
-        highlight_matches = re.findall(r'- (.*?)\s*\(\[Location \d+\].*?\)', highlights_text, re.DOTALL)
+        # Parse each highlight with the new pattern
+        highlight_matches = re.findall(r'- (.*?)\s*\(\[Location \d+\].*?\))', highlights_text, re.DOTALL)
         
         for match in highlight_matches:
             # Clean up the highlight text
