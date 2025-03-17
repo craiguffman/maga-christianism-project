@@ -29,16 +29,29 @@ def parse_arguments():
     parser.add_argument('--output-dir', required=True, help='Path to output directory')
     return parser.parse_args()
 
-def load_readwise_export(file_path):
-    """Load and parse Readwise export JSON file."""
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-        print(f"Loaded {len(data)} highlights from Readwise export")
-        return data
-    except Exception as e:
-        print(f"Error loading Readwise export: {e}")
-        sys.exit(1)
+ddef load_readwise_highlights(file_path):
+    with open(file_path, 'r', encoding='utf-8') as f:
+        markdown_text = f.read()
+    
+    # Find the Highlights section
+    highlights_section_match = re.search(r'### Highlights\n\n(.*?)(?=\n#|\Z)', markdown_text, re.DOTALL)
+    
+    highlights = []
+    if highlights_section_match:
+        highlights_text = highlights_section_match.group(1)
+        
+        # Parse each highlight
+        highlight_matches = re.findall(r'- (.*?)\s*\(\[Location \d+\].*?\)', highlights_text, re.DOTALL)
+        
+        for match in highlight_matches:
+            # Clean up the highlight text
+            highlight_text = match.strip().replace('\n', ' ')
+            highlights.append({
+                'text': highlight_text
+            })
+    
+    print(f"Loaded {len(highlights)} highlights from {file_path}")
+    return highlights
 
 def parse_tana_export(file_path):
     """Parse Tana export markdown file to extract structural organization."""
