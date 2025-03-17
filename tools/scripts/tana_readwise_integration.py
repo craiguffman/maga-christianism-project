@@ -237,11 +237,16 @@ def write_output_files(categories, output_dir, tana_highlights, tana_notes):
     
     print(f"Output files written to {output_dir}")
 
-def create_safe_filename(text):
-    """Convert text to a safe filename."""
+def create_safe_filename(text, max_length=100):
+    """Convert text to a safe filename with a maximum length."""
     # Remove invalid characters and replace spaces with underscores
     safe = re.sub(r'[^\w\s-]', '', text).strip().lower()
     safe = re.sub(r'[-\s]+', '_', safe)
+    
+    # Truncate to max_length, ensuring it doesn't cut off mid-word
+    if len(safe) > max_length:
+        safe = safe[:max_length].rsplit('_', 1)[0]
+    
     return safe
 
 def main():
