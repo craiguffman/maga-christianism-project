@@ -252,8 +252,18 @@ def save_notes(notes, output_dir):
         # Save individual notes for this figure
         for i, note in enumerate(figure_notes):
             total_count += 1
-            # Create a filename based on the path
+            # Create a filename based on the path, but limit its length
             safe_path = re.sub(r'[<>:"/\\|?*]', '_', note['path'])
+            
+            # Truncate the path if it's too long (allowing for directory, numbers, and extension)
+            # Max filename length on most systems is 255 bytes
+            max_path_length = 180  # Conservative limit to allow for directory prefix and extension
+            if len(safe_path) > max_path_length:
+                # Keep the start and end, but truncate the middle
+                start_length = max_path_length // 2
+                end_length = max_path_length - start_length - 3  # 3 for "..."
+                safe_path = safe_path[:start_length] + "..." + safe_path[-end_length:]
+            
             filename = f"{total_count:04d}_{safe_path}.txt"
             filepath = os.path.join(figure_dir, filename)
             
@@ -264,13 +274,31 @@ def save_notes(notes, output_dir):
                 'filename': rel_path
             }
             
-            # Write the note content to the file
-            with open(filepath, 'w', encoding='utf-8') as f:
-                if note['title']:
-                    f.write(f"# {note['title']}\n\n")
-                f.write(note['text'])
-            
-            print(f"Saved note: {filepath}")
+            try:
+                # Write the note content to the file
+                with open(filepath, 'w', encoding='utf-8') as f:
+                    if note['title']:
+                        f.write(f"# {note['title']}\n\n")
+                    f.write(note['text'])
+                
+                print(f"Saved note: {os.path.basename(filepath)}")
+            except OSError as e:
+                if "File name too long" in str(e):
+                    # Try with an even shorter filename if still too long
+                    short_filename = f"{total_count:04d}_note.txt"
+                    short_filepath = os.path.join(figure_dir, short_filename)
+                    with open(short_filepath, 'w', encoding='utf-8') as f:
+                        if note['title']:
+                            f.write(f"# {note['title']}\n\n")
+                        f.write(f"Original path: {note['path']}\n\n")
+                        f.write(note['text'])
+                    
+                    rel_path = os.path.relpath(short_filepath, output_dir)
+                    file_mapping[total_count]['filename'] = rel_path
+                    print(f"Saved note with shortened name: {short_filename}")
+                else:
+                    # Re-raise if it's a different error
+                    raise
         
         # Create a figure-specific metadata file
         if figure != "Other":
