@@ -1,0 +1,50 @@
+# Lexicon Entry Template
+
+[Store as: #creation/tool/template/lexicon_entry v1.0]
+
+# 📘 Lexicon Entry: [Concept Name]
+
+![Lexicon Banner](https://via.placeholder.com/1200x400/e6f7ff/0066cc?text=[Concept_Name])
+
+> *This is part of the Christianism Lexicon, a collection of key terms and concepts explored in my ongoing work. [View the complete glossary →](#)*
+
+---
+
+## Definition
+[Provide a precise, concise definition (1-2 sentences) that captures the essence of the concept. This should be accessible yet academically rigorous.]
+
+## Etymology
+[Trace the historical development of the term, including:
+- Original linguistic roots if relevant
+- First significant uses in relevant discourse
+- Key figures who developed or transformed the concept
+- How meaning has evolved over time]
+
+## Contemporary Usage
+[Explain how the term functions in current discourse:
+- How it's used in academic literature
+- How it appears in popular/political contexts
+- Common misunderstandings or contested meanings
+- Relationship to adjacent concepts]
+
+## Significance
+[Analyze why this concept matters for understanding MAGA Christianism:
+- How it illuminates aspects of the phenomenon
+- Why it's a useful analytical tool
+- Connections to the three mutations (if applicable)
+- Implications for theological analysis]
+
+---
+
+### Related Terms
+- [Related Term 1](#) 
+- [Related Term 2](#)
+- [Related Term 3](#)
+
+---
+
+*This lexicon entry was last updated on [DATE]. Cite as: Craig Uffman, "[Concept Name]," Christianism Lexicon, [DATE].*
+
+---
+
+⬅️ [Return to Main Glossary](#) | ➡️ [Continue Reading: Latest Analysis](#)

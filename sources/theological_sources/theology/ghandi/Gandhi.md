@@ -1,0 +1,315 @@
+# Gandhi
+
+![](https://m.media-amazon.com/images/I/41Y3arZ2xML._SY160.jpg)
+
+### Metadata
+
+- Author: Mohandas Gandhi
+- Full Title: Gandhi
+- Category: #books
+
+### Highlights
+
+- swaraj, ([Location 144](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=144))
+    - **Tags:** #pink
+- introducing a distinction between swaraj as self-government or the quest for home rule or the good state, and swaraj as self-rule or the quest for self-improvement. ([Location 145](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=145))
+- Gandhi was anxious to teach the Indians that ‘modern civilisation’ posed a greater threat to them than did colonialism. They appeared to him to take it for granted that modern civilisation was an unmixed blessing, and colonialism an unmixed evil, forgetting that colonialism itself was a product of modern civilisation. ([Location 151](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=151))
+- The key to an understanding of Hind Swaraj lies in the idea that worldly pursuits should give way to ethical living. This way of life has no room for violence in any form against any human being, black or white’ ([Location 156](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=156))
+- But it is an attempt to see beauty in voluntary simplicity, [voluntary] poverty and slowness. ([Location 161](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=161))
+- You cannot build non-violence on a factory civilisation, but it can be built on self-contained villages’ ([Location 163](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=163))
+    - **Tags:** #orange
+- In the past dharma was tied to a hierarchical system of duties and obligations and to the preservation of status. It gave little or no attention to the idea of democratic citizenship. Gandhi felt that the time had come to redefine the scope of dharma to include notions of citizenship, equality, liberty, fraternity and mutual assistance. And in Hind Swaraj he presents in simple language his notion of such a redefined dharma, ([Location 169](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=169))
+- Gandhian civic humanism, ([Location 172](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=172))
+    - **Tags:** #pink
+- the Gita and the Ramayana had always contained in potentia, but something which Indian civilisation had not actualised fully in practice. In Hind Swaraj a conscious attempt is being made to actualise that potential. ([Location 172](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=172))
+- ‘We may read the Gita or the Ramayana or Hind Swaraj. But what we have to learn from them is desire for the welfare of others’ ([Location 176](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=176))
+    - **Tags:** #blue
+- the author’s conception of what modern India ought to become and how politics may be made into the highest form of the active life. ([Location 180](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=180))
+- Being critical implies the desire to improve the object criticised. So it is with Gandhi and modern civilisation. Thus he welcomes a number of its contributions – civil liberty, equality, rights, prospects for improving the economic conditions of life, liberation of women from tradition, and religious toleration. At the same time, the welcome is conditional in that liberty has to harmonise with swaraj, rights with duties, empirical knowledge with moral insight, economic development with spiritual progress, religious toleration with religious belief, and women’s liberation with the demands of a broader conception of humanity. ([Location 188](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=188))
+- The British constitution remained the standard by which to measure the quality of colonial administration: policies in conformity with it were thought to be good, and those contrary to it, evil. This was true even in the context of his doctrines of satyagraha. As he saw it, there was no inconsistency between these and loyalty to the constitution, for, as he said, a ‘love of truth’ lay at the root of both (CW 39:140). ([Location 198](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=198))
+- civilisation: ([Location 201](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=201))
+    - **Tags:** #pink
+- ‘that mode of conduct which points out to man the path of duty’ (sudharo, ch. XIII). Barbarism (kudharo) is the absence of civilisation. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=202))
+- modern or Western civilisation ([Location 203](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=203))
+    - **Tags:** #pink
+- that ‘mode of conduct’ which emerged from the Enlightenment, and more exactly, from the Industrial Revolution. ([Location 203](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=203))
+- The Industrial Revolution for him was much more than a mere change in the mode of production. As he interprets it, it brought into being a new mode of life, embracing a people’s outlook on nature and human nature, religion, ethics, science, knowledge, technology, politics and economics. According to this outlook, nature was taken to be an autonomous entity operating according to its own laws, something to be mastered and possessed at will for the satisfaction of human needs, desires and political ambitions. This outlook brought about an epistemological revolution which in turn paved the way for the secularisation of political theory. The satisfaction of the desire for economic prosperity came to be identified as the main object of politics. Religion, when it was not dismissed as mere superstition, was valued only for its social and psychological use. The Industrial Revolution altered the concept of labour, now accepted mainly for its ability to produce profit, power and capital. Manual labour was looked upon as fit only for the unlettered and the backward. With the technological revolution that followed the industrial revolution, machines, hitherto allies of humans, seemed to assert their autonomy. ([Location 205](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=205))
+- Two types of political theory emerged, ([Location 215](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=215))
+    - **Tags:** #pink
+- Liberalism and liberal institutions ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=216))
+    - **Tags:** #pink
+- imperialism and colonialism ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=216))
+    - **Tags:** #pink
+- the world for all practical purposes was divided into the industrialised and the non-industrialised, or the ‘civilised’ and the ‘non-civilised’, parts. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=217))
+- He would in all sincerity use the very doctrine of liberty to justify imperial rule over India. ([Location 219](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=219))
+- His idea of nationalism does not start with the locality and then gradually extend itself to the province and finally to the nation. Quite the reverse. He was first an Indian, then a Gujarati, and only then a Kathiavadi. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=246))
+- If Lenin connected colonialism to capitalism, Gandhi went one step further and connected colonialism to modernity itself. ([Location 257](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=257))
+- What was intrinsic to it was commercial expansion, the lust for domination and the glory resulting there-from. When the two forces – good of the colonised and the glory of empire – clashed, there was no doubt which would prevail. ([Location 258](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=258))
+- I had in my speech described Western civilisation as being, unlike the Eastern, predominantly based on force’ ([Location 265](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=265))
+- Christian civilisation and modern Western civilisation: ‘I do not mix up or confuse Western civilisation with Christian progress . . . I refuse to believe that all this [industrial and technological] activity connotes Christian progress, but it does connote Western civilisation’ (CW 8: 244). ([Location 267](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=267))
+- two fallacious maxims: ([Location 270](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=270))
+    - **Tags:** #pink
+- might is right and the survival of the fittest. Moreover, it lacked, he claimed, a ‘goal’, a telos, being ‘centrifugal’ and merely ‘dynamic’. Indian civilisation, on the other hand, had a goal; it was ‘centripetal’, ‘adaptive’ and ‘contemplative’. ‘A civilisation or a condition in which all the forces fly away from the centre must necessarily be without a goal, whereas those who converge to a point have always a goal’ (ibid.). ([Location 270](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=270))
+- it was neither vulgar racism nor crass trade jealousy that motivated the thoughtful opponents of Indians in South Africa: what motivated them, in his view, was their concern for modern civilisation, of which they considered themselves the respresentatives, and which they wanted to protect and promote at all costs. They believed that ‘the nations which do not increase their material wants are doomed to destruction. ([Location 275](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=275))
+- Indians are disliked not for their vices but for their virtues – simplicity, perseverence, patience, frugality and otherworldliness. Westerners are enterprising, impatient, engrossed in multiplying their material wants and in satisfying them. They are afraid that allowing Indians to settle as immigrants in South Africa is tantamount to endorsing cultural suicide ([Location 282](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=282))
+- On the contrary, he felt that contact between civilisations would be healthy and beneficial to the civilisations concerned. In particular, he was of the opinion that Indian civilisation would benefit greatly from its contact with Western civilisation. ([Location 285](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=285))
+- More importantly, it was on these visits that he came into contact with a very important segment of the newly emerging Indian middle class, the expatriate Indians living abroad. These were the new converts to modern civilisation, and it is their uncritical acceptance of their newly found secular faith that really bothered Gandhi. Modern civilisation was bad enough for Britain, but when imported into India and propagated there by Indians themselves, its potential for mischief became incalculable. ([Location 307](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=307))
+- To Gandhi they appeared to be misguided Indians fully committed to ‘modern civilisation’ who wished to fashion India on the model of Great Britain, Italy or Japan. ([Location 318](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=318))
+- Shyamji Krishnavarma ([Location 322](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=322))
+    - **Tags:** #pink
+- As befits a ‘modern’, he came completely under the spell of Herbet Spencer, ([Location 325](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=325))
+- swadeshi movement ([Location 329](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=329))
+    - **Tags:** #pink
+- In 1909, when Gandhi was still in London, four ‘Martyr Dhingra scholarships’ were established to honour the memory of the assassin of Sir William Curzon-Wyllie. The object of these educational endeavours was to bring bright Indian youths to Europe and America for training in the theory and practice of violent revolution. ([Location 329](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=329))
+- two quotations from Spencer: ([Location 336](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=336))
+    - **Tags:** #pink
+- ‘Every man is free to do that which he wills, provided he infringes not the equal freedom of any other man’ (Spencer 1893, 46); and ‘Resistance to aggression is not simply justifiable but imperative. Non resistance hurts both altruism and egoism’ (Spencer 1878, 168). ([Location 336](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=336))
+- V. D. Savarkar ([Location 345](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=345))
+    - **Tags:** #pink
+- It was a modern political act par excellence – terrorism legitimised by nationalism. ([Location 354](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=354))
+- ‘When I was in London’, Gandhi recalled later, ‘Shyamji Krishnavarma and Savarkar and others used to tell me that the Gita and the Ramayana taught quite the opposite of what I said they did’ ([Location 360](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=360))
+- Cama and Chattopadhyaya were typical of the new generation of Indian intellectuals who were captivated by whatever was fashionable in Europe and who embraced one of modernity’s major ideological expressions, Marxism. ([Location 376](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=376))
+- praja, (nation), ([Location 400](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=400))
+    - **Tags:** #pink
+- term newly introduced by Hind Swaraj, and that Indian nationalism should never legitimise violence as a means of national liberation. ([Location 400](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=400))
+- Mere constitutionalism, Gandhi knew from his South African experience, did not get anywhere nor did it raise the fundamental moral issue of the reform of the soul, which for Gandhi was a precondition for sound politics. ([Location 409](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=409))
+    - **Tags:** #orange
+- Swaraj of the type he had envisaged could not be attained without the reform of the soul ([Location 410](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=410))
+- achieved through constitutional means if possible, but through other means if necessary. ([Location 412](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=412))
+- The colonial economic policies, they had argued, served primarily the interests of alien investors, and only secondarily those of the average Indian. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=421))
+- In short, the Moderates have begun well, with good intentions, but it is time that they rethought their goals, methods and priorities. For there is an alternative to both uncreative constitutionalism and violent extremism, ([Location 423](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=423))
+- His conceptions of nationalism and swaraj, he believed, were neutral as far as religion as sect was concerned. His vision of politics as it emerges in 1909 saw Indians as primarily members of a single nation (praja) and only secondarily as members of a sect or a caste or a region, Indians whose humanity would be strong enough to enable them to tolerate difference within the context of a deeper national identity. ([Location 431](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=431))
+    - **Tags:** #orange
+- On the one hand the colonial administrators behave as if they represent a superior civilisation – the modern civilisation. On the other hand, the new Indian middle class was behaving as if the colonial administrators were right. ([Location 436](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=436))
+- In defending the modern state merely as an efficient system of coercive power and nothing more than that, the colonial administrators were doing India a disservice. And in attempting to modernise India on the pattern of England and Japan, the modern middle class was wreaking economic havoc on India’s poor and the rural population. ([Location 438](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=438))
+- Both India and Britain had to reintegrate whatever was humane in modern civilisation within the framework of their own respective traditional religions. At such a time as they could accomplish this, and only then, could they do good to their own peoples and to the rest of the world. ([Location 443](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=443))
+    - **Tags:** #pink
+- Socrates was ‘a great satyagrahi’ who practised satyagraha against his own people. ([Location 497](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=497))
+- India’s body politic is being afflicted by both the external virus of foreign rule and the internal virus of domestic corruption. ([Location 499](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=499))
+- Gandhi himself directs the readers of Hind Swaraj to read six of Tolstoy’s works, listed in the Appendix. ([Location 507](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=507))
+- two major obstacles ([Location 518](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=518))
+    - **Tags:** #pink
+- first ([Location 519](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=519))
+    - **Tags:** #pink
+- institutional Christianity, which justified the state, endorsed the theory of just war, and condoned military service. ([Location 519](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=519))
+- second obstacle ([Location 521](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=521))
+    - **Tags:** #pink
+- social scientists. They tended to reject the primacy of the conscience, inner illumination and inner change in favour of external or institutional changes. According to Tolstoy, however, religion is ‘the faculty of seeing prophetically the true meaning of life’; as such it is an indispensable source of all sound political theory. But moderns such as Renan, Strauss, Comte, Spencer and Marx either reject religion as superstition or value it only for its social or psychological uses. ([Location 521](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=521))
+- Tolstoy’s What is Art?, ([Location 532](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=532))
+    - **Tags:** #pink
+- Tolstoy rejects the doctrine of an autonomous art – of art for art’s sake. ([Location 535](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=535))
+    - **Tags:** #pink, #favorite
+- The separation of the claims of aesthetics from those of goodness, for which he blames Nietzsche, the French Decadents and the early Oscar Wilde, is contributing greatly to the corruption of life in modern times. ([Location 537](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=537))
+- All authentic art for Tolstoy springs from an inner experience of the ‘religious’ perception of the meaning of life. ([Location 540](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=540))
+- ‘Art is a human activity consisting in this, that one man consciously, by means of certain external signs, hands to others feelings he has lived through, and that others are infected by these feelings and also experience them . . . To evoke in oneself a feeling one has once experienced and, having evoked it in oneself, then by means of movements, lines, colours, sounds, or forms expressed in words, so to transmit that feeling that others experience the same feeling – this is the activity of art’ (Tolstoy 1924, 173). ([Location 540](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=540))
+    - **Tags:** #blue
+- distinguishes between the internal criterion of art and the subject matter of art. ([Location 544](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=544))
+    - **Tags:** #pink
+- internal criterion, ([Location 545](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=545))
+    - **Tags:** #pink
+- by which all art must be judged in the first instance, is the ability to evoke feelings. ([Location 545](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=545))
+- external criterion as to its subject matter: ([Location 546](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=546))
+    - **Tags:** #pink
+- the external criterion by which art is judged in the second instance is art’s ability or the lack thereof of promoting feelings of love and human solidarity. According to Tolstoy art has an indispensable role to play in the great task of counteracting the hedonistic tendencies of modern culture. Its task today, as to its external criterion, ‘is to make that feeling of brotherhood and love of one’s neighbour now attained by only the best members of society, the customary feeling and instinct of all men’ (ibid., 332). ([Location 546](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=546))
+- underlines the importance of the need to have an inner experience of what swaraj means; ([Location 551](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=551))
+- spinning-wheel ([Location 554](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=554))
+    - **Tags:** #pink
+- Through that symbol alone – there were many others that he used with great effect – he communicated values of solidarity between the rich and the poor, of manual labour, and what we would now describe as appropriate technology. ([Location 554](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=554))
+- Three other of Tolstoy’s works listed in the Appendix – How Shall We Escape?, The Slavery of Our Times and The First Step ([Location 556](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=556))
+- ‘it is not the English who have enslaved the Indians, but the Indians who have enslaved themselves’. ([Location 561](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=561))
+    - **Tags:** #blue
+- A Joy for Ever and Its Price in the Market ([Location 571](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=571))
+    - **Tags:** #pink
+- True political economy, unlike the one accepted by modernity, is the proper management of the nation’s labour. Now the proper management of the nation’s labour ought, Ruskin urged, to provide for both ‘utility and splendour’. In other words, it should provide for the basic needs for food, shelter and clothing, pleasant objects of minimum luxury, healthful rest, and serviceable leisure – and in that order. When labour is well managed, it would be able to provide for all these. ([Location 575](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=575))
+- Ruskin’s view is that ‘blankets’ must come before ‘silk laces’: ‘as long as there are cold and nakedness in the land around you, so long there can be no question at all that splendour in dress is a crime . . . as long as there are any who have no blankets for their beds, and no rags for their bodies, so long it is blanket-making and tailoring we must set people to work at – not lace’ (Ruskin 1911, 59). There can be… ([Location 580](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=580))
+- Ruskin’s, Unto… ([Location 584](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=584))
+    - **Tags:** #pink
+- The following is the account of what he learnt from that book: ‘(1) That the good of the individual is contained in the good of all. (2) That a lawyer’s work has the same value as the barber’s, inasmuch as all have the same right of earning their livelihood from their work. (3) That a life of labour, i.e., the life of the tiller of the soil and the handicraftsman, is the life worth living. The first of these I knew. The second I had dimly realised. The… ([Location 586](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=586))
+    - **Tags:** #blue
+- the prototype of the three other communities or ashrams he founded later in his life, the Tolstoy Farm outside Johannesburg, the Sabarmati Ashram outside… ([Location 592](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=592))
+    - **Tags:** #blue
+- The title Unto This Last came from St.… ([Location 595](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=595))
+- Ruskin had postulated ‘social affection’ as the basic principle of a humane economy, in place of ‘self-interest’ and ‘competition’… ([Location 597](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=597))
+- Ruskin wanted to moderate the forces of the market by the… ([Location 599](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=599))
+- Gandhi understood honour in terms not of obligations of status, but of equality… ([Location 600](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=600))
+    - **Tags:** #orange
+- As Gandhi recognised, the Indian middle class was clamouring for swaraj, which it identified with political power – to be gained by driving out the British by force – and with economic prosperity… ([Location 603](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=603))
+- Real swaraj required not only political power and economic prosperity but also, and above all, a certain moral development among the people, especially the middle class. ‘Real swaraj consists in restraint. He alone is capable of this who leads a moral life,… ([Location 606](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=606))
+    - **Tags:** #blue
+- ‘We must have industry’, he agreed, ‘but of the… ([Location 609](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=609))
+    - **Tags:** #blue
+- ‘India was once looked upon as a golden land’, he wrote, ‘because Indians then were people of sterling worth. The land is still the same but the people have changed and that is why it has become arid. To transform it into a golden land again’, he concluded, ‘we must transmute ourselves into gold by leading a life of virtue. The philosopher’s stone which can bring this about consists of two syllables: satya [truth]. If… ([Location 612](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=612))
+    - **Tags:** #blue
+- The introduction of the new utilitarian state, with its new adversarial court system, led to the ruin of the villages as the ultimate unit of national life, shifting their economic power to the new urban centres and their quasijudicial and quasi-legislative powers to the new breed of lawyers condemned in chapter XI of Hind Swaraj. ([Location 623](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=623))
+- The life of the Indian peasant had become a veritable hell. He had become prey for the greedy urban middle class. ([Location 627](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=627))
+- Gandhi retains the metaphor but modifies its use – modern civilisation is a curable disease, and Gandhi presumably its doctor, at least as far as India is concerned. ([Location 637](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=637))
+- Its motto, ‘simplicity, art, aspiration’, appealed to Gandhi greatly. ([Location 640](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=640))
+- Taylor’s Fallacy of Speed was also summarised in Indian Opinion (CW 10: 379). Divided into three short chapters – ‘Speed and population’, ‘Speed and profit’ and ‘Speed and pleasure’ – the book challenges the prevailing assumption that ‘faster is better’. He had in mind the railways (see Hind Swaraj, ch. IX), the shift of population from rural areas to new ugly, urban centres, the dwindling of opportunities for leisure and relaxation. ([Location 646](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=646))
+- Taylor reaches the pessimistic conclusion that ‘on the whole’ healthy conditions are less readily available under the reign of speed than they were under the reign of a slower pace: ‘there is something about the age in which we live which militates against leisure in considerable sections of the community ([Location 650](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=650))
+- Pessimism is never normative to Hind Swaraj; on the contrary, the book is hopeful that the advent of a moral revolution in the hearts and minds of the rich and the powerful, i. e., the advent of real swaraj, would still be a possibility. ([Location 680](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=680))
+- His Principles of Civil Disobedience was paraphrased and published in 1907 in Indian Opinion. He was heartened to read that conscience, not majorities, should have the ultimate say in judging what is politically right and wrong, that while it is not one’s duty to eradicate evil, it is certainly one’s first duty not to give support to it, that even one person’s action counts although the multitude may be opposed to it, that in an unjust political regime the prison is the right place for the just person, that only that state is worthy of obedience which recognises the just individual ‘as a higher and independent power’ from which the state’s own power is ultimately derived. ([Location 687](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=687))
+- He would have agreed with Thoreau’s dicta that politics without virtue is ‘a kind of vegetation’, that good manners cannot be a substitute for civic virtue. What modern politics lacks and what it needs most is ‘a high and earnest purpose’, and an appreciation for ‘culture more than for potatoes’. ([Location 693](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=693))
+- The 1903 edition, first series, available in South Africa, contained such essays as ‘History’, ‘Self-reliance’, ‘Spiritual laws’, ‘Heroism’, ‘The over-soul’, and ‘Art’. In any case, Gandhi saw in Emerson’s essays, as he put it, ‘the teaching of Indian wisdom in a Western garb’ (ibid.). ([Location 699](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=699))
+- Italy’s struggle against Austria and the history of its unification had an almost normative standing in late nineteenth-and early twentieth-century Indian consciousness. ([Location 704](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=704))
+- his now famous 27-point letter to Rajchandra (CW 1: 90–1). What is the nature of the soul (atma), God (Ishwar), liberation (moksha), the Vedas, the Gita, animal sacrifice, the religion of the Aryans, Christianity, the Bible, theistic devotion (bhakti), the doctrines of transmigration, incarnation, and trinity (Brahma, Vishnu, Shiva)? ([Location 726](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=726))
+- The soul is the indestructible, non-material, eternal substance whose essence is consciousness, knowledge, bliss and freedom. God is but the soul in its absolute perfection. Humans, being caught in their bodily existence, are in need of liberation from passions, which is attainable only through rigorous asceticism, self-purification and withdrawal from the world. And since this is not easily achieved, humans have to pass through a countless series of births and rebirths. ([Location 729](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=729))
+- the Jaina doctrine of ‘the many-sidedness’ of religious truth (anekantavada). The human mind can only acquire fleeting and fragmentary understanding of truth, and therefore it is presumptuous for any human… ([Location 733](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=733))
+- that elusive notion, dharma. ‘Dharma does not mean any particular creed or dogma. Nor does it mean reading or learning by rote books known as Shastras (sacred texts) or even believing all that they say’ (CW 32: 11). Rather, dharma is ‘a quality of the soul’ present in every human being. ‘Through it we know our duty in human life and our true relation with other souls . . . dharma is the means [sadhana] by which we can know ourselves’ (ibid.). No organised religion is a special… ([Location 736](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=736))
+- Panchikaran, Maniratnamala, Mumukshu Prakaran of Yogavasishta, and Mokshamala. Gandhi followed this up by a study of the classics of Indian thought – the Upanishads, Patanjali’s Yogasutra, the… ([Location 741](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=741))
+- ‘religion which underlies all religions’… ([Location 745](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=745))
+    - **Tags:** #blue
+- self-rule, understood as the rule of the mind over itself and the passions is… ([Location 749](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=749))
+- the man of steady mind or steady wisdom’ (Gita II, 54–72) is Gandhi’s ideal of the person who… ([Location 750](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=750))
+- draws a fundamental distinction… ([Location 752](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=752))
+- imperishable, eternal, spiritual substratum of the being of… ([Location 753](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=753))
+- embodied spatio-temporal self, composed of body, senses,… ([Location 753](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=753))
+- Though the dehin’s ultimate end is self-realisation or atmadarshan, it is the… ([Location 755](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=755))
+- (power, property and… ([Location 756](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=756))
+- (pleasure and the avoidance of pain) that are the proper objects… ([Location 756](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=756))
+- proper pursuit of these ends requires that they be pursued within the… ([Location 757](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=757))
+- Thus the mind emerges as the key faculty in Gandhi’s political philosophy, swaraj being the rule of the mind over itself and the passions (ch. xx). The possession of a disciplined mind – free from an inordinate desire for property, pleasure and power – is the prerequisite for the… ([Location 758](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=758))
+- Swaraj and home rule must meet in a newly constituted… ([Location 762](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=762))
+    - **Tags:** #orange
+- The Reader is a composite of ‘modern’ Indians including the expatriates he had met in London in 1906 and 1909. ([Location 771](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=771))
+- The dialogue form gives the careful reader certain general guidelines of interpretation. ([Location 775](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=775))
+- Dialogues, especially those on ‘difficult subjects’, remain open-ended affairs, ([Location 777](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=777))
+- There is little room for dogmatism, ([Location 778](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=778))
+- Being open to each other’s point of view is of course the hallmark of a true satyagrahi. ([Location 780](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=780))
+- The book is divided into twenty short chapters. ([Location 781](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=781))
+- Eleven of these deal with historical reflections, while the rest deal with philosophical ones. ([Location 781](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=781))
+- Philosophical reflections begin with a preliminary statement on the nature of swaraj (ch. IV), followed by a revised statement (ch. XIV). A similar two-step examination of the nature of civilisation follows (chs. VI and XIII). ([Location 790](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=790))
+- Chapter xx makes a series of practical proposals to the Moderates, the Extremists, the new middle class and the English. ([Location 795](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=795))
+- it can become such only when it is practised within the framework of an updated dharma – i.e., a dharma suited for life in the modern world of liberty, equality and prosperity. If, and only if, Indians can develop and implement such a dharma will they be able to integrate within their own culture whatever is good in colonialism and modern civilisation. ([Location 797](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=797))
+    - **Tags:** #orange
+- depending on its ethical orientation. ([Location 801](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=801))
+- Only an innovated Indian civilisation can help India attain swaraj. ([Location 802](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=802))
+- Such a civilisation, Gandhi believes, would contribute towards the reduction of political violence, the moderation of greed, the increase of compassion, the advent of economic prosperity, and the spiritual integration of the individual. ([Location 803](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=803))
+    - **Tags:** #pink
+- Gandhi draws a subtle distinction between ([Location 805](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=805))
+- swaraj as self-rule ([Location 805](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=805))
+    - **Tags:** #pink
+- and ([Location 806](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=806))
+- swaraj as self-government or home rule. ([Location 806](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=806))
+    - **Tags:** #pink
+- Swaraj as self-rule is the rule of the self by the self. More precisely, it is the rule of the mind over itself and the passions – the passions of greed and aggression, in particular. Self-rule enables one to pursue artha and kama within the bounds of dharma. ([Location 806](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=806))
+- Swaraj as self-government or home rule is the rule of the nation (praja) by the nation. It is the founding and maintaining of the good state (surajya). ([Location 808](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=808))
+- self-rule itself can flourish only within an appropriate political community. ([Location 810](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=810))
+    - **Tags:** #orange
+- Gandhi defends the view that India is a nation deserving self-government. That India is a nation was a contested issue at the time Gandhi was writing Hind Swaraj. He enters into the debate by claiming that India is a praja, the word he uses for nation. ([Location 811](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=811))
+    - **Tags:** #orange
+- The places of pilgrimage they established in the South and the North, the East and the West of India were… ([Location 814](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=814))
+- characterised by its openness to outside values and by its assimilative capacity. It therefore was able to… ([Location 816](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=816))
+- hostilities are therefore resolvable within the context of the notion of praja. In other words, the traditional notion of praja offers a basis upon which the new edifice of a modern… ([Location 817](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=817))
+- It is axiomatic in Hind Swaraj that the good of self-government or true home rule that India achieves will be in proportion to the good of self-rule that Indians achieve. In other words, true… ([Location 821](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=821))
+    - **Tags:** #orange
+- they must fit themselves for it by undergoing a suitable degree of… ([Location 823](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=823))
+- Once Indians have undergone such self-transformation, they will refuse to use violent means to obtain… ([Location 824](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=824))
+- Satyagraha will appear to be a legitimate means available to those… ([Location 824](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=824))
+- The Reader in Hind Swaraj mistakenly believes that the end of the Raj will… ([Location 825](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=825))
+    - **Tags:** #orange
+- it may bring mere home rule (the rule of the modern coercive state) but not true home rule (the rule of the just, limited state); in any… ([Location 826](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=826))
+- crucial question of whether there can be true home rule or… ([Location 828](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=828))
+    - **Tags:** #orange
+- which can be acquired in turn only by the practice of… ([Location 830](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=830))
+    - **Tags:** #pink
+- temperance/… ([Location 830](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=830))
+    - **Tags:** #pink
+- truth or truthfulness (… ([Location 831](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=831))
+    - **Tags:** #pink
+- justice or freedom from possessiveness… ([Location 831](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=831))
+    - **Tags:** #pink
+- courage or the capacity to overcome fear, including the… ([Location 831](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=831))
+    - **Tags:** #pink
+- Such inner experience of self-rule enables the citizens to reinforce their political ethics by their aesthetic feelings, their… ([Location 833](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=833))
+- The spinning-wheel remained for him a symbol of many things – of spiritual dynamism, of the importance of manual labour, of solidarity between the rich and the poor, of the protest against the tyranny of modern ‘machinery’ (… ([Location 835](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=835))
+- major obstacle to Indian… ([Location 838](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=838))
+- sectarian… ([Location 838](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=838))
+    - **Tags:** #pink
+- fostered by certain sections of both Muslims… ([Location 838](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=838))
+- development of a moderate, liberal nationalism, based on the concept of praja, reintroduced into the… ([Location 839](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=839))
+- the evil of… ([Location 840](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=840))
+    - **Tags:** #pink
+- famous distinction between religion as organisation and religion as… ([Location 841](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=841))
+    - **Tags:** #pink
+- Underlying all organised religions there is a universal ethic and spirituality (ch. VIII) which teaches the unconditional… ([Location 841](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=841))
+    - **Tags:** #orange
+- religion as organisation serves as a convenient means of maintaining a certain type of pre-political identity, and as a means of reaching certain, much yearned for spiritual ends. As… ([Location 842](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=842))
+- organised religions ought to practise toleration towards each other. Hind Swaraj teaches that there are good religious… ([Location 844](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=844))
+- The constitutional approach of the Moderates is… ([Location 846](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=846))
+- violent approach of the Extremists is… ([Location 847](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=847))
+- satyagraha as the only morally acceptable… ([Location 847](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=847))
+- the modern state without swaraj as self-rule would only replace the British… ([Location 849](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=849))
+- ‘the tiger’s nature, but not… ([Location 851](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=851))
+- The tiger is Gandhi’s metaphor for the modern state: all tigers seek their prey, and it makes no difference whether… ([Location 851](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=851))
+- guided by prudence, not metaphysics. Circumstances modify the way in which the… ([Location 856](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=856))
+- Means have to be morally as defensible as the… ([Location 858](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=858))
+- Three strands of thought on… ([Location 860](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=860))
+    - **Tags:** #pink
+- involuntary violence is consistent with Gandhian… ([Location 860](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=860))
+- ‘not one man really practises such a religion [of ahimsa] because we do destroy life. We are said to follow that religion [of ahimsa] because we want to obtain freedom from liability to kill any kind of life’ (ch. x). In other words, what the ethic of non-violence seeks is the freedom from moral culpability for… ([Location 861](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=861))
+- second… ([Location 864](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=864))
+    - **Tags:** #pink
+- for an act to be violent in the Gandhian sense, an intention to harm another living being has to be present. Thus, for example, the act of restraining a child… ([Location 864](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=864))
+- third… ([Location 867](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=867))
+    - **Tags:** #pink
+- self-defence within the limits of natural justice is consistent with non-violence. Gandhian non-violence expects the just state to be the guarantor of internal peace and external security. What is inconsistent with non-violence is the principle of raison d’Etat that refuses to recognise the higher law of dharma, namely the behaviour of the modern state when it pursues… ([Location 868](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=868))
+- the relative moral superiority of non-violence over violence: ‘at least in the majority of cases, if not, indeed, in all, the force of love and pity is… ([Location 872](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=872))
+    - **Tags:** #blue
+- soul-force (… ([Location 874](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=874))
+    - **Tags:** #pink
+- body-force (… ([Location 874](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=874))
+    - **Tags:** #pink
+- love-force (… ([Location 875](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=875))
+    - **Tags:** #pink
+- truth-force (… ([Location 875](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=875))
+    - **Tags:** #pink
+- compassion-force (dayabal), ([Location 875](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=875))
+    - **Tags:** #pink
+- suffering-force (tapbal) ([Location 875](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=875))
+    - **Tags:** #pink
+- justice-force (nitibal). ([Location 876](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=876))
+    - **Tags:** #pink
+- The soul is able to exercise ([Location 876](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=876))
+- these forces natural ([Location 876](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=876))
+    - **Tags:** #pink
+- only when the mind is able to exercise control over itself and the passions. Ultimately then, the success of the ethic of nonviolence depends on the state of the soul, the mind and the passions – in one word, on self-rule. ([Location 876](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=876))
+- an appropriate system of education ([Location 878](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=878))
+    - **Tags:** #pink
+- an appropriate technology. ([Location 879](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=879))
+    - **Tags:** #pink
+- the uncritical attitude Indians have developed towards the existing educational system ([Location 879](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=879))
+    - **Tags:** #pink
+- the decisive simile is ‘curable disease’. ([Location 885](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=885))
+    - **Tags:** #pink
+- ‘Machinery’ no doubt tends to produce cultural diseases; but such diseases need not be fatal, provided a competent doctor (Gandhi himself, presumably) can be found in good time. ([Location 886](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=886))
+    - **Tags:** #orange
+- it can do so only if it is informed by a moral vision of the human good. For him that vision can be found in dharma – dharma not as a subjective legitimising device, but as something rooted in truth (satya) itself and discoverable by the natural power of the soul. ([Location 888](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=888))
+    - **Tags:** #orange
+- the technology that is appropriate for India should meet the needs of the masses of India. ([Location 890](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=890))
+- tended to reward the skilled and the powerful and to marginalise the poor and the weak. ([Location 891](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=891))
+- improve the material welfare of all, not just that of the rich and the highly educated, and improve it without undermining the process of self-rule. ([Location 892](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=892))
+- his debate is on the kind of technology that India needs. ([Location 893](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=893))
+    - **Tags:** #orange
+- he sees very clearly the connection between truth, swaraj, the moral vision of the human good, technology and economic development. ([Location 894](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=894))
+    - **Tags:** #pink
+- to give an ascetic interpretation to Hind Swaraj, and indeed to his political philosophy, as some critics tend to do, is to do a great injustice both to the book and its author. ([Location 897](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=897))
+    - **Tags:** #orange
+- separate the asceticism peculiar to Gandhi as an individual from the humanism that he promotes as a social and political philosopher. ([Location 899](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=899))
+    - **Tags:** #orange
+- His asceticism is a penitential expression of that pain: he wanted to suffer voluntarily in his person what the multitude suffered involuntarily in their persons – so that their pain may be brought to a quicker end. ([Location 901](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=901))
+- practice. ([Location 903](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=903))
+    - **Tags:** #pink
+- the theoretician be simultaneously the practitioner. ([Location 904](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=904))
+- Self-rule without self-transformation is not Gandhian. ([Location 905](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=905))
+- swaraj is not, and is not intended to be, a utopia. ([Location 905](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=905))
+- representing ‘Christian piety’ and mere humanitarianism, and as being ignorant of the ‘laws’ of class struggle. ([Location 918](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=918))
+- In so far as this is the case, Hind Swaraj may profitably be read alongside the basic texts of such figures as Jacques Maritain, Eric Voegelin, Leo Strauss and Hannah Arendt, for part of Gandhi’s enduring significance lies, as Susanne Rudolph and Lloyd Rudolph have well argued, in his effort to update the Indian tradition. ([Location 954](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=954))
+- Gandhi’s argument that without swaraj as self-rule swaraj as self-government could degenerate into state oppression even in the so-called liberal societies, is worth pondering. ([Location 958](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=958))
+- ‘Rights’ here has a liberal meaning, albeit a meaning according to Gandhi’s concept of liberalism, which is that to every right there is a corresponding duty. ([Location 960](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=960))
+    - **Tags:** #pink
+- Gandhi’s conception of the connection between self-realisation (atmadarshan) and politics (rajyaprakaran). According to Gandhi, the two may not be radically separated. Inner change within the individual ought to be the starting point of outer changes in society. Modern social science tends to ignore this principle. ([Location 966](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=966))
+    - **Tags:** #pink
+- teaches that there is a link between inner life and outer achievement, that individual regeneration and national regeneration constitute one continuum. However difficult the task of bringing about outer transformation may appear to be, there is always something that the concerned individual can do, and that is to try to bring about his or her inner transformation. ([Location 973](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=973))
+    - **Tags:** #pink
+- This colleague had wondered: what can one individual do to emancipate India? ‘Please do not carry unnecessarily on your head the burden of emancipating India’, Gandhi wrote back. ‘Emancipate your own self. Even that burden is very great. Apply everything to yourself. Nobility of soul consists in realising that you are yourself India. In your emancipation is the emancipation of India. All else is make-believe’ (CW 10: 206– ([Location 976](https://readwise.io/to_kindle?action=open&asin=B00E3UR6X2&location=976))
+    - **Tags:** #blue

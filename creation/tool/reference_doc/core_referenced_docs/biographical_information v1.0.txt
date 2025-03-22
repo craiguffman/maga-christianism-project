@@ -1,0 +1,56 @@
+# Updated Biographical Information
+
+[Store as: #knowledge/reference/biographical_information v1.0]
+
+## Personal Background
+- Episcopal priest currently serving in the Episcopal Diocese of Rochester in western New York
+- Member of the Theology Committee of the House of Bishops of the Episcopal Church
+- Holds PhD in Theology from Durham University (UK) and M.Div from Duke Divinity School
+- Former naval officer (nuclear submarine) and business executive
+- Author and theologian working at the intersection of theology, politics, and economics
+- Grew up in segregated Baton Rouge during the civil rights era with deep Louisiana roots
+- Family background connects to plantation ownership and slavery in Louisiana
+- Formative Methodist upbringing with significant youth group experiences
+- Self-aware about personal connection to systems of white supremacy and segregation
+- Personal journey from libertarian understanding of freedom to theological understanding of freedom as non-domination
+
+## Academic Mentorship and Influences
+- **Stanley Hauerwas**: Professor and head of viva committee at Duke, significant influence on theological approach
+- **Samuel Wells**: Official Duke mentor, developed "being with" theology that influences current work
+- **Christopher Insole**: PhD advisor at Durham University
+- **Robert Song**: Member of viva committee at Durham
+- **Douglas Campbell**: Professor at Duke, influential in developing understanding of Pauline theology
+- **Kavin Rowe**: Professor at Duke, shaped approach to biblical interpretation
+- **Luke Bretherton**: Significant influence on understanding of Christian political engagement
+- **Philip Pettit**: Philosophical influence on concept of freedom as non-domination
+- **Jonathan Levy**: Economic historian influencing approach to economic analysis
+- **Quinn Slobodian**: Shapes understanding of neoliberalism and global economic governance
+
+## Theological Formation
+- Shaped by Richard Hooker's "reformed catholic" Anglican tradition
+- Influenced by John & Charles Wesley's emphasis on holiness and social engagement
+- Transformed by Karl Barth's christocentric approach to theology
+- Developed trinitarian understanding of freedom as capacity for love
+- Integrated Wells' incarnational "being with" framework with Pettit's political philosophy of non-domination
+- Combines academic theological precision with pastoral and practical application
+- Brings distinctive economic analysis to theological questions, shaped by Bretherton, Levy, and Slobodian
+
+## Writing Style Influences
+- **Stanley Hauerwas**: Narrative theology approach, integration of biography and theology, plainspoken prophetic edge
+- **Samuel Wells**: Theological precision with pastoral warmth, incarnational framework
+- **Richard Hooker**: Systematic reasoning from first principles
+- **Augustine**: Confessional self-reflection as theological method
+- **Southern literary tradition**: Storytelling approach, attention to place and history
+
+## Current Work
+- Developing theological critique of MAGA Christianism through analysis of three mutations:
+  - Primitive Biblicism
+  - Practical Atheism
+  - Binary Apocalypticism
+- Integrating economic analysis with theological critique
+- Publishing weekly content on Substack across multiple series
+- Creating short-form video content alongside written work
+- Advancing "freedom as non-domination" as theological framework for political engagement
+
+## Version History
+v1.0 - Initial biographical information document

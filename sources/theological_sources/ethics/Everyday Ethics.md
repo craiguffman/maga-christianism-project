@@ -1,0 +1,171 @@
+# Everyday Ethics
+
+![](https://m.media-amazon.com/images/I/71Fr-LY-9dL._SY160.jpg)
+
+### Metadata
+
+- Author: Michael Lamb and Brian A. Williams
+- Full Title: Everyday Ethics
+- Category: #books
+
+### Highlights
+
+- the space it creates for ethnographic work to inform theological reflection on moral and political questions. ([Location 4218](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4218))
+- three conundrums ([Location 4220](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4220))
+    - **Tags:** #pink
+- first ([Location 4220](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4220))
+    - **Tags:** #pink
+- the tension between, on the one hand, the otherness of divine self-revelation given in Jesus Christ that challenges and represents a crisis to all our ways of knowing and being in the world, and, on the other hand, how history and culture are the crucibles of divine-human encounter. ([Location 4220](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4220))
+- second ([Location 4222](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4222))
+    - **Tags:** #pink
+- the nature of social ontology and whether, east of Eden, conflict or harmony is the basic character of social, political, and economic relations. ([Location 4222](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4222))
+- last ([Location 4223](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4223))
+    - **Tags:** #pink
+- question of how to disidentify with and detach ourselves from the idolatrous structures and cultural processes that condition our ways of understanding and describing everyday practices related to such activities as learning, using technology, working, borrowing and lending, eating, and citizenship. ([Location 4223](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4223))
+- Thomas Arnold and F. D. Maurice are two of the most prominent developers of Coleridge’s ideas in the nineteenth century. ([Location 4236](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4236))
+- Coleridge initiated a distinctive strand in the tradition of Anglican moral and political thought by rejecting a notion of natural law as that which can be excavated by reason alone. ([Location 4240](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4240))
+- Coleridge, creation was an open yet unfinished cosmos whose value is not objectively given but depends on our capacity to participate in it via… ([Location 4241](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4241))
+- To orientate ourselves appropriately and participate faithfully, we need forms of observation and reasoning that do not lead us to step back from the world but enable us to discover with others… ([Location 4244](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4244))
+- For Coleridge, inattention to our actual forms of life through overly abstract kinds of reasoning renders us not only mere spectators but also spectral beings alienated from any determinate form of life. By contrast, close attention to, participation in, and open-hearted wonder about the world around us can generate… ([Location 4246](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4246))
+- The world as it is (i.e., as observed and participated in) can then be brought into conversation with and reimagined through the life,… ([Location 4249](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4249))
+- “… ([Location 4253](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4253))
+    - **Tags:** #pink
+- simultaneous alienation from God and creation.6 It is the crucible through which we struggle to attune ourselves to our status as creatures, neighbors, and redeemed sinners. On this approach, it is neither reason nor nature but… ([Location 4254](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4254))
+- “… ([Location 4258](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4258))
+    - **Tags:** #pink
+- “… ([Location 4259](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4259))
+    - **Tags:** #pink
+- “… ([Location 4262](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4262))
+    - **Tags:** #pink
+- “… ([Location 4263](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4263))
+    - **Tags:** #pink
+- Coleridge and Banner, echoing Richard Hooker, see custom as able to embody tried and tested forms of practical reasoning, leading to a preference for what is… ([Location 4264](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4264))
+- Rather, the primary contrast to be kept in view is with natural law as an approach to moral theology. Natural law theories tend to conceptualize nature as having predetermined, protological ends that can be enumerated independently of any particular instantiation of, say, the family. They also tend to emphasize an intrinsic set of properties, universal laws, or rationally determined ends.11 By contrast, an approach that makes a particular cultural historical form of life the beginning point and primary focus of moral… ([Location 4268](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4268))
+- nature as a term tends to dehistoricize and mystify what is contingent and fallen, culture and history as terms make contingency, and thence revisability, a constitutive feature of all customary practices and forms of sociality. Such a view is not against a notion of nature per se but rather recognizes that our experience… ([Location 4273](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4273))
+    - **Tags:** #pink
+- Coleridge’s conception that to name nature requires poetic, historical, and cultural empathy and insight, not adherence to formal laws or… ([Location 4277](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4277))
+- the Rime is part of his attempt to critique and contest the emergence of consumer culture in eighteenth-century Britain, a culture built on slavery, imperial expansion, and the relentless commodification of nature. According to Thomas Pfau, the Rime does not protest this or that particular issue but rather the broader orientation to and way of imagining our place in creation. ([Location 4285](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4285))
+- Rather than seeking to cultivate our created being in pursuit of God-given ends and enable participation in creation in ways that hallow and cultivate it, the Rime portrays the modern condition as one of purposeless, spiritually empty curiosity driven by a desire to gratify our whims. ([Location 4290](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4290))
+- Christian ethics has tended to focus on two dimensions of a single task, ([Location 4302](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4302))
+- what it means to be “the church” in relationship to “the world” ([Location 4304](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4304))
+- The Christian ethicist is not a visitor on a research trip noting the strange flora and fauna of an exotic but alien terrain but rather a fellow worshipper and citizen sharing a common life with others on whom he or she depends and without which life and faith would not be possible. ([Location 4306](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4306))
+- First, ([Location 4308](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4308))
+    - **Tags:** #pink
+- Second, ([Location 4310](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4310))
+    - **Tags:** #pink
+- first, ([Location 4314](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4314))
+    - **Tags:** #pink
+- second, ([Location 4315](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4315))
+    - **Tags:** #pink
+- most common methods Christian ethicists deploy ([Location 4316](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4316))
+    - **Tags:** #pink
+- interpreting the Scriptures ([Location 4316](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4316))
+- excavating the social and intellectual histories of the Christian tradition, and analyzing the “signs of the times” through engaging diverse philosophical frameworks, theoretical critiques, and forms of social scientific analysis. Sometimes this requires focusing on the everyday (e.g., how we grow our food, what counts as food, whom we should eat with) and sometimes this requires attention to the exceptional (e.g., defining abortion and whether it is licit). ([Location 4317](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4317))
+- Ethics, as a “wisdom-determined activity,” requires being apprenticed into a particular form of life and way of seeing the world that enables one to make right judgments about how to act appropriately: virtue ethics is thereby constitutively concerned with the everyday. That said, the primary focus of Christian virtue ethicists such as Hauerwas was not the everyday but rather ecclesial practices, such as baptism and the Eucharist. ([Location 4327](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4327))
+- the ordinary and everyday world is the site at which forms of domination, and the precarity and oppression they produce, are most acutely displayed. ([Location 4333](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4333))
+- concerns contemporary Christian ethicists address. These include the treatment of the environment, and what we grow and how we eat; constructions of class, sexuality, gender, and kinship and thence the basic forms of human life together; the nature and form of citizenship; how to understand friendship as a moral relation; and what we buy and how we buy it via processes of consumerism. ([Location 4337](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4337))
+- ethnography merely provides a more inductive, systematic, and contextually attuned method of asking the questions “What is going on?” and “What is to be done?” It does this through paying attention to, first, the somatic, affective, spatial, and temporal dimensions of moral and political discourses and judgments and, second, to the inevitable struggles and conflicts through which we come to be formed and tell the truth about our churches, our world, and our ourselves. ([Location 4341](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4341))
+- Conversely, intellectual history and theoretical critique—the primary form Christian ethics takes in the modern period—are prone to bracket their own structural and historical location from the analysis and often sit so far above the fray that they forget they are also participants in that which they study. ([Location 4350](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4350))
+- Ethnography can act as a poultice against abstraction, mystification, generalizations based on anecdote, the confusion of a worldly teleology for eschatology, and an amnesia that we are worshippers and citizens first and academics second. ([Location 4355](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4355))
+- It is, at least tacitly, committed to an epistemology in which knowledge of the world comes primarily through participation and apprenticeship and not through generalization and abstraction. It is thus more consonant with an incarnational understanding of truth: the truths of revelation are participative and relational events to be encountered, inhabited, and habituated into and not things or ideas to be possessed. ([Location 4357](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4357))
+- Moreover, the accuracy of our apprehension of God’s self-revelation in Jesus Christ is not, ultimately, assessed by whether we espouse this or that statement of faith but by the quality and depth of our love of God and neighbor. ([Location 4360](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4360))
+    - **Tags:** #orange
+- is the move to constructive theology in reference to how to imagine new and good ways to live as those for whom Christ has died, Christ has risen, and Christ will come again that provides a normative point of reference for ethnographic evaluative description. ([Location 4365](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4365))
+- with broader conceptualizations emerging in an iterative and dialogical process that moves from the particular to the universal, not vice versa. ([Location 4368](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4368))
+- politics, by nature, is about action in time. ([Location 4370](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4370))
+- The unpredictable and unstable nature of political life directs attention away from universal principles and general historical patterns toward the peculiar features of singular events and institutions within particular historical contexts. ([Location 4371](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4371))
+- This brings me to a broader point: political and moral judgments are discovered, not made. We do not impose meaning on the world by a voluntaristic act of will, as clunky distinctions between fact and value suppose. The universe is not a blank slate. Rather, we discover the world and its meanings and purposes through immersion in particular forms ([Location 4374](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4374))
+- This lifeworld is one that creates us, and that we create, in an ongoing process. It is the water we swim in, which flows through us, and in which we flow. Our lifeworld, our judgments, and our visions of the good are mutually constitutive and coemergent. ([Location 4378](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4378))
+- caught between Barth and Tillich— ([Location 4385](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4385))
+    - **Tags:** #pink
+- otherness of divine self-revelation given in Jesus Christ that challenges and represents a crisis to all our ways ([Location 4385](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4385))
+- how materiality, history, and culture are the crucibles of divine-human encounter. ([Location 4386](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4386))
+- But Milbank’s own approach must also be questioned. It is not sufficient to position theology as an independent sphere of knowledge that can disregard political and social theory or social scientific kinds of analysis as anti-theology. ([Location 4396](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4396))
+- To parse and extend Hauerwas, if the world cannot know itself as the world without the church, the church cannot know itself as the church without the world. ([Location 4409](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4409))
+    - **Tags:** #orange
+- To be a “sister,” “brother,” or “citizen” requires conceptualizations of those terms in relation to actual sisters, brothers, and citizens and their histories and our encounter with each other as sisters and brothers in Christ and citizens of the kingdom of God. ([Location 4410](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4410))
+    - **Note:** This is fundamental to the creation of character; we need exemplars to teach us the meanings of words.
+- Ethnography offers a disciplined way of paying attention to and excavating the intersection of ecclesial practices with social and political life. It thereby gives us a way to generate conceptualizations fully alive to the ways church and world are interdependent and mutually constitutive yet also not the same. ([Location 4412](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4412))
+- Yet neither can an analysis of the church be separated from how it is in a relationship of codetermination (and at times co-construction) with its political, social, and economic environment. What I mean by codetermination is illustrated by Charles Taylor’s account of how secularity is the result not of external processes of modernization acting on belief and practice wherein the political environment determines the nature of belief and practice, nor of the internal logic of Christianity, but of how belief and unbelief are themselves constantly interacting and changing. Belief and unbelief codetermine and mutually constitute each other in an ongoing way. ([Location 4420](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4420))
+- an attempt to move beyond overly materialist assumptions that dominate political theory and inherently construe theological discourses as epiphenomenal and therefore marginal to understanding political life. ([Location 4433](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4433))
+    - **Tags:** #pink
+- “postsecular,” “asecular,” or “sociotheological” discourse, but which I call ([Location 4435](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4435))
+- “faithfully secular” ([Location 4436](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4436))
+    - **Tags:** #pink
+- wherein theological beliefs and ecclesial practices co-construct and are interwoven with other patterns of belief and practice so as to constitute a genuinely plural pattern of secularity that is open to multiple configurations of time and space. In ([Location 4436](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4436))
+- Inattention to the actual embodiment and performance of religious beliefs and practices is deeply problematic, not least because it replicates an ideological marginalization of religion to the private, the internal, and the subjective and thereby replicates methodologically many of the false assumptions about the nature of religious belief and practice that underwrote the secularization thesis. ([Location 4446](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4446))
+- a form of faithful secularity in which political and theological beliefs and practices are understood as coemergent, standing simultaneously in a mutually reparative and critical relation to each other. ([Location 4452](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4452))
+- sets the scene for constructive moral judgments based on practical reason. Theologically, such judgments are in the service of better (that is, more faithful, loving, and hopeful) ways of being alive. ([Location 4465](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4465))
+- Such judgments are themselves contextual without becoming relativistic. They are part of the ongoing argument within a tradition about ([Location 4470](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4470))
+- what is true, good, and beautiful (i.e., the nature and proper form of a flourishing life) ([Location 4471](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4471))
+    - **Tags:** #pink
+- that is itself caught between the otherness of divine self-revelation given in Jesus Christ and how history and culture are the crucibles of divine-human encounter. ([Location 4472](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4472))
+- the question of whether, east of Eden, conflict or harmony is the basic character of social, political, and economic relations. Here we are caught (sociologically) between Durkheim and Weber and (theologically) between James Cone and Desmond Tutu. ([Location 4475](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4475))
+- On such an account, community is understood as either a static or inherited social formation that is subject to inevitable dissolution through processes of modernization such as industrialization and urbanization.43 In ecclesial terms, the role of the church is to shore up or protect community from the depredations of modernity. ([Location 4485](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4485))
+- two assumptions. ([Location 4488](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4488))
+    - **Tags:** #pink
+- first ([Location 4488](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4488))
+    - **Tags:** #pink
+- an organic harmony and hierarchy of interests and ends (“the great chain of being”) that modernity undermines and dissolves into a conflict of each against all. ([Location 4488](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4488))
+- second ([Location 4490](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4490))
+    - **Tags:** #pink
+- certain reading of Augustine. It is this latter view that underlies both Coleridge and Banner’s approach. Modernity, with its technological prowess, commercial spirit, and will to power represents the antithesis of the city of God and incarnates the libido dominandi of the earthly city. ([Location 4490](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4490))
+- contrary to Augustine, for whom the saeculum was a field of wheat and tares, this modernity-critical stream of Augustinianism introduces a temporal division and, with it, a dangerous nostalgia that sacralizes the past and falsely demonizes the present, forgetting that the Spirit can make Christ present to all times and places. ([Location 4492](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4492))
+    - **Tags:** #orange
+- Christianity either becomes an endangered species to be protected on special reservations or weaponized in order to defend Western culture from internal collapse and external attack. ([Location 4494](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4494))
+- there is a consistent move by twentieth-century European theologians to pose an Augustinian Christian moral vision as the last redoubt against a Nietzschean future of domination and depravity.44 Joseph Ratzinger and John Milbank are but two prominent contemporary examples of such a stance. ([Location 4496](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4496))
+- They saw community as an ongoing work of institution building and social interaction through which people form meaningful relationships and develop a collective sense of identity and place over time. Any such process involves both conflict and conciliation. The role of ethnography is to chart particular configurations of conflict and consensus, power and resistance. ([Location 4504](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4504))
+- Modernization can lead to new and better configurations of community as well as oppressive and decadent ones. ([Location 4508](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4508))
+- new and vibrant modes of sociality can emerge in the midst of modernity’s dark satanic mills. But rather than being snatched or inserted into the… ([Location 4509](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4509))
+- This would seem to be a truly Augustinian orientation, one that attempts to understand our social and political life as an order of love, albeit one disfigured and disordered by… ([Location 4511](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4511))
+    - **Tags:** #pink
+- Just and compassionate forms of life together and common objects of love in the earthly city must be discovered through processes of conflict and conciliation. Of necessity, if this process of discovery is to be faithful, it entails rendering ourselves vulnerable to God and neighbor. Strategies of invulnerability and keeping control are antimissiological; that is, they are a refusal to discover and bear witness to what the Spirit is doing among these people in this place by predetermining what Christianity looks like, overidentifying it with a previous cultural form. Such a move… ([Location 4513](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4513))
+    - **Tags:** #orange
+- The crucifixion is the condition and possibility of our… ([Location 4521](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4521))
+- into new kinds of relationship with God and… ([Location 4522](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4522))
+- the experience of flux, change, and transition that is constitutive of being temporal creatures. A cultural turn should properly be a turn to reckon with our frailty, finitude, and fallenness and how becoming “church” is about discovering, with these people, in this place at this time,… ([Location 4523](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4523))
+- every historical era is a field of wheat and tares in which the work of Christ and the Spirit must be… ([Location 4526](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4526))
+- his reflections on Richard… ([Location 4527](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4527))
+    - **Tags:** #pink
+- “contemplative pragmatism” born out of discerning, in a particular historical context and out of a specific tradition of belief and practice, a pattern of wisdom “… ([Location 4527](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4527))
+- What Christian ethicists cannot do is introduce a nostalgic division that poses the past as good and the… ([Location 4530](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4530))
+    - **Tags:** #orange
+- neither can we embrace the present as an unequivocal good or make crass judgments about who is and who is not on… ([Location 4531](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4531))
+    - **Tags:** #orange
+- disidentify with the idols and systems of domination with which we are always… ([Location 4532](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4532))
+- any turn to culture necessitates a paradoxical turn away from our culture so that we might disidentify with, and cease to invest in, the idolatrous structures and cultural processes that condition our ways of thinking about and describing the “everyday” practices such as learning,… ([Location 4535](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4535))
+    - **Tags:** #orange
+- back to Barth, Tillich, and, we can add, Dietrich Bonhoeffer: three white European men who, each in his own way, tried to disidentify with the hegemonic… ([Location 4539](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4539))
+- how to take seriously the interrelationship between structural location, epistemology, and the need for the conversion of our moral reasoning. ([Location 4550](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4550))
+- “otherwise”; ([Location 4551](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4551))
+    - **Tags:** #pink
+- wise ([Location 4552](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4552))
+- other) ([Location 4552](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4552))
+- Part of becoming otherwise is disidentifying with and disinvesting in the structures and systems that unjustly privilege and insulate us from encountering and being shaped by others, particularly the poor and marginalized (the friendless), in ways we cannot control. ([Location 4557](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4557))
+- At its best, what it produces is a kind of iconographic writing that summons us to contemplation, or open attention and reception of a lifeworld we did not make and do not control, in order to heal and convert our own forms of seeing, hearing, and talking about the world around ([Location 4560](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4560))
+    - **Tags:** #orange
+- a form of disciplined and active listening, ethnography thereby echoes Ambrose’s exhortation: “The law says: ‘Hear, O Israel, the Lord thy God.’ It said not: ‘Speak,’ but ‘Hear.’ . . . Be silent therefore first of all, and hearken, that thou fail not in thy tongue.”55 For Ambrose, as for St. Paul, faith and the body of Christ come to be through an act of listening. ([Location 4562](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4562))
+- criticism that moves beyond iconoclasm. ([Location 4571](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4571))
+- Truth telling is not reducible to critique understood as exposing falsehoods. It can also entail bearing witness. And ([Location 4571](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4571))
+    - **Tags:** #pink
+- Without attention to the quotidian ways people are able to act in concert and form a sensus communis through public practices of speech and action, we have little to say other than wolves eat sheep, power corrupts, and the strong triumph over the weak. ([Location 4583](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4583))
+- Overly deterministic accounts of unilateral, “command-obedience” conceptions of power and the domination of structural forces such as capitalism do not allow for the reality of the kinds of agency that is often observed through ethnographic research. ([Location 4584](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4584))
+- “relational power.” ([Location 4587](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4587))
+    - **Tags:** #pink
+- relational power “corresponds to the human ability not just to act, but to act in concert. [Relational] power is never the property of an individual; it belongs to a group and remains in existence only so long as the group keeps together.” ([Location 4587](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4587))
+- The early labor and civil rights movements, along with broad-based community organizing, are paradigmatic examples of such relational power in action, and all depended on forms of practice and habituation drawn from traditions of popular piety such as those found in Methodism, Black-led churches, and Roman Catholicism. ([Location 4590](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4590))
+- any account of politics as a moral enterprise depends on the reality of individual and collective agency, the comprehension of which requires nonreductive, nondeterministic, nonbinary, and imaginative portrayals of human life together. ([Location 4598](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4598))
+    - **Tags:** #orange
+- a way of avoiding hasty abstractions and generalizations by listening closely and participating faithfully so as to make judgments based on practical reason. ([Location 4602](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4602))
+- does not presume a coherent whole of which the rules or grammar can be uncovered through thick description. ([Location 4604](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4604))
+- Christian ethics is not the explication and articulation of a preexisting set of meanings. ([Location 4605](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4605))
+    - **Tags:** #orange
+- Rather, it formulates judgments through dialogic encounter with practice. Flux and multiplicity become occasions for refinement and further specificity. For moral theologians, such judgments are contributions to and caught up within an ongoing argument about what it means in practice to bear faithful, hopeful, and loving witness to Jesus Christ in the power of the Spirit. ([Location 4605](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4605))
+- for Coleridge, “The besetting sin of radicals and reactionaries . . . was love of abstraction and oversimplification which generated ‘partial’ views of society and what it meant to be human. He singled out in particular the democratic Utopians, the Tory reactionaries, the English political economists [e.g., Bentham, Ricardo, and Malthus].” ([Location 4611](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4611))
+- nomothetic ([Location 4645](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4645))
+    - **Tags:** #pink
+- idiographic ([Location 4645](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4645))
+    - **Tags:** #pink
+- Tacit here is H. Richard Niebuhr’s admonition that the first question of Christian ethics is “What is going on?” ([Location 4663](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4663))
+- Although rather than “responsibility” being the primary value to be embodied, in my account, faith, hope, and love are the determinative dispositions to be cultivated. ([Location 4664](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4664))
+- In Theology and Social Theory: Beyond Secular Reason (Oxford: Blackwell, 2006), John Milbank introduces Augustine explicitly as the sole alternative to the Nietzschean politics of violent domination. In Europe Today and Tomorrow: Addressing the Fundamental Issues (San Francisco: Ignatius, 2007), Joseph Ratzinger identifies the fate of western Europe with the fate of Christianity. ([Location 4712](https://readwise.io/to_kindle?action=open&asin=B07YCX9JWN&location=4712))

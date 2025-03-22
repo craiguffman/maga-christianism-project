@@ -1,0 +1,34 @@
+# America's God
+
+![](https://images-na.ssl-images-amazon.com/images/I/51s40E4ZibL._SL200_.jpg)
+
+### Metadata
+
+- Author: Mark A. Noll
+- Full Title: America's God
+- Category: #books
+
+### Highlights
+
+- American Christians, despite substantial conflicts among themselves, took for granted a fundamental compatibility between orthodox Protestant religion and republican principles of government. Most English-speaking Protestants outside the United States did not. ([Location 1260](https://readwise.io/to_kindle?action=open&asin=B0057CZ59M&location=1260))
+    - **Tags:** #pink
+- For a history of American theology it is important to see why Bonhoeffer thought the Americans he observed at church in New York, New England, and the South were making a mistake. To Bonhoeffer it was not axiomatic that a republican exaltation of freedom merged smoothly with Christianity. Rather, he held that “the freedom of the church is not where it has possibilities, but only where the Gospel really and in its own power makes room for itself on earth, even and precisely when no such possibilities are offered to it. The essential freedom of the church is not a gift of the world to the church, but the freedom of the Word of God itself to gain a hearing.” In fact, he even thought that the American fascination with freedom might presage a decline—“a church which is free in this way becomes secularised more quickly than a church which does not possess freedom or possibility.” His conclusion was that “freedom as an institutional possession is not an essential mark of the church,” since “whether the churches of God are really free can only be decided by the actual preaching of the Word of God.”3 Bonhoeffer’s assessment of America arose out of his own involvement in the German church struggle, but it nonetheless remains an important modern reminder of the singularity of America’s Christian republicanism. To grasp something of that republicanism will also be to grasp something essential about the Christian theologians who took it up. ([Location 1278](https://readwise.io/to_kindle?action=open&asin=B0057CZ59M&location=1278))
+    - **Tags:** #pink
+- American republican language returned consistently to two main themes: fear of abuses from illegitimate power and a nearly messianic belief in the benefits of liberty. It presupposed, in the succinct summary of Blair Worden, that “man is a citizen, not (like Hobbes’ man) a subject.” Moreover, “his citizenship is dependent on the free exercise of his virtue and of his reason, and upon his participation, as an elector of representatives and as arms-bearer, in the communal affairs of his country.” ([Location 1306](https://readwise.io/to_kindle?action=open&asin=B0057CZ59M&location=1306))
+    - **Tags:** #pink
+- The most ardent spokesmen for liberty and those most alert to corruption in high places were known as Real Whigs because they wanted the principles of 1688 carried to what they thought were logical conclusions.10 These Whigs usually represented “country” interests opposing the venal machinations of the power-engrossing “court.”11 From these civic humanist, commonwealth, and country sources, Britain’s Real Whigs supplied a vocabulary that became ubiquitous in the American colonies from the midcentury wars with France through the Revolution, the years of the Confederation, the debate over the Constitution, and into the new nation. ([Location 1317](https://readwise.io/to_kindle?action=open&asin=B0057CZ59M&location=1317))
+    - **Tags:** #pink
+- In this picture, the exercise of government was thought to enhance human flourishing if it could be structured to preserve freedom; but if government arbitrarily abridged liberty, the result could only be individual degradation and national decline. The critical oppositions were virtue against corruption, liberty against slavery. To preserve freedom, especially the freedom to control one’s own property, the leaders of state as well as citizens with access to public power had to comport themselves with what Machiavelli styled virtù, a term that his early English editors rendered as “public spirit” but that eventually came to be ambiguously translated “virtue.” ([Location 1323](https://readwise.io/to_kindle?action=open&asin=B0057CZ59M&location=1323))
+    - **Tags:** #pink
+- The unchecked progress of vice, in turn, destroyed individuals, society, and states. ([Location 1330](https://readwise.io/to_kindle?action=open&asin=B0057CZ59M&location=1330))
+    - **Tags:** #pink
+- The central republican conviction was belief in the reciprocity of personal morality and social well-being. Changes over time did take place in what personal morality and a healthy society meant, but underneath those changes endured a remarkably fixed alliance between a language of liberty and a language of virtue. Virtue, originally defined as disinterested public service transcending the passions, promoted freedom and social well-being; vice, marked especially by luxury, self-seeking, idleness, and frivolity, promoted tyranny and social decay. ([Location 1338](https://readwise.io/to_kindle?action=open&asin=B0057CZ59M&location=1338))
+    - **Tags:** #pink
+- the English republican tradition, trusted preeminently in human reason, relied upon a study of history, Aristotle, and other classical authorities, and relativized religion by treating it primarily as a prop for the virtue required in republican commonwealths. Republicans were modern in their this-worldly rationality. ([Location 1385](https://readwise.io/to_kindle?action=open&asin=B0057CZ59M&location=1385))
+    - **Tags:** #pink
+- The history of antagonism between republicanism and traditional Christianity therefore poses a major interpretive problem, since, in the carefully chosen words of philosopher Charles Taylor, “for all the well-documented tensions between Christianity and the republican tradition, the United States starts its career by linking the two closely together.”44 ([Location 1492](https://readwise.io/to_kindle?action=open&asin=B0057CZ59M&location=1492))
+    - **Tags:** #pink
+- Rather, they set aside the antirepublican convictions that usually (when found outside the United States) accompanied their religious beliefs in order to embrace the republican politics of the founders, whose religion they rejected. ([Location 1505](https://readwise.io/to_kindle?action=open&asin=B0057CZ59M&location=1505))
+    - **Tags:** #pink
+- Historians have long recognized the Christian republicanism of American Congregationalists and Presbyterians, the denominations that ardently favored the Revolution and that furnished the most visible spokesmen after the war to explain the religious meaning of what had transpired. ([Location 1508](https://readwise.io/to_kindle?action=open&asin=B0057CZ59M&location=1508))
+    - **Tags:** #pink

@@ -1,0 +1,49 @@
+# MAGA Christianism Book Chapter Template
+
+[Store as: #creation/tool/template/maga_christianism_chapter v1.0]
+
+# [Chapter Title]: [Subtitle]
+
+![Featured Image](https://via.placeholder.com/1200x630/ffffff/333333?text=[Chapter_Title])
+
+> *Draft completed: [DATE] • [X] minute read*
+
+## Opening Context
+[Begin with a concrete contemporary example that illustrates the theological problem - a rally, sermon, political moment, etc. This provides immediate relevance and grounds the abstract in the tangible.]
+
+## The Historical Pattern
+[Trace the historical development of this pattern, drawing on sources that demonstrate the genealogy of this particular mutation. Connect contemporary manifestations to historical precedents.]
+
+## Theological Analysis
+[Analyze how this aspect represents a mutation of orthodox Christianity, using the trinitarian framework of freedom as non-domination and self-giving love without domination.]
+
+### [Key Aspect 1]
+[Detailed analysis connecting to primary theological sources]
+
+### [Key Aspect 2]
+[Additional theological dimension with supporting evidence]
+
+## Economic Dimensions
+[Examine how economic frameworks and assumptions shape this theological mutation, drawing on Bretherton, Levy, or Slobodian as appropriate. Look for connections between economic ideology and theological distortion.]
+
+## Concrete Examples
+[Provide 2-3 specific, documented examples that demonstrate the pattern in action, with careful citation of sources.]
+
+## Alternative Vision
+[Present a constructive alternative grounded in trinitarian theology and the tradition of freedom as non-domination, showing what a healthier theological approach would look like.]
+
+## Implications
+[Discuss the consequences of this mutation for Christian witness, democratic health, and communal flourishing.]
+
+## Conclusion
+[Summarize key insights and transition to the next chapter in the sequence.]
+
+---
+
+### Key Terms
+- **[Term 1]**: Brief definition with link to lexicon
+- **[Term 2]**: Brief definition with link to lexicon
+
+---
+
+*Part [X] of "MAGA Christianism: A Theological Analysis"*

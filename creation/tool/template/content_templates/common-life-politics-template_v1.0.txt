@@ -1,0 +1,45 @@
+# Common Life Politics Essay Template
+
+[Store as: #creation/tool/template/common_life_politics_essay v1.0]
+
+# [Virtue Name]: [Descriptive Subtitle]
+
+![Featured Image](https://via.placeholder.com/1200x630/ffffff/333333?text=[Virtue_Name])
+
+> *Draft completed: [DATE] • [X] minute read*
+
+## Opening Moment
+[Begin with a concrete, specific scene that illustrates the absence or distortion of this virtue in our current political moment. Use vivid, sensory details that place the reader in the moment.]
+
+## The Contemporary Distortion
+[Analyze how this virtue has been twisted, misunderstood, or abandoned in contemporary discourse. Draw on concrete examples from political rhetoric, media, or public events.]
+
+## Theological Roots
+[Ground the virtue in trinitarian theology, drawing especially on the concept of freedom as non-domination and God's self-giving love without domination. Connect to scriptural sources and theological tradition.]
+
+### [Classical Understanding]
+[How this virtue was understood in classical theological/philosophical tradition]
+
+### [Contemporary Retrieval]
+[How this understanding can be retrieved for our moment]
+
+## Formation Practices
+[Discuss the specific practices—individual and communal—through which this virtue is formed. Emphasize how virtue requires habituation rather than mere intellectual assent.]
+
+## Political Implications
+[Explore how this virtue shapes a distinctive approach to political engagement. Contrast with both progressive and conservative distortions while avoiding false equivalence.]
+
+## Practical Application
+[Offer concrete suggestions for how readers might embody this virtue in their communities, showing the connection between personal formation and public witness.]
+
+## Connection to Next Essay
+[Briefly transition to the next virtue in the series, showing how they are interconnected.]
+
+---
+
+### Series Context
+*This is essay [#] in the 12-part "Common Life Politics" series exploring virtues essential to democratic life. The previous essay examined [Previous Virtue], and the next will explore [Next Virtue].*
+
+---
+
+*If you found this reflection valuable, consider [sharing it](#) or [subscribing](#) for future insights.*
