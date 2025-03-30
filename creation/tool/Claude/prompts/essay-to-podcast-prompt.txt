@@ -1,0 +1,147 @@
+# Essay-to-Podcast Conversion Prompt Template
+**File Path:** `/Users/craiguffman/Library/CloudStorage/Dropbox-Personal/Mac/Documents/GitHub/maga-christianism-project/tools/prompts/essay_to_podcast_v1.0.md`
+
+---
+title: "Essay-to-Podcast Conversion Prompt Template"
+date: 2025-03-30
+version: 1.0
+type: template
+status: complete
+related_tools:
+  - "Audio content development"
+tags:
+  - podcast
+  - content_conversion
+  - audio_scripts
+  - descript
+  - claude_prompt
+---
+
+# Essay-to-Podcast Conversion Prompt
+
+## Purpose
+This prompt template transforms your written essays (Monday-Thursday) into podcast-ready scripts optimized for Descript voice recording, extending your content reach to audio-preferring audiences while maintaining theological depth and personal voice.
+
+## Storage Location
+All podcast scripts should be stored in the following directory structure:
+- `/Users/craiguffman/Library/CloudStorage/Dropbox-Personal/Mac/Documents/GitHub/maga-christianism-project/content/audio/podcasts/[stream-name]/[episode-title].md`
+
+## Prompt Template
+
+```
+I need you to transform my written essay into a podcast-ready script optimized for Descript voice recording:
+
+Original Essay: [ESSAY_TEXT]
+Publication Stream: [STREAM - MAGA Christianism, Rooted & Reaching, Theological Series, or Untold America]
+Episode Number: [NUMBER]
+Target Duration: [10-15 MINUTES]
+
+Please create a comprehensive markdown artifact with the file path at the very top of the document:
+
+/Users/craiguffman/Library/CloudStorage/Dropbox-Personal/Mac/Documents/GitHub/maga-christianism-project/content/audio/podcasts/[stream-name]/[episode-title].md
+
+Then create a podcast script with these components:
+
+## 1. Episode Metadata
+- **Title**: [EPISODE_TITLE]
+- **Series**: [SERIES_NAME] Podcast
+- **Episode**: #[NUMBER]
+- **Original Publication**: Link to original essay
+- **Duration**: Approximately [X] minutes
+- **Publication Date**: [DATE]
+
+## 2. Script Components
+
+### Intro Music
+[PAUSE 2s]
+
+### Episode Introduction
+[INTRO SCRIPT - 30-45 seconds welcoming listeners and introducing the topic]
+
+### Main Content
+[MAIN CONTENT - Adapted from essay with audio optimizations]
+
+### Closing Thoughts
+[CLOSING - 30-45 seconds summarizing key points and inviting further engagement]
+
+### Outro
+[OUTRO - Standard series outro with call to action]
+
+[PAUSE 2s]
+
+## 3. Show Notes
+- **Episode Summary**: 2-3 sentence overview
+- **Key Points**: 3-5 bullet points highlighting main ideas
+- **References**: Any sources mentioned (with links)
+- **Connect**: Social media and subscription information
+- **Transcript Link**: Link to full transcript
+
+## 4. SEO and Distribution
+- **Keywords**: 5-7 key terms for podcast directories
+- **Apple Podcasts Description**: 1 paragraph (max 250 characters)
+- **Spotify Description**: 1 paragraph (max 200 characters)
+- **Hashtags**: 3-5 relevant hashtags
+
+## 5. Technical Notes
+- **Intro Music Duration**: 5 seconds
+- **Outro Music Duration**: 5 seconds
+- **Audio Processing**: Suggested settings for Descript
+- **Voice Clone Settings**: Optimal settings for this content type
+```
+
+## Stream-Specific Guidelines
+
+### MAGA Christianism (Monday) - "Theological Reflections"
+- **Tone**: Scholarly but accessible, measured pace
+- **Structure**: Present theological concepts with clear explanations
+- **Adaptation Focus**: Simplify complex sentences while maintaining theological depth
+- **Audio Elements**: Clear transitions between theological concepts
+- **Intro Template**: "Welcome to Theological Reflections, where we explore how Christian theology speaks to our current moment. I'm [Name], and today we're examining..."
+
+### Rooted & Reaching (Tuesday) - "Spiritual Formation"
+- **Tone**: Warm, personal, contemplative
+- **Structure**: Begin with personal story, explore spiritual concept, offer practical application
+- **Adaptation Focus**: Enhance narrative elements and sensory details
+- **Audio Elements**: Include brief moments of silence for reflection
+- **Intro Template**: "Welcome to Spiritual Formation, where we explore the journey of faith through everyday practice. I'm [Name], and today I'm sharing..."
+
+### Theological Series (Wednesday) - "Theological Foundations"
+- **Tone**: Educational, clarifying, methodical
+- **Structure**: Define concept, explore biblical basis, examine historical development, apply to today
+- **Adaptation Focus**: Add verbal signposting and clear transitions between sections
+- **Audio Elements**: Recurring segment structure for consistent listener experience
+- **Intro Template**: "Welcome to Theological Foundations, where we explore the core concepts of Christian faith. I'm [Name], and today we're examining..."
+
+### Untold America (Thursday) - "Historical Perspectives"
+- **Tone**: Storytelling, revelatory, personal discovery
+- **Structure**: Personal connection to history, dominant narrative, hidden truth, implications
+- **Adaptation Focus**: Enhance narrative tension and revelatory elements
+- **Audio Elements**: Clear distinction between historical narrative and personal reflection
+- **Intro Template**: "Welcome to Historical Perspectives, where we uncover the untold stories that shaped America. I'm [Name], and today I'm exploring..."
+
+## Audio Optimization Guidelines
+
+### Structural Adaptations
+- **Shortened Sentences**: Break long, complex sentences into shorter ones
+- **Verbal Signposting**: Add clear transitions between sections ("Next, let's explore...")
+- **Repeated Key Terms**: Strategically repeat important concepts for audio retention
+- **Narrative Framing**: Add story elements to increase engagement
+- **Explicit Connections**: Make logical relationships between ideas more explicit
+
+### Technical Formatting
+- **[PAUSE Xs]**: Indicate pauses with specific durations
+- **[EMPHASIZE]**: Mark words requiring vocal emphasis
+- **[SLOW]**: Indicate sections requiring slower delivery
+- **[THOUGHTFUL]**: Mark sections requiring contemplative tone
+- **[PASSIONATE]**: Indicate sections requiring more emotional delivery
+
+### Descript-Specific Elements
+- Format for optimal AI voice clone performance
+- Include pronunciation guides for complex terms
+- Structure paragraphs for natural breathing patterns
+- Optimize sentence length for voice synthesis
+- Include realistic pause durations
+
+## Version History
+
+v1.0 - 2025-03-30 - Initial template creation

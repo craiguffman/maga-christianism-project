@@ -1,0 +1,131 @@
+# 20250331030000_project_reference_index.md
+[Store as: #creation/tool/index/project_reference_index v1.0]
+[Related: #knowledge/reference/project_orientation, #knowledge/reference/voice_synthesis_guide]
+
+---
+title: "MAGA Christianism Project Reference Index"
+date: 2025-03-31
+type: index
+status: complete
+tags:
+  - reference
+  - index
+  - master
+  - organization
+---
+
+# MAGA Christianism Project Reference Index
+
+This comprehensive index organizes all reference documents, tools, and resources for the MAGA Christianism project to ensure consistent access during Claude interactions and workflow processes.
+
+## Core Reference Documents
+
+### Project Foundations
+| Document | Path | Description | Status |
+|----------|------|-------------|--------|
+| README | `project-docs/README.md` | Project overview and structure | Current (v1.0) |
+| Project Orientation | `project-docs/references/project_orientation.md` | Key context for research project | Current (v1.0) |
+| Tana Tagging Reference | `project-docs/references/tana_tagging_reference.md` | Standardized format for tagging content | Current (v1.0) |
+| Comprehensive Taxonomy | `project-docs/references/comprehensive_taxonomy.md` | Hierarchical content type organization | Current (v1.0) |
+| Master Project Inventory | `tools/indexes/master_project_inventory.md` | Complete inventory of all project resources | Current (v1.0) |
+
+### Identity and Voice
+| Document | Path | Description | Status |
+|----------|------|-------------|--------|
+| Voice Synthesis Guide | `project-docs/style-guides/voice_synthesis_guide.md` | Comprehensive voice profile | Current (v3.0) |
+| Biographical Information | `project-docs/references/biographical_information.md` | Personal and professional background | Current (v2.0) |
+| Autobiographical Index | `project-docs/references/autobiographical_index.md` | Catalog of personal anecdotes | Current (v2.0) |
+
+### Theological Framework
+| Document | Path | Description | Status |
+|----------|------|-------------|--------|
+| Theological Contrasts | `research/themes/theological_contrasts.md` | Comparison of traditional Christianity and MAGA Christianism | Current (v1.0) |
+| Additional Theological Voices | `research/themes/additional_theological_voices.md` | Applications from other theologians | Current (v1.0) |
+| Economic Framework | `research/themes/economic_framework.md` | Pro-capitalist critique of neoliberalism | Current (v1.0) |
+
+## Claude Interaction Tools
+
+### Claude Prompt Templates
+| Document | Path | Description | Status |
+|----------|------|-------------|--------|
+| Source Analysis Prompt | `tools/prompts/source_analysis.md` | Template for analyzing academic sources | Current (v2.0) |
+| Thematic Synthesis Prompt | `tools/prompts/thematic_synthesis.md` | Template for creating thematic syntheses | Current (v2.0) |
+| Article Analysis Prompt | `tools/prompts/article_analysis.md` | Template for analyzing contemporary articles | Current (v2.0) |
+| Artifact Creation Prompt | `tools/prompts/artifact_creation.md` | Template for creating content artifacts | Current (v1.2) |
+
+### Claude Settings
+| Document | Path | Description | Status |
+|----------|------|-------------|--------|
+| Claude Preferences | `claude/preferences/main.md` | Configuration settings for Claude interactions | Current (v2.1) |
+
+## Research Integration Tools
+
+### Synthesis Documents
+| Document | Path | Description | Status |
+|----------|------|-------------|--------|
+| Consolidated Notes | `research/synthesis/consolidated_notes.md` | Integration of insights across sources | Current (v1.0) |
+| Chapter Source Index | `tools/indexes/chapter_source_index.md` | Mapping of sources to chapters | Current (v1.0) |
+| Creation Tool Index | `tools/indexes/creation_tool_index.md` | Catalog of project creation tools | Current (v1.0) |
+
+### Python Scripts
+| Document | Path | Description | Status |
+|----------|------|-------------|--------|
+| Source Integration | `tools/scripts/source_integration.py` | Updates consolidated notes | Current (v1.0) |
+| Chapter Source Updater | `tools/scripts/chapter_source_updater.py` | Updates chapter-source index | Current (v1.0) |
+
+## Publication Templates
+
+### Design Templates
+| Document | Path | Description | Status |
+|----------|------|-------------|--------|
+| Analytical Header Design | `tools/templates/analytical_header_design.md` | Design specifications for analytical posts | Current (v1.0) |
+| Lexicon Header Design | `tools/templates/lexicon_header_design.md` | Design specifications for lexicon entries | Current (v1.0) |
+| Midjourney Prompts | `tools/templates/midjourney_prompts.md` | Templates for generating images | Current (v1.0) |
+
+### Content Templates
+| Document | Path | Description | Status |
+|----------|------|-------------|--------|
+| Analytical Post Template | `tools/templates/analytical_post_template.md` | Template for Monday analytical posts | Current (v1.0) |
+| Lexicon Entry Template | `tools/templates/lexicon_entry_template.md` | Template for Wednesday lexicon entries | Current (v1.0) |
+| Satirical Post Template | `tools/templates/satirical_post_template.md` | Template for Friday satirical posts | Current (v1.0) |
+
+## Publication Strategy
+
+### Content Planning
+| Document | Path | Description | Status |
+|----------|------|-------------|--------|
+| Substack Content Plan | `content/workflows/substack_content_plan.md` | Comprehensive publishing strategy | Current (v1.0) |
+| Rooted & Reaching Series | `content/tuesday/series_plan.md` | Personal essays series structure | Current (v1.0) |
+| Untold America Series | `content/thursday/series_plan.md` | Historical essays series structure | Current (v1.0) |
+| Divine Republic Series | `content/friday/series_plan.md` | Satirical pieces series specification | Current (v1.0) |
+
+## Project Management
+
+### Workflow Documentation
+| Document | Path | Description | Status |
+|----------|------|-------------|--------|
+| Research Workflow | `research/workflows/research_process.md` | Process for conducting research | Current (v1.0) |
+| Content Creation Workflow | `content/workflows/creation_process.md` | Process for creating content | Current (v1.0) |
+| Publication Workflow | `content/workflows/publication_process.md` | Process for publishing content | Current (v1.0) |
+
+## Using This Index
+
+### For Claude Interactions
+1. Reference this index at the beginning of important Claude sessions
+2. Specify exactly which reference documents Claude should use
+3. Provide exact paths when requesting Claude to reference specific documents
+
+### For Personal Reference
+1. Use this index to quickly locate project resources
+2. Check version numbers to ensure you're using the most current documents
+3. Follow the standardized paths for consistent organization
+
+### For Document Updates
+1. Always update version numbers when making significant changes
+2. Add new documents to this index when created
+3. Note obsolete documents but maintain them for reference
+4. Update this index when document status changes
+
+## Version History
+
+v1.0 - 2025-03-31 - Initial comprehensive project reference index

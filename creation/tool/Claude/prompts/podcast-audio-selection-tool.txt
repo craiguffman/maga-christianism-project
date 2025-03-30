@@ -1,0 +1,165 @@
+# Podcast Audio Selection Tool for Descript Voice Training
+**File Path:** `/Users/craiguffman/Library/CloudStorage/Dropbox-Personal/Mac/Documents/GitHub/maga-christianism-project/tools/prompts/podcast_audio_selection_v1.0.md`
+
+---
+title: "Podcast Audio Selection Tool for Descript Voice Training"
+date: 2025-03-30
+version: 1.0
+type: template
+status: complete
+related_tools:
+  - "Audio content development"
+tags:
+  - descript
+  - voice_training
+  - podcast
+  - audio_selection
+  - voice_clone
+---
+
+# Podcast Audio Selection Tool
+
+## Purpose
+This tool guides you through selecting and preparing optimal audio segments from your existing podcast files to train Descript's voice clone feature, resulting in a natural-sounding AI voice that captures your authentic speaking style.
+
+## Implementation Process
+
+### Step 1: Audio Assessment
+
+Evaluate your existing podcast episodes using these criteria:
+
+**Audio Quality Checklist:**
+- [ ] Clear voice recording without significant background noise
+- [ ] Minimal room echo/reverb
+- [ ] No music or sound effects overlapping with speech
+- [ ] Consistent audio levels without clipping
+- [ ] Single-speaker segments (your voice only)
+- [ ] High fidelity recording (ideally 44.1kHz, 16-bit or higher)
+
+**Content Variety Checklist:**
+- [ ] Includes declarative statements
+- [ ] Includes questions with natural inflection
+- [ ] Contains emotional variation (enthusiasm, thoughtfulness, etc.)
+- [ ] Features both quick and measured speaking paces
+- [ ] Contains domain-specific vocabulary you'll need in your homilies
+- [ ] Demonstrates natural transitions between thoughts
+
+### Step 2: Episode Selection
+
+1. **Identify 3-5 Strong Episodes**
+   - Choose episodes where you spoke clearly and naturally
+   - Select episodes covering topics similar to your planned homilies
+   - Prioritize recent recordings that represent your current voice
+   - Focus on conversational episodes rather than scripted ones
+
+2. **Document Selected Episodes**
+
+| Episode | Topic | Recording Date | Audio Quality | Notable Segments | Time Codes |
+|---------|-------|----------------|---------------|------------------|------------|
+| Ep. XX  |       |                |               |                  |            |
+| Ep. XX  |       |                |               |                  |            |
+| Ep. XX  |       |                |               |                  |            |
+
+### Step 3: Segment Extraction
+
+For each selected episode, extract 5-8 minute segments using these guidelines:
+
+1. **Open each episode in your audio editing software** (Descript, Audacity, etc.)
+
+2. **Identify optimal segments** meeting these criteria:
+   - Your continuous speech without interruptions
+   - Clean audio quality (use visualizers to identify consistent waveforms)
+   - Natural speaking rhythm (not rushed or artificially slow)
+   - Varied sentence structures and intonations
+   - No background music or effects
+
+3. **Mark segment boundaries** at natural pauses
+
+4. **Extract each segment** as a separate WAV file using these settings:
+   - Format: WAV (uncompressed)
+   - Sample Rate: 44.1kHz
+   - Bit Depth: 16-bit or higher
+   - Channel: Mono (if your voice is isolated to one channel)
+
+5. **Name files systematically**
+   - Format: `VoiceTraining_[EpisodeNumber]_[SegmentNumber].wav`
+   - Example: `VoiceTraining_Ep132_Seg03.wav`
+
+### Step 4: Audio Processing (Optional)
+
+If necessary, apply minimal processing to improve quality:
+
+1. **Noise Reduction**
+   - Apply gentle noise reduction if consistent background noise exists
+   - Use the noise profile feature in your audio editor
+   - Keep reduction subtle (10-15%) to avoid artifacts
+
+2. **Volume Normalization**
+   - Target RMS level: -18dB to -23dB
+   - Ensure peaks don't exceed -3dB
+   - Maintain natural dynamic range
+
+3. **Silent Gap Editing**
+   - Remove silent gaps exceeding 2 seconds
+   - Keep natural pauses intact
+   - Ensure smooth transitions between thoughts
+
+> **Important:** Minimal processing is key. Over-processing can make the voice clone sound artificial.
+
+### Step 5: Compilation
+
+1. **Create a master training file** by combining your best segments:
+   - Target length: 20-30 minutes (minimum 10 minutes)
+   - Order segments to provide variety throughout
+   - Insert 1-second silence between segments
+   - Export as a single WAV file named `Descript_VoiceTraining_Master.wav`
+
+2. **Create a secondary test file** with different content:
+   - Length: 2-3 minutes
+   - Include content similar to your planned homilies
+   - Use for validation after training
+
+### Step 6: Descript Voice Clone Training
+
+1. **Create a new AI Speaker in Descript**
+   - Name: Use your name with context (e.g., "Craig - Homilies")
+   - Upload your master training file
+   - Follow Descript's authorization process
+
+2. **Testing and Refinement**
+   - Generate test sentences to evaluate voice quality
+   - Compare with your natural speech in the test file
+   - If needed, update training file with additional segments
+
+## Quality Checklist for Final Training File
+
+- [ ] Total duration: 20-30 minutes minimum
+- [ ] Includes varied speech patterns and emotional tones
+- [ ] Clear audio quality throughout
+- [ ] Natural transitions between segments
+- [ ] Appropriate volume levels (peaks below -3dB)
+- [ ] Contains theological terminology you'll use in homilies
+- [ ] No background music or other speakers
+- [ ] Minimal processing artifacts
+
+## Common Issues and Solutions
+
+| Issue | Potential Solution |
+|-------|-------------------|
+| Robotic-sounding voice clone | Add more emotionally varied content to training file |
+| Unnatural pauses | Ensure training file has natural speech rhythm examples |
+| Mispronunciation of terms | Include more examples of theological terms in training |
+| Inconsistent volume | Normalize audio more carefully, avoiding over-compression |
+| "Generic" sounding clone | Add more of your unique speaking patterns and cadence |
+
+## Next Steps After Voice Training
+
+Once your voice clone is created:
+1. Test with a short homily script (100-200 words)
+2. Adjust prosody and emphasis using Descript's tools
+3. Document settings that work best for your voice
+4. Create a standard homily template optimized for your voice clone
+
+---
+
+Remember, the quality of your voice clone directly reflects the quality of your training data. Investing time in selecting and preparing optimal audio segments will significantly improve your results.

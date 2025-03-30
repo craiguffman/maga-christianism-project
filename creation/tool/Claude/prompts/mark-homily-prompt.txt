@@ -1,0 +1,88 @@
+# Mark Homily Creation Prompt Template
+**File Path:** `/Users/craiguffman/Library/CloudStorage/Dropbox-Personal/Mac/Documents/GitHub/maga-christianism-project/tools/prompts/mark_homily_creation_v1.0.md`
+
+---
+title: "Mark Homily Creation Prompt Template"
+date: 2025-03-30
+version: 1.0
+type: template
+status: complete
+related_chapters:
+  - "Audio content development"
+tags:
+  - content_creation
+  - homilies
+  - text_to_audio
+  - mark_gospel
+  - claude_prompt
+---
+
+# Mark Homily Creation Prompt
+
+## Purpose
+This prompt template transforms insights from your Mark sermon series into concise homilies optimized for text-to-audio recording using Descript, creating accessible audio content that communicates Mark's counter-imperial message.
+
+## Storage Location
+All homily scripts should be stored in the following directory structure:
+- `/Users/craiguffman/Library/CloudStorage/Dropbox-Personal/Mac/Documents/GitHub/maga-christianism-project/content/audio/homilies/mark/[passage-reference].md`
+
+## Prompt Template
+
+```
+I need you to transform my Mark sermon into a concise homily optimized for text-to-audio recording using Descript:
+
+Source Sermon: [SERMON_TITLE]
+Scripture: [MARK_PASSAGE]
+Key Theological Insight: [PRIMARY_INSIGHT]
+Target Length: [5-7 MINUTES / 750-1000 WORDS]
+Primary Mutation Confronted: [MUTATION]
+
+Please create a markdown artifact with the file path at the very top of the document:
+
+/Users/craiguffman/Library/CloudStorage/Dropbox-Personal/Mac/Documents/GitHub/maga-christianism-project/content/audio/homilies/mark/[passage-reference].md
+
+Then create a homily with these components:
+
+# [TITLE]: A Homily Based on [MARK_PASSAGE]
+**Word Count:** [ACTUAL_WORD_COUNT]
+**Audio Length:** Approximately [X] minutes
+
+---
+
+[HOMILY TEXT WITH AUDIO FORMATTING]
+
+The homily should include:
+
+1. **Opening Hook**: A compelling introduction that connects Mark's context to our contemporary moment (1-2 paragraphs)
+
+2. **Scripture Focus**: Presentation of the key Mark passage with emphasis on its subversive elements (1-2 paragraphs)
+
+3. **Historical Context**: Brief explanation of the Roman imperial context that makes Mark's message powerful (1-2 paragraphs)
+
+4. **Theological Insight**: Clear explanation of the primary theological insight that counters imperial theology (2-3 paragraphs)
+
+5. **Contemporary Application**: Direct application to our current context and MAGA Christianism (2-3 paragraphs)
+
+6. **Conclusion**: Inspiring call to embrace Mark's counter-imperial vision (1 paragraph)
+
+Audio formatting instructions:
+- Use [PAUSE Xs] to indicate pauses (typically 1-2 seconds)
+- Use [EMPHASIZE] to indicate words that should receive vocal emphasis
+- Use short, clear sentences optimized for audio clarity
+- Include natural transitions between sections
+- Format for conversational delivery rather than academic presentation
+- Break long paragraphs into shorter ones for easier reading
+- Use parallel structure and repetition for emphasis and memorability
+```
+
+## Implementation Notes
+- Focus on a single, powerful theological insight from Mark rather than attempting comprehensive coverage
+- Create clear contrasts between imperial/MAGA theology and Mark's counter-imperial message
+- Use concrete language and vivid imagery that works well in audio format
+- Optimize for your natural speaking cadence and vocal patterns
+- Include audio-specific formatting that will make recording in Descript smoother
+- Keep total length under 1,000 words for approximately 6-7 minutes of audio content
+
+## Version History
+
+v1.0 - 2025-03-30 - Initial template creation

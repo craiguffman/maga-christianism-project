@@ -1,0 +1,308 @@
+# 20250331020200_autobiographical_index.md
+[Store as: project-docs/references/autobiographical_index v2.0]
+[Related: project-docs/references/biographical_information, content/tuesday/personal_essays]
+
+---
+title: "Autobiographical Anecdotes Index"
+date: 2025-03-31
+type: reference
+status: complete
+related_streams:
+  - "Rooted & Reaching (Tuesday)"
+  - "Untold America (Thursday)"
+tags:
+  - personal_narratives
+  - autobiography
+  - reference
+  - content_development
+---
+
+# Autobiographical Anecdotes Index
+
+This document catalogs key autobiographical anecdotes for integration into the "Rooted & Reaching" personal essays, "Untold America" historical confessionals, and other content streams requiring personal narrative elements.
+
+## Formative Relationships
+
+### "King Herod and My Heart Strangely Warmed"
+**Context**: First love during church production of Jesus Christ Superstar
+- Playing Jesus while pursuing a relationship with the girl playing King Herod
+- Post-breakup healing through continued church involvement
+- Youth group becoming central to social life after heartbreak
+- Introduction to Methodist theology through Reverends John and Marie Williams
+- Wesley's quotes: "Think and let think" and "Shed love abroad"
+
+**Theological Connections**:
+- Divine presence in unlikely places and relationships
+- Formation through unexpected channels
+- Wesleyan theological influences on early development
+
+**Publication Applications**:
+- Tuesday (Rooted & Reaching): Spiritual formation through relationships
+- Wednesday (Theological Series): Wesleyan theological influences
+
+### "Marie and Mom"
+**Context**: Relationship between mother and their family's domestic worker
+- Marie bringing her son Gary to work during summer vacations
+- Playing basketball with Gary while recognizing relationship inequality
+- Mother driving Marie home to her neighborhood near chemical plants
+- Observing the daily influx of Black domestic workers not considered "neighbors"
+
+**Theological Connections**:
+- Structural racism operating through "natural" social arrangements
+- Proximity without communion as false relationship
+- Domination masked as benevolence
+
+**Publication Applications**:
+- Tuesday (Rooted & Reaching): Formation of racial consciousness
+- Thursday (Untold America): Domestic labor and racial hierarchy
+
+## Race and Identity Formation
+
+### "Water Fountain Liturgy"
+**Context**: Hesitation when asked to dance by a Black girl at Presidential Classroom
+- Mother as planter's daughter whose worldview was shaped by segregation
+- Jim Crow signs as a "profane sacrament" that shaped identities
+- Racial hierarchy in Louisiana including how Italians and Jews were positioned
+- The LSU football game incident with the mixed-race couple
+- Decision to dance despite hesitation
+
+**Theological Connections**:
+- Liturgical formation of moral imagination through daily practices
+- Systemic sin operating through seemingly neutral social arrangements
+- Grace breaking through distorted formation
+
+**Publication Applications**:
+- Tuesday (Rooted & Reaching): Moral formation and transformation
+- Thursday (Untold America): Lived experience of segregation
+- Monday (MAGA Christianism): Liturgical formation of racial consciousness
+
+### "Who Counts as Neighbors"
+**Context**: Segregated neighborhood life in Baton Rouge
+- Connected neighborhood life where mothers supervised all children
+- Contrast between knowing White neighbors and invisible Black community
+- Dr. McGuire preaching about loving neighbors without addressing segregation
+- Comparison to modern neoliberal capitalism creating separate spaces for workers
+- Question to father about "those who aren't our neighbors"
+
+**Theological Connections**:
+- Selective application of biblical teaching on neighbors
+- Abstraction of theological concepts from concrete realities
+- Interconnection between theological and economic frameworks
+
+**Publication Applications**:
+- Tuesday (Rooted & Reaching): Moral formation in segregated context
+- Thursday (Untold America): Spatial segregation and community
+- Monday (MAGA Christianism): Theological distortion in segregated contexts
+
+## Religious Development
+
+### "Burning in Hell"
+**Context**: Grandmother's harsh religious framework
+- Grandmother predicting "burning in Hell" for not knowing catechism
+- Family feud between father and uncle affecting relationships
+- Comparing grandmother's angry, rule-oriented God with father's loving God
+- Uncle Wally (Scoutmaster) teaching experience of God in nature
+- Early understanding of Hell as something that didn't apply to you
+
+**Theological Connections**:
+- Competing theological frameworks within family systems
+- Formation of theological imagination through relational dynamics
+- Creation as alternative site of divine revelation
+
+**Publication Applications**:
+- Tuesday (Rooted & Reaching): Family theological formation
+- Wednesday (Theological Series): Development of theological imagination
+- Monday (MAGA Christianism): Rule-based versus relational theology
+
+### "Freedom Questions"
+**Context**: Conversations with Reverend Williams about military academy aspirations
+- Definition of freedom as "non-interference" vs. freedom through the Holy Spirit
+- Question about the meaning of "a space where no walls divide you"
+- Contrast between individualistic understanding of freedom and biblical freedom
+- Context of Baton Rouge's resistance to school desegregation
+
+**Theological Connections**:
+- Competing conceptions of freedom: non-interference vs. participation
+- Freedom as absence vs. freedom as presence
+- Political implications of theological understanding of freedom
+
+**Publication Applications**:
+- Tuesday (Rooted & Reaching): Personal journey of understanding freedom
+- Wednesday (Theological Series): Theological foundations of freedom
+- Monday (MAGA Christianism): Contrasting conceptions of freedom
+
+### "Playing Jesus"
+**Context**: Theater experience in church production
+- Auditioning for Jesus Christ Superstar to spend time with "Karen"
+- Learning about the brutality of Roman scourging and crucifixion
+- Contemplating Jesus's prayers in Gethsemane and his humanity
+- Honesty about this not being a dramatic conversion experience
+
+**Theological Connections**:
+- Christology through embodied experience
+- Participatory understanding through performance
+- Grace operating through ordinary human motivations
+
+**Publication Applications**:
+- Tuesday (Rooted & Reaching): Spiritual formation through unlikely channels
+- Wednesday (Theological Series): Christological understanding
+- Monday (MAGA Christianism): Contrast with triumphalist Christology
+
+## Contemporary Theological Reflections
+
+### "Ruth and Naomi"
+**Context**: Biblical reflection on immigration
+- Reflection on Ruth 4:7-22 and contemporary immigration issues
+- Analysis of covenant faithfulness through Naomi, Ruth, and Boaz
+- Connection to concerns about mass deportations in contemporary America
+- Question of how Christians should respond to covenant faithfulness
+
+**Theological Connections**:
+- Biblical covenant ethics applied to contemporary issues
+- Stranger/foreigner as central biblical category
+- Covenant faithfulness across ethnic boundaries
+
+**Publication Applications**:
+- Wednesday (Theological Series): Biblical foundations for immigration ethics
+- Monday (MAGA Christianism): Critique of nationalistic approach to immigration
+- Friday (Divine Republic): Satirical treatment of immigration policy
+
+### "Pharaoh's Claim"
+**Context**: Political theology reflection
+- Reflection on Ezekiel 29:1-12 and contemporary leadership
+- Pharaoh's claim "My Nile is my own; I made it for myself" as archetypical evil
+- Connection to Jesus's call to be "fishers of people" as revolutionary action
+- Encouragement toward "courageous stillness" in times of political uncertainty
+
+**Theological Connections**:
+- Prophetic critique of self-creation and autonomy myths
+- Economic and political systems as theological issues
+- Resistance to domination systems as spiritual practice
+
+**Publication Applications**:
+- Wednesday (Theological Series): Biblical foundations for political theology
+- Monday (MAGA Christianism): Critique of autonomous self-creation narratives
+- Friday (Divine Republic): Satirical treatment of political self-aggrandizement
+
+## Naval and Military Experiences
+
+### "The Submarine as Crucible"
+**Context**: Formation through nuclear submarine service
+- Intense interdependence in confined quarters
+- Trust requirements in life-or-death situations
+- Leadership development through shared vulnerability
+- Discipline as freedom-creating rather than constraining
+
+**Theological Connections**:
+- Community as necessary for both survival and flourishing
+- Trust as foundation for all meaningful relationship
+- Covenant obligations creating rather than limiting freedom
+
+**Publication Applications**:
+- Tuesday (Rooted & Reaching): Character formation through service
+- Wednesday (Theological Series): Trust and covenant in community
+- Monday (MAGA Christianism): Contrast with individualistic conceptions of freedom
+
+### "The Oath and the Lie"
+**Context**: Moral formation through Naval Academy honor code
+- "A midshipman does not lie, cheat, or steal, nor tolerate those who do"
+- Confronting a fellow midshipman about an honor violation
+- Tension between personal loyalty and institutional integrity
+- Learning that truthfulness is communal rather than merely individual
+
+**Theological Connections**:
+- Covenant community requiring mutual accountability
+- Truth as relational rather than merely propositional
+- Institutional practices forming moral character
+
+**Publication Applications**:
+- Tuesday (Rooted & Reaching): Moral formation through institutional practice
+- Wednesday (Theological Series): Truthfulness as theological virtue
+- Monday (MAGA Christianism): Contrast with tribal loyalty over truth
+
+## Professional and Recovery Journey
+
+### "Executive Exodus"
+**Context**: Transition from business to ministry
+- Successful executive career that felt increasingly hollow
+- Crisis of purpose during corporate restructuring
+- Discovering vocation through volunteer ministry work
+- Radical career change in mid-life
+
+**Theological Connections**:
+- Vocation as divine calling rather than mere career
+- Success redefined through theological framework
+- Conversion of personal talents toward divine purpose
+
+**Publication Applications**:
+- Tuesday (Rooted & Reaching): Vocational discernment and transformation
+- Wednesday (Theological Series): Theology of work and vocation
+- Friday (Divine Republic): Satirical treatment of corporate success mythology
+
+### "The Workaholism Recovery"
+**Context**: Journey from workaholism to authentic freedom
+- Recognition of workaholism as addictive pattern rather than virtue
+- False freedom of non-interference masking genuine bondage
+- Recovery process through community and accountability
+- Discovering freedom as capacity for relationship rather than absence of constraint
+
+**Theological Connections**:
+- Sin as bondage masquerading as freedom
+- Recovery as theological process of liberation
+- Community as essential to authentic freedom
+
+**Publication Applications**:
+- Tuesday (Rooted & Reaching): Personal journey of recovery and transformation
+- Wednesday (Theological Series): Theological understanding of freedom
+- Monday (MAGA Christianism): Critique of autonomy-centered freedom
+
+## Gardening and Creation
+
+### "The Patient Perennials"
+**Context**: Spiritual lessons from perennial gardening
+- Learning to appreciate slow, steady growth over immediate results
+- Patience with underground root development before visible growth
+- Rhythms of dormancy and activity as spiritual pattern
+- Connection to land as spiritual practice
+
+**Theological Connections**:
+- Creation as teacher of spiritual wisdom
+- Theological virtue of patience and long-term perspective
+- Sacramental understanding of physical participation in creation
+
+**Publication Applications**:
+- Tuesday (Rooted & Reaching): Spiritual formation through gardening
+- Wednesday (Theological Series): Creation theology in practice
+- Thursday (Untold America): Connection to land and place
+
+### "Tomato Blight and Perfectionism"
+**Context**: Gardening failure as spiritual lesson
+- Devastation of carefully tended tomato plants by unexpected blight
+- Perfectionist response and difficulty accepting failure
+- Learning to compost failure as fertilizer for future growth
+- Acceptance of limitations and dependence on factors beyond control
+
+**Theological Connections**:
+- Theological critique of perfectionism
+- Grace operating through failure and limitation
+- Ecological cycles as theological wisdom
+
+**Publication Applications**:
+- Tuesday (Rooted & Reaching): Spiritual lessons through gardening failure
+- Wednesday (Theological Series): Theological understanding of limitation
+- Friday (Divine Republic): Satirical treatment of perfectionism
+
+## Integration Guidelines
+
+When incorporating these anecdotes into content:
+
+1. **Contextualization**: Provide sufficient historical and personal context
+2. **Theological Integration**: Explicitly connect personal experience to theological concepts
+3. **Contemporary Relevance**: Link historical anecdotes to current issues and concerns
+4. **Narrative Arc**: Use anecdotes to illustrate transformation and development
+5. **Balanced Disclosure**: Maintain appropriate boundaries while being authentically vulnerable
+
+## Version History
+
+v2.0 - 2025-03-31 - Added Naval/Military experiences, Professional/Recovery Journey, and Gardening sections
+v1.0 - 2025-03-12 - Initial autobiographical index with core formative stories

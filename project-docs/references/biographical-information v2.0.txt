@@ -1,0 +1,117 @@
+# 20250331020100_biographical_information.md
+[Store as: project-docs/references/biographical_information v2.0]
+[Related: project-docs/style-guides/voice_synthesis_guide, content/workflows/publication_process]
+
+---
+title: "Biographical Information Reference"
+date: 2025-03-31
+type: reference
+status: complete
+tags:
+  - biography
+  - background
+  - identity
+  - references
+---
+
+# Biographical Information Reference
+
+## Personal Background
+
+### Professional Identity
+- Episcopal priest currently serving in the Episcopal Diocese of Rochester in western New York
+- Member of the Theology Committee of the House of Bishops of the Episcopal Church
+- Former naval officer (nuclear submarine) and business executive
+- Author and theologian working at the intersection of theology, politics, and economics
+
+### Educational Background
+- PhD in Theology from Durham University (UK)
+- M.Div from Duke Divinity School
+- Naval Academy graduate
+- Background in both theological and military education
+
+### Personal Heritage
+- Grew up in segregated Baton Rouge during the civil rights era
+- Deep Louisiana roots with family connections to plantation ownership and slavery
+- Formative Methodist upbringing with significant youth group experiences
+- Personal journey from libertarian understanding of freedom to theological understanding of freedom as non-domination
+- Self-aware about personal connection to systems of white supremacy and segregation
+
+## Academic and Theological Influences
+
+### Primary Mentors
+- **Stanley Hauerwas**: Professor and head of viva committee at Duke, significant influence on theological approach
+- **Samuel Wells**: Official Duke mentor, developed "being with" theology that influences current work
+- **Christopher Insole**: PhD advisor at Durham University
+- **Robert Song**: Member of viva committee at Durham
+
+### Key Theological Influences
+- **Douglas Campbell**: Professor at Duke, influential in developing understanding of Pauline theology
+- **Kavin Rowe**: Professor at Duke, shaped approach to biblical interpretation
+- **Luke Bretherton**: Significant influence on understanding of Christian political engagement
+- **Richard Hooker**: "Reformed catholic" Anglican tradition
+- **Karl Barth**: Christocentric approach to theology
+- **John & Charles Wesley**: Emphasis on holiness and social engagement
+
+### Political and Economic Influences
+- **Philip Pettit**: Philosophical influence on concept of freedom as non-domination
+- **Jonathan Levy**: Economic historian influencing approach to economic analysis
+- **Quinn Slobodian**: Shapes understanding of neoliberalism and global economic governance
+- **Wendy Brown**: Analysis of neoliberalism as governing rationality
+
+## Theological Formation
+
+### Denominational Journey
+- Formative years in Methodist tradition
+- Current identity as Episcopal priest
+- Integration of both traditions in theological approach
+- Connection to Anglican "reformed catholic" synthesis
+
+### Key Theological Developments
+- Trinitarian understanding of freedom as capacity for love
+- Integration of Wells' incarnational "being with" framework with Pettit's non-domination
+- Development of participatory freedom theology as alternative to contractual frameworks
+- Reconciliation of academic theological precision with pastoral application
+
+### Writing Style Influences
+- **Stanley Hauerwas**: Narrative theology approach, integration of biography and theology
+- **Samuel Wells**: Theological precision with pastoral warmth
+- **Richard Hooker**: Systematic reasoning from first principles
+- **Augustine**: Confessional self-reflection as theological method
+- **Southern literary tradition**: Storytelling approach, attention to place and history
+
+## Current Work
+
+### MAGA Christianism Project
+- Developing theological critique through analysis of seven theological mutations:
+  1. Primitive Biblicism
+  2. Practical Atheism
+  3. Binary Apocalypticism
+  4. Disordered Nationalism
+  5. Prosperity Materialism
+  6. Authoritarian Spirituality
+  7. Tribal Epistemology
+
+### Participatory Freedom Theology
+- Articulating freedom as capacity for love and non-domination
+- Developing trinitarian framework for political and economic engagement
+- Integrating economic analysis with theological critique
+- Creating constructive theological alternative to MAGA Christianism
+
+### Publication Structure
+- **Monday**: MAGA Christianism Book Chapters (theological analysis)
+- **Tuesday**: "Rooted & Reaching" Personal Essays (spiritual formation)
+- **Wednesday**: 12-Part Faith Series (theological foundations)
+- **Thursday**: "Untold America" Historical Confessionals (historical analysis)
+- **Friday**: "Divine Republic" Satirical Pieces (cultural commentary)
+
+### Media Formats
+- Publishing weekly content on Substack across multiple series
+- Creating short-form video content alongside written work
+- Developing comprehensive theological manuscript
+- Engaging in public speaking and teaching
+
+## Version History
+
+v2.0 - 2025-03-31 - Updated with expanded economic influences and publication structure
+v1.0 - 2025-03-12 - Initial biographical information document

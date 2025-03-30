@@ -1,0 +1,84 @@
+/Users/craiguffman/Library/CloudStorage/Dropbox-Personal/Mac/Documents/GitHub/maga-christianism-project/research/sources/analyses/reports/statista_household_income_distribution.md
+
+## 1. Source Metadata
+- **Title**: Distribution of Household Income U.S. 2021
+- **Author(s)**: Statista (statistical data source)
+- **Publication**: Statista.com
+- **Year**: 2021
+- **Type**: Statistical report
+- **Primary Discipline**: Economics/Demographics
+
+## 2. Core Analysis
+- **Central Thesis**: This statistical report presents the distribution of household income in the United States for 2021, revealing significant economic inequality with more than half of Americans having annual household incomes below $75,000 while the median income was $70,784.
+- **Key Arguments**: 
+  - The distribution of income shows a divide between lower and higher income households
+  - Racial income disparities are significant, with Asian households earning nearly twice what Black households earn
+  - Approximately 11.6% of Americans lived in poverty in 2021, with racial disparities in poverty rates
+  - The top income bracket ($200,000+) represents 11.6% of households, demonstrating wealth concentration
+  - The middle income ranges ($50,000-$150,000) represent 44% of American households
+- **Methodology**: Statistical data collection and analysis of household income distributions
+- **Contextual Placement**: Provides baseline economic data relevant to discussions of inequality, policy, and social division in America
+
+## 3. Theological Mutation Connections
+
+### Primitive Biblicism
+- **Relevant insights**: The data presents factual economic realities that challenge simplistic theological narratives about prosperity
+- **Supporting quotes**: "In 2021, a little more than 52 percent of Americans had an annual household income that was less than 75,000 U.S. dollars" (p.n/a)
+- **Potential applications**: Offers empirical correction to literalist interpretations that equate faith with economic success
+
+### Practical Atheism
+- **Relevant insights**: The data reveals economic disparities that may be overlooked by religious communities professing equality
+- **Supporting quotes**: "the average income of Asian households was 94,903 U.S. dollars in 2020, while the median income for Black households was around half of that figure" (p.n/a)
+- **Potential applications**: Demonstrates how professed religious values of equality often coexist with acceptance of significant economic inequality
+
+### Binary Apocalypticism
+- **Relevant insights**: The distribution shows a complex economic spectrum rather than simple rich/poor binary
+- **Supporting quotes**: The data shows nine income brackets with varying percentages, not a simple binary division
+- **Potential applications**: Provides nuanced data to counter simplistic apocalyptic narratives of economic division
+
+### Disordered Nationalism
+- **Relevant insights**: The data shows racial disparities within American economic system that challenge nationalist "equal opportunity" narratives
+- **Supporting quotes**: "Approximately 19.5 percent of those in poverty were Black, while 8.2 percent were white" (p.n/a)
+- **Potential applications**: Offers empirical foundation for critiquing nationalist economic myths
+
+### Prosperity Materialism
+- **Relevant insights**: The data directly addresses wealth distribution relevant to prosperity gospel narratives
+- **Supporting quotes**: "200,000 and over 11.6%" of households (p.n/a)
+- **Potential applications**: Provides empirical context for analyzing prosperity theology claims about wealth and blessing
+
+### Authoritarian Spirituality
+- **Relevant insights**: The economic stratification shown may support authoritarian religious frameworks that justify hierarchy
+- **Supporting quotes**: The distribution percentages across nine income brackets indicate substantial hierarchy
+- **Potential applications**: Helps analyze how economic hierarchy can reinforce authoritarian religious structures
+
+### Tribal Epistemology
+- **Relevant insights**: The racial economic disparities shown may contribute to different economic perspectives across racial groups
+- **Supporting quotes**: "In terms of income by race and ethnicity, the average income of Asian households was 94,903 U.S. dollars in 2020, while the median income for Black households was around half of that figure" (p.n/a)
+- **Potential applications**: Demonstrates how economic experiences shape different group epistemologies
+
+## 4. Publication Stream Applications
+- **MAGA Christianism (Monday)**: Provides economic context for understanding how economic anxiety shapes religious nationalism
+- **Rooted & Reaching (Tuesday)**: Offers framework for personal reflection on economic privilege and responsibility
+- **Theological Series (Wednesday)**: Informs theological discussions about wealth, poverty, and material blessing
+- **Untold America (Thursday)**: Provides essential context for understanding economic disparities in American history
+- **Divine Republic (Friday)**: Offers data for satirizing prosperity gospel claims about wealth and blessing
+
+## 5. Interdisciplinary Dimensions
+- **Economic Framework**: Directly addresses income distribution and economic inequality in contemporary America
+- **Political Theology**: Implicitly raises questions about how theological frameworks justify or challenge economic disparities
+- **Historical Context**: Positions 2021 economic data in context of post-recession inequality and racial economic history
+
+## 6. Constructive Theological Resources
+- **Participatory Freedom**: Raises questions about economic thresholds necessary for meaningful participation in society
+- **Being With**: Suggests how economic stratification creates barriers to authentic community across class lines
+- **Alternative Models**: Provides data foundation for developing theological approaches to economic justice
+
+## 7. Integration Points
+- **Chapter Connections**: Essential for chapters on prosperity theology, economic nationalism, and racial justice
+- **Source Relationships**: Complements sources on economic anxiety, populism, and religious responses to inequality
+- **Thematic Contributions**: Provides empirical foundation for discussions of economic context shaping religious expression
+
+## 8. Research Gaps
+- **Limitations**: Presents static snapshot without historical trends or international comparisons
+- **Follow-up Questions**: How do these economic disparities shape religious affiliation and political attitudes? How do religious communities respond to economic stratification?
+- **Potential Counterarguments**: Some might argue that income distribution alone doesn't capture wealth accumulation or social mobility dynamics

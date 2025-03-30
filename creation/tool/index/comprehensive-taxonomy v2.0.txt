@@ -1,0 +1,237 @@
+# 20250331030100_comprehensive_taxonomy.md
+[Store as: #creation/tool/index/comprehensive_taxonomy v2.0]
+[Related: #creation/tool/index/project_reference_index, #creation/tool/index/tana_tagging_reference]
+
+---
+title: "Comprehensive Content Taxonomy"
+date: 2025-03-31
+type: taxonomy
+status: complete
+tags:
+  - content
+  - organization
+  - taxonomy
+  - tana
+---
+
+# Comprehensive Content Taxonomy
+
+This taxonomy provides a structured organization for all content types in the MAGA Christianism project, optimized for Tana implementation and aligned with the five publication streams.
+
+## Content Structure
+
+```
+#creation/content
+  └── #creation/content/essay [Monday: MAGA Christianism + Wednesday: Common Life Politics]
+      └── maga_christianism [Monday book chapter essays]
+          └── introduction [Introduction to MAGA Christianism]
+          └── theological_framework [Theological analysis chapters]
+          └── historical_context [Historical background chapters]
+          └── political_formations [Political analysis chapters]
+          └── racial_reconciliation [Race-focused chapters]
+          └── gender_sexuality [Gender and sexuality chapters]
+          └── environmental_stewardship [Environmental theology chapters]
+          └── immigration_ethics [Immigration and biblical hospitality]
+          └── church_state [Church and state relationships]
+          └── biblical_citizenship [Dual loyalty frameworks]
+          └── prophetic_witness [Speaking truth to power]
+          └── conclusion [Reclaiming Christianity from nationalism]
+      
+      └── common_life_politics [Wednesday 12-part theological series]
+          └── bullshit [Truth as foundation]
+          └── empathy [Moral imagination]
+          └── justice [Intersection of love/power/mercy]
+          └── duty [Covenant obligations]
+          └── honor [Integrity as spiritual resistance]
+          └── country [Prophetic patriotism]
+          └── freedom [Responsible choice]
+          └── love_part1 [Theological foundations of love]
+          └── lament [Faithful grief]
+          └── community [Resilient connections]
+          └── hope [Vision beyond resistance]
+          └── love_part2 [Love as culminating practice]
+      
+  └── #creation/content/personal_essay [Tuesday: Rooted & Reaching]
+      └── phase1_reckoning [Phase 1: Reckoning & Foundation]
+          └── metrics_matter [Rethinking progress at 65]
+          └── processed_whole [Reclaiming authenticity]
+          └── weight_bearing_faith [Barbells and grace]
+          └── fruit_trees_legacy [Legacy and mortality]
+          └── breaking_bread [Communion beyond table]
+          └── running_toward [Redefining escape]
+          └── clean_plate_club [Breaking food patterns]
+      
+      └── phase2_transformation [Phase 2: Transformation Practices]
+          └── amending_soil [Healing old wounds]
+          └── anti_inflammatory [Kitchen and heart]
+          └── periodization [Spiritual seasons]
+          └── knife_skills [Sharp discernment]
+          └── companion_planting [Finding my people]
+          └── heart_rate_zones [Prayer zones]
+          └── mise_en_place [Spirituality]
+      
+      └── phase3_integration [Phase 3: Integration & Flourishing]
+          └── daily_watering [Health restoration]
+          └── vo2_max [Soul capacity]
+          └── bitter_sweet [Flavor profiles as metaphor]
+          └── middle_miles [Endurance as practice]
+          └── tomato_blight [Perfectionism]
+          └── sabbath_garden [Resting as resistance]
+          └── patience_perennials [Recovery in slow time]
+      
+  └── #creation/content/lexicon [Wednesday: Lexicon Entries]
+      └── theological_concepts [Core theological concepts]
+          └── christianism [Definition of core concept]
+          └── maga_christianism [MAGA variant definition]
+          └── kingdom_empire [Biblical concept]
+          └── biblical_hermeneutics [Interpretive approach]
+          └── theological_anthropology [Human nature concept]
+          └── religious_economics [Economic theology]
+      
+      └── theological_mutations [Seven mutations]
+          └── primitive_biblicism [First mutation]
+          └── practical_atheism [Second mutation]
+          └── binary_apocalypticism [Third mutation]
+          └── disordered_nationalism [Fourth mutation]
+          └── prosperity_materialism [Fifth mutation]
+          └── authoritarian_spirituality [Sixth mutation]
+          └── tribal_epistemology [Seventh mutation]
+      
+      └── theological_alternatives [Constructive alternatives]
+          └── participatory_freedom [Freedom as non-domination]
+          └── being_with [Incarnational theology]
+          └── prophetic_patriotism [Alternative to nationalism]
+          └── biblical_justice [Justice vs. retribution]
+          └── hospitality [Welcome to the stranger]
+          └── prophetic_pastoral [Prophetic vs. pastoral]
+          └── christian_citizenship [Dual loyalty framework]
+      
+  └── #creation/content/historical [Thursday: Untold America]
+      └── phase1_origin_myths [Phase 1: Dismantling Single Origin Myth]
+          └── textbook_lied [Multiple founding peoples]
+          └── beyond_mayflower [Spanish America]
+          └── america_already_here [Indigenous nations]
+          └── four_englands [Albion's seed analysis]
+          └── frederick_douglass [Black America]
+          └── railroads_architects [Chinese America]
+          └── border_moved [Mexican Americans]
+      
+      └── phase2_economic_frameworks [Phase 2: Economic Frameworks]
+          └── household_economy [Economic frameworks]
+          └── cotton_empire [Money through South/North]
+          └── ford_wage [Control disguised as generosity]
+          └── ghettos_design [Housing segregation]
+          └── immigration_quota [Immigration policy]
+          └── opportunity_hoarding [Zip code destinies]
+          └── gi_bill [Two Americas revealed]
+      
+      └── phase3_alternative_histories [Phase 3: Alternative Histories]
+          └── multiracial_democracy [Reconstruction's promise]
+          └── labor_movements [United across race lines]
+          └── safety_net [Black women's activism]
+          └── integration_success [Missing success stories]
+          └── grandfather_jim_crow [Personal connections]
+          └── good_trouble [Patriotic heritage]
+          └── achieving_america [Multiracial democracy vision]
+      
+  └── #creation/content/satire [Friday: Divine Republic]
+      └── phase1_basic_institutions [Phase 1: Basic Institutions]
+          └── library_renovation [American greatness]
+          └── curriculum_cleansing [Education control]
+          └── coastal_containment [Regional division]
+          └── traditional_family [Family unit control]
+          └── freedom_facts [Truth manipulation]
+          └── heritage_protection [Historical reimagining]
+          └── prayer_protocol [Religious productivity]
+      
+      └── phase2_advanced_regulation [Phase 2: Advanced Regulation]
+          └── facts_certification [Alternative facts]
+          └── womb_sovereignty [Abortion control]
+          └── speech_classification [Acceptable speech]
+          └── rainbow_containment [LGBTQ+ visibility]
+          └── academic_freedom [Professor purity]
+          └── dictionary_revision [Language control]
+      
+      └── phase3_final_controls [Phase 3: Final Controls]
+          └── prayer_budget [National prayer budget]
+          └── resource_allocation [Righteous resources]
+          └── language_enforcement [Patriotic language]
+          └── history_obfuscation [Truth in history]
+          └── expression_monitoring [Authentic expression]
+          └── gender_role [Traditional gender]
+          └── religious_expression [Acceptable religion]
+      
+  └── #creation/content/video [90-second theological videos]
+      └── theological_primers [Short theological concepts]
+          └── freedom_definition [Freedom as non-domination]
+          └── truth_integrity [Truthfulness and honor]
+          └── christian_nationalism [Defining the concept]
+          └── hospitality_concept [Welcome as resistance]
+          └── primitive_biblicism [First mutation explained]
+          └── practical_atheism [Second mutation explained]
+          └── binary_apocalypticism [Third mutation explained]
+      
+      └── current_applications [Applied theology]
+          └── immigration_theology [Biblical approach to immigration]
+          └── economic_justice [Christian approach to economics]
+          └── environmental_stewardship [Creation care theology]
+          └── racial_reconciliation [Biblical justice and race]
+      
+  └── #creation/content/ebook [Compiled book projects]
+      └── maga_christianism [Full theological analysis]
+          └── part1_foundations [Theological first principles]
+          └── part2_primitive_biblicism [First mutation]
+          └── part3_practical_atheism [Second mutation]
+          └── part4_binary_apocalypticism [Third mutation]
+          └── part5_additional_mutations [Four additional mutations]
+          └── part6_conclusion [Constructive alternatives]
+      
+      └── common_life_politics [Collected 12 essays]
+          └── part1_diagnosis [Diagnosing our moment]
+          └── part2_personal_virtues [Personal virtues needed]
+          └── part3_living_tension [Living in the tension]
+          └── part4_way_forward [The way forward]
+      
+      └── rooted_reaching [Personal transformation collection]
+          └── part1_reckoning [Reckoning and foundation]
+          └── part2_transformation [Transformation practices]
+          └── part3_integration [Integration and flourishing]
+      
+      └── untold_america [Historical confessionals collection]
+          └── part1_origin_myths [Dismantling single origin myths]
+          └── part2_economic_frameworks [Economic frameworks and power]
+          └── part3_alternative_histories [Alternative histories]
+```
+
+## Versioning Structure
+
+Each content item should include version information in Tana, following this pattern:
+
+```
+#creation/content/essay/maga_christianism/introduction
+  └── v1.0 [Initial draft]
+  └── v1.1 [Minor revisions]
+  └── v2.0 [Major revision]
+```
+
+## Integration with Publication Streams
+
+This taxonomy aligns with the five publication streams:
+
+1. **Monday**: MAGA Christianism Book Chapters (`#creation/content/essay/maga_christianism/*`)
+2. **Tuesday**: Rooted & Reaching Personal Essays (`#creation/content/personal_essay/*`)
+3. **Wednesday**: Common Life Politics Essays (`#creation/content/essay/common_life_politics/*`) and Lexicon Entries (`#creation/content/lexicon/*`)
+4. **Thursday**: Untold America Historical Confessionals (`#creation/content/historical/*`)
+5. **Friday**: Divine Republic Satirical Pieces (`#creation/content/satire/*`)
+
+## Implementation Guidelines
+
+1. **Tana Nodes**: Create this hierarchy as Tana nodes, with each content item as a supertag
+2. **Version Tracking**: Add version nodes beneath each content item
+3. **Cross-Referencing**: Use related nodes to connect related content across taxonomies
+4. **Metadata**: Include publication date, status, and related sources as metadata
+
+## Version History
+
+v2.0 - 2025-03-31 - Enhanced taxonomy with complete content structure for all publication streams
+v1.0 - Earlier version with basic content taxonomy structure

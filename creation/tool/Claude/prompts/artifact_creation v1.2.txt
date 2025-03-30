@@ -1,0 +1,116 @@
+# 20250330234500_artifact_creation_prompt.md
+[Store as: tools/prompts/artifact_creation v1.2]
+[Related: claude/workflows/artifact_creation, project-docs/references/tana_tagging]
+
+---
+title: "Artifact Creation Prompt Template"
+date: 2025-03-30
+type: template
+status: complete
+tags:
+  - claude
+  - workflow
+  - template
+  - artifact
+---
+
+# Standard Artifact Creation Prompt
+
+## Purpose
+This template establishes the standard format for requesting artifact creation from Claude, ensuring consistent structure and metadata for all project artifacts.
+
+## Publication Context
+Our artifacts support five distinct publication streams:
+- **Monday**: MAGA Christianism Book Chapters (theological analysis)
+- **Tuesday**: "Rooted & Reaching" Personal Essays (spiritual formation)
+- **Wednesday**: 12-Part Faith Series / Lexicon Entries (theological foundations)
+- **Thursday**: "Untold America" Historical Confessionals (historical analysis)
+- **Friday**: "Divine Republic" Satirical Pieces (cultural commentary)
+
+## Prompt Template
+
+```
+Claude, please create an artifact following these specifications:
+
+1. **Artifact Type**: Specify the type of artifact needed:
+   - `analysis`: Source or thematic analysis
+   - `content`: Publication-ready content
+   - `template`: Reusable structure
+   - `script`: Automation code
+   - `workflow`: Process documentation
+
+2. **File Format & Naming**:
+   - Filename: YYYYMMDDHHMM_descriptive_name.extension
+   - Format: markdown for text, Python for scripts, YAML for configuration
+
+3. **Repository Location**: Include a consistent path header:
+   ```
+   [Store as: path/to/location/filename v1.0]
+   [Collection: collection_name] (if applicable)
+   [Related: related_resource_1, related_resource_2] (if applicable)
+   ```
+
+4. **Standardized Metadata**:
+   ```
+   ---
+   title: "Artifact Title"
+   date: YYYY-MM-DD
+   type: analysis|content|template|script|workflow
+   status: draft|complete|review
+   primary_sources: 
+     - "Source 1"
+     - "Source 2"
+   related_chapters:
+     - "Chapter X"
+     - "Chapter Y"
+   tags:
+     - tag1
+     - tag2
+   ---
+   ```
+
+5. **Modular Structure**:
+   - Include clear section headers for future updating
+   - Use consistent heading levels (H1, H2, H3)
+   - Maintain atomic sections that can be individually updated
+   - Consider connections to all seven theological mutations where relevant
+   - Identify applications across all five publication streams where applicable
+
+6. **Version Tracking**:
+   ```
+   ## Version History
+   
+   v1.0 - YYYY-MM-DD - Initial version [description]
+   ```
+
+Here's the specific content I need for this artifact: [DESCRIPTION]
+
+Please ensure the artifact is:
+- Immediately usable without significant editing
+- Compatible with my existing workflow tools (VSCode, Tana, Scrivener)
+- Structured for efficient future updates
+- Aware of the seven theological mutations framework
+- Considerate of all five publication streams where appropriate
+```
+
+## Implementation Notes
+- Always include timestamps in filenames for easy sorting
+- Use consistent heading structures across all artifacts
+- Include sufficient metadata for integration with Tana
+- Consider both manuscripts and all five publication streams
+- Reference the seven theological mutations when relevant
+
+## Seven Theological Mutations Reference
+1. **Primitive Biblicism**: Claims direct, unmediated access to biblical meaning
+2. **Practical Atheism**: Removes Jesus as exemplar, replacing with pragmatic politics
+3. **Binary Apocalypticism**: Creates rigid good/evil, friend/enemy distinctions
+4. **Disordered Nationalism**: Elevates national identity above theological identity
+5. **Prosperity Materialism**: Reframes blessing as material success
+6. **Authoritarian Spirituality**: Replaces communal discernment with charismatic leadership
+7. **Tribal Epistemology**: Creates closed information systems based on identity
+
+## Version History
+
+v1.2 - 2025-03-30 - Updated to include seven mutations framework and five publication streams
+v1.1 - Earlier date - Added machine-readable metadata requirement
+v1.0 - Initial version establishing standard format for artifact creation

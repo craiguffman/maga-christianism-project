@@ -1,0 +1,83 @@
+/Users/craiguffman/Library/CloudStorage/Dropbox-Personal/Mac/Documents/GitHub/maga-christianism-project/research/sources/analyses/articles/galloway_losing_my_religion.md
+
+## 1. Source Metadata
+- **Title**: Losing My Religion
+- **Author(s)**: Scott Galloway
+- **Publication**: Prof Galloway (personal website/blog)
+- **Year**: 2023
+- **Type**: Article
+- **Primary Discipline**: Cultural Analysis/Sociology of Religion
+
+## 2. Core Analysis
+- **Central Thesis**: The displacement of religion from the center of American culture represents one of the most significant changes in American society, contributing to increased social hostility and division.
+- **Key Arguments**: 
+  - Religious intolerance was present from early American history
+  - Modern America is experiencing a decline in communal spaces and reasons to congregate
+  - The combination of growing wealth inequality and declining community is fueling hostility
+  - Religious structures once provided social cohesion that is now missing
+- **Methodology**: Historical observation combined with contemporary cultural analysis
+- **Contextual Placement**: Contributes to discussions about secularization, social fragmentation, and the changing role of religion in public life
+
+## 3. Theological Mutation Connections
+
+### Primitive Biblicism
+- **Relevant insights**: The article notes early American colonists "wasted little time before exiling anyone who differed on the fine points of biblical interpretation"
+- **Supporting quotes**: "Eight of the original thirteen colonies had official state churches and persecuted heresy" (p.n/a)
+- **Potential applications**: Demonstrates the historical roots of religious intolerance and literalism in American culture
+
+### Practical Atheism
+- **Relevant insights**: The article suggests modern society practices a form of practical atheism by removing religious structures without replacing their community functions
+- **Supporting quotes**: N/A (implied rather than directly stated)
+- **Potential applications**: Could help explain how the decline of religious practice impacts social cohesion even when religious belief persists
+
+### Binary Apocalypticism
+- **Relevant insights**: The article hints at increasing polarization and hostility in the absence of religious community
+- **Supporting quotes**: "As our nation prints more wealth and poverty, and as we register a decline in reasons to congregate (church, work, the mall), we are witnessing a palpable increase in hostility among Americans toward... other Americans" (p.n/a)
+- **Potential applications**: Supports the thesis that declining common spaces contributes to binary thinking and social hostility
+
+### Disordered Nationalism
+- **Relevant insights**: The historical connection between religious establishment and national identity is suggested
+- **Supporting quotes**: "Eight of the original thirteen colonies had official state churches" (p.n/a)
+- **Potential applications**: Provides historical context for understanding the religious roots of American nationalism
+
+### Prosperity Materialism
+- **Relevant insights**: The article notes increasing wealth inequality alongside religious decline
+- **Supporting quotes**: "As our nation prints more wealth and poverty..." (p.n/a)
+- **Potential applications**: Could help analyze how prosperity theology fills a vacuum left by traditional religious structures
+
+### Authoritarian Spirituality
+- **Relevant insights**: The article mentions early religious persecution in American colonies
+- **Supporting quotes**: "colonies had official state churches and persecuted heresy" (p.n/a)
+- **Potential applications**: Provides historical context for understanding authoritarian tendencies in American spirituality
+
+### Tribal Epistemology
+- **Relevant insights**: The article implies that without common religious frameworks, Americans increasingly view fellow citizens with hostility
+- **Supporting quotes**: "palpable increase in hostility among Americans toward... other Americans" (p.n/a)
+- **Potential applications**: Supports analysis of how religious decline contributes to tribal knowledge formation
+
+## 4. Publication Stream Applications
+- **MAGA Christianism (Monday)**: Provides context for understanding the historical roots of religious nationalism and how contemporary religious movements respond to social fragmentation
+- **Rooted & Reaching (Tuesday)**: Connects to themes of community loss and the need for authentic connection in modern life
+- **Theological Series (Wednesday)**: Offers perspective on the sociological functions of religion beyond belief
+- **Untold America (Thursday)**: Provides historical context about religious establishment and persecution in early America
+- **Divine Republic (Friday)**: Could inspire satirical exploration of what replaces religion as a source of meaning and community
+
+## 5. Interdisciplinary Dimensions
+- **Economic Framework**: Links economic inequality ("prints more wealth and poverty") with social fragmentation
+- **Political Theology**: Touches on the historical relationship between state churches and civil authority
+- **Historical Context**: Provides brief but significant historical context about religious establishment in colonial America
+
+## 6. Constructive Theological Resources
+- **Participatory Freedom**: Implies that meaningful freedom requires shared social contexts
+- **Being With**: Highlights the importance of "reasons to congregate" for social cohesion
+- **Alternative Models**: Suggests a need for new forms of community to replace declining religious participation
+
+## 7. Integration Points
+- **Chapter Connections**: Could connect to chapters on historical American religious establishments and contemporary social fragmentation
+- **Source Relationships**: Complements sources on secularization, religious nationalism, and social capital
+- **Thematic Contributions**: Strengthens the theme that declining religious participation has social consequences beyond belief
+
+## 8. Research Gaps
+- **Limitations**: The excerpts provided are brief and lack detailed evidence or extensive analysis
+- **Follow-up Questions**: What specifically has replaced religious communities? How do different demographic groups experience religious decline differently?
+- **Potential Counterarguments**: Some might argue that religious decline is a symptom rather than a cause of social fragmentation, or that new forms of community are emerging

@@ -1,0 +1,144 @@
+# Main Tools Index Update
+**File Path:** `/Users/craiguffman/Library/CloudStorage/Dropbox-Personal/Mac/Documents/GitHub/maga-christianism-project/tools/indexes/main_tools_index.md`
+
+---
+title: "Main Tools Index"
+date: 2025-03-30
+version: 2.2
+type: index
+status: complete
+related_tools:
+  - "All project tools"
+tags:
+  - tools_index
+  - claude_prompts
+  - project_management
+---
+
+# Main Tools Index
+
+## Overview
+This index catalogs all tools developed for the MAGA Christianism and Untold America projects. These tools are designed to streamline research, analysis, synthesis, and publication processes across text, visual, and audio formats.
+
+## Core Analysis Tools
+
+### [Source Analysis Prompt](../prompts/source_analysis_v2.2.md)
+- **Purpose**: Generate structured analyses of primary and secondary sources
+- **Output Location**: `/research/sources/analyses/[source-type]/[source-name].md`
+- **Primary Application**: Extract key insights from research materials
+- **Last Updated**: 2025-03-30
+
+### [Thematic Analysis Prompt](../prompts/thematic_analysis_v2.1.md)
+- **Purpose**: Synthesize insights across multiple source analyses
+- **Output Location**: `/research/themes/[theme-category]/[specific-theme].md`
+- **Primary Application**: Develop thematic frameworks for chapters and publications
+- **Last Updated**: 2025-03-30
+
+## Specialized Analysis Tools
+
+### [Mark Gospel Tools](mark_tools_index_v1.1.md)
+- **Purpose**: Analyze and apply insights from Mark sermon series
+- **Key Components**:
+  - Mark Sermon Analysis Prompt
+  - Mark Thematic Synthesis Prompt
+  - Mark Publication Conversion Prompt
+  - Mark Visual Concept Prompt
+  - Mark Homily Creation Prompt
+  - Mark Integration Timeline Prompt
+- **Primary Application**: Integrate Mark's subversive theology across publication streams
+- **Last Updated**: 2025-03-30
+
+### [Mutation Analysis Prompt](../prompts/mutation_analysis_v1.2.md)
+- **Purpose**: Analyze sources for evidence of theological mutations
+- **Output Location**: `/research/mutations/analyses/[mutation-name]/[source-name].md`
+- **Primary Application**: Track manifestations of MAGA Christianism mutations
+- **Last Updated**: 2025-02-15
+
+## Content Development Tools
+
+### [Publication Adaptation Prompt](../prompts/publication_adaptation_v1.3.md)
+- **Purpose**: Adapt research for specific publication streams
+- **Output Location**: `/content/publications/[stream-name]/[content-title].md`
+- **Primary Application**: Create publication-ready content from research
+- **Last Updated**: 2025-03-01
+
+### [Lexicon Entry Prompt](../prompts/lexicon_entry_v1.5.md)
+- **Purpose**: Generate standardized lexicon entries
+- **Output Location**: `/content/lexicon/[term-name].md`
+- **Primary Application**: Build theological vocabulary for publications
+- **Last Updated**: 2025-03-15
+
+### [Visual Design Prompt](../prompts/visual_design_v1.1.md)
+- **Purpose**: Create visual concepts for publications
+- **Output Location**: `/design/concepts/[concept-name].md`
+- **Primary Application**: Develop visual language for the project
+- **Last Updated**: 2025-02-28
+
+### [Audio Content Prompt](../prompts/audio_content_v1.0.md)
+- **Purpose**: Create scripts for audio recording
+- **Output Location**: `/content/audio/[content-type]/[content-title].md`
+- **Primary Application**: Develop content for podcast, homilies, and audio essays
+- **Last Updated**: 2025-03-30
+
+## Strategic Planning Tools
+
+### [Content Calendar Prompt](../prompts/content_calendar_v1.4.md)
+- **Purpose**: Generate publication schedules
+- **Output Location**: `/planning/calendars/[calendar-name].md`
+- **Primary Application**: Plan content releases across streams
+- **Last Updated**: 2025-03-10
+
+### [Audience Analysis Prompt](../prompts/audience_analysis_v1.0.md)
+- **Purpose**: Analyze reader demographics and needs
+- **Output Location**: `/planning/audiences/[audience-name].md`
+- **Primary Application**: Tailor content to specific readers
+- **Last Updated**: 2025-02-01
+
+### [Multi-Channel Strategy Prompt](../prompts/multi_channel_strategy_v1.0.md)
+- **Purpose**: Develop integrated strategy across text, visual, and audio channels
+- **Output Location**: `/planning/strategies/[strategy-name].md`
+- **Primary Application**: Create coherent cross-channel user experience
+- **Last Updated**: 2025-03-30
+
+## Utility Tools
+
+### [Claude Instruction Prompt](../prompts/claude_instruction_v1.2.md)
+- **Purpose**: Generate optimized Claude prompts
+- **Output Location**: `/tools/prompts/[prompt-name].md`
+- **Primary Application**: Create new specialized tools
+- **Last Updated**: 2025-03-05
+
+### [Repository Management Script](../scripts/repo_management_v1.1.py)
+- **Purpose**: Automate repository maintenance
+- **Primary Application**: Maintain directory structure and file naming
+- **Last Updated**: 2025-02-20
+
+## Usage Workflow
+
+1. **Research Phase**
+   - Use Source Analysis Prompt to analyze individual sources
+   - Use Thematic Analysis Prompt to synthesize across sources
+   - Use Mutation Analysis Prompt to track theological mutations
+
+2. **Development Phase**
+   - Use Publication Adaptation Prompt to create stream-specific content
+   - Use Lexicon Entry Prompt to develop theological vocabulary
+   - Use Visual Design Prompt to create supporting visuals
+   - Use Audio Content Prompt to develop audio material
+
+3. **Planning Phase**
+   - Use Content Calendar Prompt to schedule publications
+   - Use Audience Analysis Prompt to tailor for specific readers
+   - Use Multi-Channel Strategy Prompt to coordinate across formats
+
+4. **Tool Development Phase**
+   - Use Claude Instruction Prompt to create new specialized tools
+   - Use Repository Management Script to maintain organization
+
+## Version History
+
+v2.2 - 2025-03-30 - Added Audio Content Prompt and Multi-Channel Strategy Prompt
+v2.1 - 2025-03-30 - Added Mark Gospel Tools
+v2.0 - 2025-03-15 - Major reorganization of tools
+v1.5 - 2025-03-01 - Added strategic planning tools
+v1.0 - 2025-02-01 - Initial index creation

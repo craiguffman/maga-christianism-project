@@ -1,0 +1,113 @@
+# MAGA Christianism Project Content Format Index
+**File Path:** `/Users/craiguffman/Library/CloudStorage/Dropbox-Personal/Mac/Documents/GitHub/maga-christianism-project/docs/indexes/content_format_index.md`
+
+---
+title: "Content Format Index"
+date: 2025-03-30
+version: 1.1
+type: reference
+status: active
+related_files:
+  - "tools/prompts/"
+tags:
+  - content_management
+  - reference
+  - project_organization
+---
+
+# Content Format Index
+
+This document catalogues all content formats used in the MAGA Christianism Project, including prompt templates, file paths, and usage instructions.
+
+## Audio Content
+
+### Mark Homilies
+- **Description:** Concise homilies (5-7 minutes) based on Mark's Gospel that connect the counter-imperial message to modern contexts
+- **Prompt Template:** `/tools/prompts/mark_homily_creation_v1.0.md`
+- **Output Location:** `/content/audio/homilies/mark/[passage-reference].md`
+- **Format:** Markdown optimized for recording in Descript
+- **Usage:** Primary audio content for podcast episodes and church contexts
+- **Word Count:** 750-1000 words
+- **Primary Mutation Focus:** Varies by passage, addresses all three mutations
+
+### Atomic Essays
+- **Description:** Ultra-short (90-second) inspirational messages that subversively challenge MAGA Christianism
+- **Prompt Template:** `/tools/prompts/mark_atomic_essay_creation_v1.0.md`
+- **Output Location:** `/content/social/atomic/mark/[passage-reference]-[key-concept].md`
+- **Format:** Markdown optimized for social media video recording
+- **Usage:** Facebook/Instagram Reels, YouTube Shorts, TikTok
+- **Word Count:** Under 150 words
+- **Primary Focus:** Pastoral encouragement with subtle theological subversion
+
+## Written Content
+
+### Book Chapters
+- **Description:** Full-length theological analysis chapters for the MAGA Christianism book
+- **Prompt Template:** `/tools/prompts/book_chapter_development_v1.0.md`
+- **Output Location:** `/content/book/chapters/[chapter-number]-[chapter-title].md`
+- **Format:** Markdown with academic citations and footnotes
+- **Usage:** Primary chapters for book publication
+- **Word Count:** 4000-6000 words
+- **Primary Mutation Focus:** Comprehensive analysis of all three mutations
+
+### Lexicon Entries
+- **Description:** Clear definitions of key terms used throughout the project
+- **Prompt Template:** `/tools/prompts/lexicon_entry_creation_v1.0.md`
+- **Output Location:** `/content/lexicon/[term-name].md`
+- **Format:** Structured definitional format with etymology and usage examples
+- **Usage:** Online reference and book appendix
+- **Word Count:** 400-600 words
+- **Primary Focus:** Educational clarity on theological concepts
+
+### Substack Articles
+- **Description:** Weekly articles that connect theological analysis to current events
+- **Prompt Template:** `/tools/prompts/substack_article_creation_v1.0.md`
+- **Output Location:** `/content/substack/[publication-date]-[article-title].md`
+- **Format:** Blog-style article with section headings and pull quotes
+- **Usage:** Weekly Substack publication
+- **Word Count:** 1500-2500 words
+- **Primary Mutation Focus:** Rotates through all three mutations
+
+## Visual Content
+
+### Teaching Slides
+- **Description:** Presentation slides for classes and workshops
+- **Prompt Template:** `/tools/prompts/teaching_slides_creation_v1.0.md`
+- **Output Location:** `/content/presentations/[topic]-slides.md`
+- **Format:** Markdown optimized for conversion to PowerPoint/Keynote
+- **Usage:** Workshops, classes, and speaking engagements
+- **Slide Count:** 20-30 slides per presentation
+- **Primary Focus:** Educational visualization of theological concepts
+
+### Infographics
+- **Description:** Single-image visual explanations of complex concepts
+- **Prompt Template:** `/tools/prompts/infographic_design_v1.0.md`
+- **Output Location:** `/content/visuals/infographics/[concept].md`
+- **Format:** Design brief with text content and layout suggestions
+- **Usage:** Social media sharing and website resources
+- **Word Count:** 100-200 words of text content
+- **Primary Focus:** Visual explanation of theological distortions
+
+## Usage Instructions
+
+1. **Selecting the Right Format:**
+   - Choose format based on audience, platform, and theological concept
+   - Consider which mutation is most relevant to the content
+   - Match format to distribution channel
+
+2. **Using Prompt Templates:**
+   - Copy the template path to your Claude conversation
+   - Fill in all required fields marked with [BRACKETS]
+   - Review generated content for theological accuracy
+   - Save to appropriate location in project structure
+
+3. **Content Scheduling:**
+   - Audio content: Weekly release schedule
+   - Atomic essays: Daily social media posting
+   - Written content: Weekly Substack publication
+   - Visual content: Bi-weekly social media distribution
+
+## Version History
+
+v1.0 - 2025-03-30 - Initial format index creation
+v1.1 - 2025-03-30 - Added Atomic Essays format

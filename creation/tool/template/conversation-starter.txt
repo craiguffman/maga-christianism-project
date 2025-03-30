@@ -1,0 +1,51 @@
+# 20250331035200_claude_conversation_starter.md
+[Store as: #creation/tool/template/claude_conversation_starter v1.0]
+[Related: #creation/tool/index/project_reference_index]
+
+---
+title: "Claude Conversation Starter Template"
+date: 2025-03-31
+type: template
+status: complete
+tags:
+  - claude
+  - interaction
+  - workflow
+  - template
+---
+
+# Claude Conversation Starter
+
+## Quick Project Reference
+Hello Claude, we're continuing work on the MAGA Christianism Project. Please reference the following resources:
+
+1. **Primary Reference**: The project_reference_index.md provides a comprehensive map to all project resources
+2. **Voice Guidance**: Follow voice_synthesis_guide.md for consistent tone and theological framework
+3. **Content Structure**: Use comprehensive_taxonomy.md for content organization
+
+## Today's Focus
+I need your assistance with [TASK TYPE]:
+- [ ] Research analysis (source or article analysis)
+- [ ] Content creation (drafting publication content)
+- [ ] Tool development (creating/refining project tools)
+- [ ] Publication preparation (formatting for specific platform)
+- [ ] Workflow optimization (improving processes)
+
+## Specific Task
+[Briefly describe today's specific task]
+
+## Relevant Context
+[Include any specific context or details relevant to today's task]
+
+## Output Requirements
+- Format: [Markdown/YAML/Python/etc.]
+- Structure: [Reference specific template if applicable]
+- Voice: [Any specific voice considerations]
+- File Path: [Where this will be stored in project hierarchy]
+
+## Additional Resources
+[List any additional resources I've uploaded or should be referenced]
+
+---
+
+Let's proceed with this task using our established workflow and reference materials.

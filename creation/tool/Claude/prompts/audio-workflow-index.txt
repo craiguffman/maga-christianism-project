@@ -1,0 +1,130 @@
+# Audio Content Workflow Index
+**File Path:** `/Users/craiguffman/Library/CloudStorage/Dropbox-Personal/Mac/Documents/GitHub/maga-christianism-project/tools/indexes/audio_workflow_index_v1.0.md`
+
+---
+title: "Audio Content Workflow Index"
+date: 2025-03-30
+version: 1.0
+type: index
+status: complete
+related_tools:
+  - "Audio content development tools"
+tags:
+  - audio_workflow
+  - descript
+  - podcast
+  - homilies
+  - voice_clone
+---
+
+# Audio Content Workflow Index
+
+## Overview
+This index catalogs all tools, templates, and workflows developed for transforming your written content into audio formats using Descript voice cloning technology. These tools enable you to extend your content reach to audio-preferring audiences while maintaining theological depth and personal voice.
+
+## Voice Training Tools
+
+### [Podcast Audio Selection Tool](../prompts/podcast_audio_selection_v1.0.md)
+- **Purpose**: Guide the selection of optimal podcast audio segments for Descript voice training
+- **Output Location**: Various audio files prepared for voice training
+- **Primary Application**: Create a natural-sounding AI voice clone
+- **Key Features**:
+  - Audio assessment guidelines
+  - Segment selection criteria
+  - Audio processing recommendations
+  - Troubleshooting solutions
+
+## Content Conversion Tools
+
+### [Mark Homily Creation Prompt](../prompts/mark_homily_creation_v1.0.md)
+- **Purpose**: Transform Mark sermon insights into concise audio homilies
+- **Output Location**: `/content/audio/homilies/mark/[passage-reference].md`
+- **Primary Application**: Create focused theological audio content
+- **Key Features**:
+  - Audio-optimized formatting
+  - Focused theological insights
+  - Contemporary application
+  - Conversational delivery style
+
+### [Essay-to-Podcast Conversion Prompt](../prompts/essay_to_podcast_v1.0.md)
+- **Purpose**: Transform written essays into podcast-ready scripts
+- **Output Location**: `/content/audio/podcasts/[stream-name]/[episode-title].md`
+- **Primary Application**: Create stream-specific podcast episodes
+- **Key Features**:
+  - Stream-specific adaptation guidelines
+  - Audio optimization techniques
+  - Show notes generation
+  - SEO and distribution guidance
+
+## Production Workflows
+
+### Voice Clone Creation Workflow
+1. **Audio Selection**: Use Podcast Audio Selection Tool to identify optimal audio segments
+2. **Audio Preparation**: Process selected segments for optimal voice training
+3. **Voice Training**: Upload prepared audio to Descript for voice clone creation
+4. **Voice Testing**: Generate test audio to evaluate and refine voice clone
+5. **Voice Settings Documentation**: Document optimal settings for different content types
+
+### Homily Production Workflow
+1. **Script Creation**: Use Mark Homily Creation Prompt to generate audio script
+2. **Audio Generation**: Use Descript voice clone to generate initial audio
+3. **Audio Refinement**: Adjust timing, emphasis, and emotion in Descript
+4. **Final Production**: Add intro/outro elements and export finished audio
+5. **Distribution**: Publish to appropriate platforms with metadata
+
+### Podcast Production Workflow
+1. **Script Adaptation**: Use Essay-to-Podcast Conversion Prompt to transform essay
+2. **Audio Generation**: Use Descript voice clone to generate initial audio
+3. **Segment Refinement**: Adjust pacing and emphasis for each podcast segment
+4. **Production Integration**: Add intro/outro music and transitions
+5. **Publication Package**: Generate show notes and distribute to podcast platforms
+
+## Descript Technical Guidelines
+
+### Voice Clone Optimization
+- **Speaking Rate**: Adjustments for different content types
+- **Emphasis Settings**: Guidelines for natural-sounding emphasis
+- **Emotion Controls**: Recommendations for appropriate emotional modulation
+- **Pronunciation Guides**: Formatting for theological and specialized terms
+
+### Audio Production Standards
+- **Intro/Outro Standards**: Consistent audio elements for branding
+- **Background Settings**: Recommendations for ambient sound levels
+- **Dynamic Range**: Guidelines for optimal listening experience
+- **Export Settings**: Technical specifications for different platforms
+
+### Quality Control Checklist
+- **Natural Pacing**: Verification of conversational rhythm
+- **Emphasis Accuracy**: Confirmation of proper word emphasis
+- **Pronunciation Review**: Check of theological and specialized terms
+- **Emotional Appropriateness**: Verification of tone matching content
+
+## Integration with Publication Streams
+
+### MAGA Christianism (Monday) - "Theological Reflections" Podcast
+- **Format**: 10-15 minute theological analysis
+- **Distinctive Elements**: Scholarly tone with accessible explanations
+- **Adaptation Focus**: Theological depth with enhanced verbal signposting
+- **Audience**: Theologically-engaged listeners seeking intellectual depth
+
+### Rooted & Reaching (Tuesday) - "Spiritual Formation" Podcast
+- **Format**: 10-15 minute personal spiritual essay
+- **Distinctive Elements**: Narrative-driven with contemplative pauses
+- **Adaptation Focus**: Enhanced storytelling elements and sensory details
+- **Audience**: Listeners seeking personal formation and spiritual practice
+
+### Theological Series (Wednesday) - "Theological Foundations" Podcast
+- **Format**: 10-15 minute theological concept exploration
+- **Distinctive Elements**: Educational structure with clear definitions
+- **Adaptation Focus**: Simplified concept explanation with examples
+- **Audience**: Listeners seeking clear understanding of theological concepts
+
+### Untold America (Thursday) - "Historical Perspectives" Podcast
+- **Format**: 10-15 minute historical exploration
+- **Distinctive Elements**: Personal discovery narrative with historical insights
+- **Adaptation Focus**: Enhanced narrative tension and revelatory elements
+- **Audience**: Listeners interested in untold American histories
+
+## Version History
+
+v1.0 - 2025-03-30 - Initial index creation

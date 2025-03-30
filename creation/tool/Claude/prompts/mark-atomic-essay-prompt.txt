@@ -1,0 +1,94 @@
+# Mark Atomic Essay Creation Prompt Template
+**File Path:** `/Users/craiguffman/Library/CloudStorage/Dropbox-Personal/Mac/Documents/GitHub/maga-christianism-project/tools/prompts/mark_atomic_essay_creation_v1.0.md`
+
+---
+title: "Mark Atomic Essay Creation Prompt Template"
+date: 2025-03-30
+version: 1.0
+type: template
+status: complete
+related_chapters:
+  - "Social media content"
+  - "Mark sermon series"
+tags:
+  - content_creation
+  - atomic_essays
+  - social_media
+  - mark_gospel
+  - claude_prompt
+---
+
+# Mark Atomic Essay Creation Prompt Template
+
+## Purpose
+This prompt template transforms insights from Mark's Gospel into concise, powerful 90-second "atomic essays" that embody Mark's subversive challenge to worldly power structures. These essays provide daily inspiration that encourages faithful resistance to distorted theology while subtly subverting MAGA Christianism's narrative.
+
+## Storage Location
+All atomic essay scripts should be stored in the following directory structure:
+- `/Users/craiguffman/Library/CloudStorage/Dropbox-Personal/Mac/Documents/GitHub/maga-christianism-project/content/social/atomic/mark/[passage-reference]-[key-concept].md`
+
+## Prompt Template
+
+```
+I need you to create a subversively inspiring 90-second atomic essay from Mark's Gospel for social media:
+
+Source Passage: [MARK_PASSAGE]
+Inspirational Focus: [SINGLE_CONCEPT_FOCUS]
+Target Platform: [FACEBOOK_REELS/YOUTUBE_SHORTS/INSTAGRAM_REELS]
+Specific Encouragement Needed: [COURAGE/PERSEVERANCE/HOPE/CLARITY/COMMUNITY]
+MAGA Narrative Being Subverted: [SPECIFIC_NARRATIVE]
+
+Please create a markdown artifact with the file path at the very top of the document:
+
+/Users/craiguffman/Library/CloudStorage/Dropbox-Personal/Mac/Documents/GitHub/maga-christianism-project/content/social/atomic/mark/[passage-reference]-[key-concept].md
+
+Then create an atomic essay with these components:
+
+# [COMPELLING_TITLE]: A [PLATFORM] Atomic Essay
+**Word Count:** [ACTUAL_WORD_COUNT]
+**Video Length:** Approximately 90 seconds
+
+---
+
+[ATOMIC_ESSAY_TEXT_WITH_VIDEO_FORMATTING]
+
+The atomic essay should include:
+
+1. **Emotional Hook** (10 seconds): A direct, heartfelt statement speaking to those caught in distorted religious narratives
+2. **Gospel Subversion** (25 seconds): How Jesus's words/actions in this passage challenged the power structures of his day
+3. **Counter-Imperial Hope** (35 seconds): How this truth empowers resistance to today's religious-political distortions
+4. **Courage Call** (20 seconds): A specific encouragement that builds resilience through subversive faithfulness
+
+Video formatting instructions:
+- Use [PAUSE Xs] to indicate brief pauses (typically 0.5-1 seconds)
+- Use [EMPHASIZE] for words that should receive vocal emphasis
+- Format for warm, pastoral delivery with prophetic undertones
+- Use direct "you" statements that speak to viewers' hearts
+- Employ the subtle subversion of Mark's narrative style
+- Keep total word count under 150 words for approximately 90 seconds
+```
+
+## Implementation Notes
+- Remember that Mark's Gospel was written during Roman occupation to subvert imperial theology
+- Draw parallels between Roman imperial cult and modern religious nationalism without explicit references
+- Use Jesus's boundary-crossing, hierarchy-challenging actions as models for today
+- Employ the same subtle subversion techniques Mark used: implication rather than declaration
+- Never explicitly name MAGA Christianism, but subvert its core theological claims
+- Structure each essay as a miniature counter-narrative to dominant religious-political messaging
+
+## Subversion Strategy
+- Redefine key terms that have been co-opted (freedom, authority, power, truth)
+- Challenge hierarchies of human value without naming specific political policies
+- Restore Jesus's solidarity with marginalized people as central to the gospel
+- Emphasize how Jesus consistently violated religious-political boundaries
+- Present the Way of Love as inherently subversive to systems of domination
+
+## Example Applications
+- Mark 1:21-28 (Jesus confronts an unclean spirit): Subvert narratives about "spiritual warfare" that demonize political opponents
+- Mark 2:13-17 (Jesus eats with tax collectors): Subvert narratives about "moral purity" that exclude marginalized communities
+- Mark 3:1-6 (Sabbath healing): Subvert narratives about religious tradition that prioritize rules over human flourishing
+- Mark 5:1-20 (Gerasene demoniac): Subvert narratives about national boundaries and who belongs in the community
+
+## Version History
+
+v1.0 - 2025-03-30 - Initial template creation
