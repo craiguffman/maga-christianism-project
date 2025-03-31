@@ -1,0 +1,56 @@
+---
+project: MAGA Christianism Book Project
+last_updated: 2024-03-19
+total_sources_analyzed: 3
+sources_remaining: 47
+primary_chapters:
+  - intro
+  - theological_framework
+  - racial_analysis
+  - political_theology
+
+# Consolidated Synthesis Notes
+
+## Thematic Mutations of MAGA Christianism
+
+### Primitive Biblicism
+- **Hermeneutical Approach**: Direct, objective extraction of biblical axioms
+- **Philosophical Limitations**: 
+  - Overly optimistic view of human divine knowledge
+  - Reduces scriptural complexity to binary distinctions
+- **Theological Distortions**:
+  - Treats Scripture as rule catalog
+  - Removes Jesus as transformative exemplar
+  - Creates static understanding of divine revelation
+- **Methodological Shortcomings**:
+  - Relies on definition and division
+  - Prioritizes generalized principles over particularity
+  - Bypasses contextual interpretation
+
+## Sources
+
+### Analyzed Sources
+- [Pettit: Just Freedom](/sources/pettit_just_freedom.md)
+- [Campbell: Beyond Justification](/sources/campbell_beyond_justification.md)
+- [Dissertation Chapter 3: Ramist Realism](/sources/dissertation_chapter_3.md)
+
+### Pending Sources
+- Hauerwas: Anticipated Contribution
+- Wells: Potential Insights
+
+## Chapter Development Notes
+
+### Primitive Biblicism Chapter
+- **Central Argument**: Expose the hermeneutical and theological distortions of Ramist-like biblical interpretation
+- **Key Sections**:
+  1. Historical Context of Ramist Realism
+  2. Philosophical Critique
+  3. Theological Implications
+  4. Alternative Hermeneutical Approach
+- **Theological Counterargument**: Scripture as transformative practice, not axiom catalog
+- **Philosophical Counterpoint**: Embrace of particularity and dialectical interpretation
+
+## Research Priorities
+- Document historical development of Ramist realism
+- Analyze theological consequences of reductive biblical interpretation
+- Develop constructive alternative hermeneutical approach

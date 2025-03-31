@@ -1,0 +1,72 @@
+flowchart TD
+    classDef foundation fill:#f9d5e5,stroke:#333,stroke-width:1px
+    classDef implementation fill:#eeac99,stroke:#333,stroke-width:1px
+    classDef narrative fill:#e06377,stroke:#333,stroke-width:1px
+    classDef engine fill:#c83349,stroke:#333,stroke-width:1px
+    classDef guardian fill:#5b9aa0,stroke:#333,stroke-width:1px
+    classDef validation fill:#d6e1c7,stroke:#333,stroke-width:1px
+    classDef social fill:#88b04b,stroke:#333,stroke-width:1px
+    
+    PB[Primitive Biblicism<br/>Epistemological Foundation] -.-> PA
+    PB -.-> BA
+    PB -.-> CS
+    PB -.-> SC
+    PB -.-> PM
+    PB -.-> TE
+    
+    PA[Practical Atheism<br/>Operational Framework] -.-> BA
+    PA -.-> CS
+    PA -.-> SC
+    PA -.-> PM
+    PA -.-> TE
+    
+    BA[Binary Apocalypticism<br/>Narrative Framework] -.-> PB
+    BA -.-> PA
+    BA -.-> CS
+    BA -.-> SC
+    BA -.-> PM
+    BA -.-> TE
+    
+    CS[Contractual Soteriology<br/>Theological Engine] -.-> PB
+    CS -.-> PA
+    CS -.-> BA
+    CS -.-> SC
+    CS -.-> PM
+    CS -.-> TE
+    
+    SC[Sanctified Certainty<br/>Epistemic Guardian] -.-> PB
+    SC -.-> PA
+    SC -.-> BA
+    SC -.-> CS
+    SC -.-> PM
+    SC -.-> TE
+    
+    PM[Prosperity Materialism<br/>Material Validation] -.-> PB
+    PM -.-> PA
+    PM -.-> BA
+    PM -.-> CS
+    PM -.-> SC
+    PM -.-> TE
+    
+    TE[Tribal Ecclesiology<br/>Social Embodiment] -.-> PB
+    TE -.-> PA
+    TE -.-> BA
+    TE -.-> CS
+    TE -.-> SC
+    TE -.-> PM
+    
+    RFT[Relational Freedom<br/>Theology] --x PB
+    RFT --x PA
+    RFT --x BA
+    RFT --x CS
+    RFT --x SC
+    RFT --x PM
+    RFT --x TE
+    
+    PB:::foundation
+    PA:::implementation
+    BA:::narrative
+    CS:::engine
+    SC:::guardian
+    PM:::validation
+    TE:::social
